@@ -1,0 +1,11 @@
+TenComment: 0/987
+Kitune: 0/185
+KRep: 0/591
+KusoComment: 0/2208
+Line: 0/1506 (0. gün 950. satırdan başlıyo)
+SystemText: 0/431
+MobComment: 0/242
+Tweet: 0/401
+Toplam: 0/6551
+
+sonra bakılacaklar: TenComment[2] [12]
