@@ -1,0 +1,38 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 692
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2464
+ 1 string m_Name = ""
+ 0 Entry m_Delegates
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 Entry data
+     0 int eventID = 2
+     0 TriggerEvent callback
+      0 PersistentCallGroup m_PersistentCalls
+       0 PersistentCall m_Calls
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 PersistentCall data
+           0 PPtr<$Object> m_Target
+            0 int m_FileID = 0
+            0 SInt64 m_PathID = 1552
+           1 string m_TargetAssemblyTypeName = "UnityEngine.Rendering.UI.DebugUIHandlerPanel, Unity.RenderPipelines.Core.Runtime"
+           1 string m_MethodName = "OnScrollbarClicked"
+           0 int m_Mode = 1
+           0 ArgumentCache m_Arguments
+            0 PPtr<$Object> m_ObjectArgument
+             0 int m_FileID = 0
+             0 SInt64 m_PathID = 0
+            1 string m_ObjectArgumentAssemblyTypeName = "UnityEngine.Object, UnityEngine"
+            0 int m_IntArgument = 0
+            0 float m_FloatArgument = 0
+            1 string m_StringArgument = ""
+            1 UInt8 m_BoolArgument = 0
+           0 int m_CallState = 2

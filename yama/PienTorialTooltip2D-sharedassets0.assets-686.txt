@@ -1,0 +1,39 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 299
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 588
+ 1 string m_Name = ""
+ 0 PPtr<$SpriteRenderer> icon
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$TMP_Text> speaker
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$TMP_Text> contentText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 723
+ 0 PPtr<$Sprite> osIcon
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 272
+ 0 PPtr<$Sprite> ameIcon
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 272
+ 0 PPtr<$RectTransform> rect
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 411
+ 0 PPtr<$RectTransform> baloonRect
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 454
+ 0 PPtr<$RectTransform> leftUp
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 456
+ 0 PPtr<$RectTransform> rightDown
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 466
+ 0 PPtr<$Fader2D> fader2D
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 669

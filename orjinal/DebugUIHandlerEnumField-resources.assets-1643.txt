@@ -1,0 +1,31 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 646
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 267
+ 1 string m_Name = ""
+ 0 Color colorDefault
+  0 float r = 0.8
+  0 float g = 0.8
+  0 float b = 0.8
+  0 float a = 1
+ 0 Color colorSelected
+  0 float r = 0.25
+  0 float g = 0.65
+  0 float b = 0.8
+  0 float a = 1
+ 0 PPtr<$Text> nextButtonText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1751
+ 0 PPtr<$Text> previousButtonText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1903
+ 0 PPtr<$Text> nameLabel
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1705
+ 0 PPtr<$Text> valueLabel
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1646

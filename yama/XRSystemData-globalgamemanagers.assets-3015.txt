@@ -1,0 +1,16 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 652
+ 1 string m_Name = "XRSystemData"
+ 0 ShaderResources shaders
+  0 PPtr<$Shader> xrOcclusionMeshPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 79
+  0 PPtr<$Shader> xrMirrorViewPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 100

@@ -1,0 +1,88 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 287
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2358
+ 1 string m_Name = ""
+ 0 PPtr<$Texture2D> handCursor
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$Button> _MovableGrabber
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 694
+ 0 PPtr<$Button> _cover
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 758
+ 0 int _firstWidth = 600
+ 0 int _firstHeight = 600
+ 0 PPtr<$Button> _leftBottomPoint
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 766
+ 0 PPtr<$Button> _rightBottomPoint
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 687
+ 0 PPtr<$Button> _rightTopPoint
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 764
+ 0 PPtr<$Button> _leftTopPoint
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 688
+ 0 PPtr<$Button> _BottomEdge
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 719
+ 0 PPtr<$Button> _RightEdge
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 696
+ 0 PPtr<$Button> _LeftEdge
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 759
+ 0 PPtr<$Button> _TopEdge
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 676
+ 0 PPtr<$Texture2D> _horizontal
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$Texture2D> _vertical
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$Texture2D> _diagonal1
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$Texture2D> _diagonal2
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$GameObject> edges
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 300
+ 0 PPtr<$Button> close
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 663
+ 0 PPtr<$Button> minimize
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 662
+ 0 PPtr<$Button> maximize
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 661
+ 1 UInt8 _closable = 1
+ 0 PPtr<$Sprite> _active
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 220
+ 0 PPtr<$Sprite> _inActive
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 221
+ 0 PPtr<$TMP_Text> title
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 681
+ 0 PPtr<$Canvas> _canvas
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 408
+ 0 PPtr<$Transform> _nakamiParent
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 423
+ 0 PPtr<$CanvasGroup> contents
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 472
+ 1 UInt8 fixPostion = 0

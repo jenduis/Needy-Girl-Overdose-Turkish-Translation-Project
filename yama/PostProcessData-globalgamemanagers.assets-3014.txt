@@ -1,0 +1,236 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1117
+ 1 string m_Name = "PostProcessData"
+ 0 ShaderResources shaders
+  0 PPtr<$Shader> stopNanPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 68
+  0 PPtr<$Shader> subpixelMorphologicalAntialiasingPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 85
+  0 PPtr<$Shader> gaussianDepthOfFieldPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 82
+  0 PPtr<$Shader> bokehDepthOfFieldPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 73
+  0 PPtr<$Shader> cameraMotionBlurPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 71
+  0 PPtr<$Shader> paniniProjectionPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 93
+  0 PPtr<$Shader> lutBuilderLdrPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 86
+  0 PPtr<$Shader> lutBuilderHdrPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 108
+  0 PPtr<$Shader> bloomPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 83
+  0 PPtr<$Shader> temporalAntialiasingPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 69
+  0 PPtr<$Shader> LensFlareDataDrivenPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 87
+  0 PPtr<$Shader> scalingSetupPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 105
+  0 PPtr<$Shader> easuPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 80
+  0 PPtr<$Shader> uberPostPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 104
+  0 PPtr<$Shader> finalPostPassPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 96
+ 0 TextureResources textures
+  0 vector blueNoise16LTex
+   1 Array Array (32 items)
+    0 int size = 32
+    [0]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 20
+    [1]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 36
+    [2]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 6
+    [3]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 19
+    [4]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 10
+    [5]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 41
+    [6]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 11
+    [7]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 29
+    [8]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 42
+    [9]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 3
+    [10]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 22
+    [11]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 47
+    [12]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 28
+    [13]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 37
+    [14]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 12
+    [15]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 13
+    [16]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 24
+    [17]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 7
+    [18]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 34
+    [19]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 35
+    [20]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 31
+    [21]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 38
+    [22]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 44
+    [23]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 5
+    [24]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 25
+    [25]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 9
+    [26]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 32
+    [27]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 30
+    [28]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 49
+    [29]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 46
+    [30]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 21
+    [31]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 8
+  0 vector filmGrainTex
+   1 Array Array (10 items)
+    0 int size = 10
+    [0]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 18
+    [1]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 39
+    [2]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 4
+    [3]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 43
+    [4]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 23
+    [5]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 27
+    [6]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 14
+    [7]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 26
+    [8]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 48
+    [9]
+     0 PPtr<$Texture2D> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 16
+  0 PPtr<$Texture2D> smaaAreaTex
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 33
+  0 PPtr<$Texture2D> smaaSearchTex
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 15

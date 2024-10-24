@@ -1,0 +1,48 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2982
+ 1 string m_Name = "DOTweenSettings"
+ 1 UInt8 useSafeMode = 1
+ 0 SafeModeOptions safeModeOptions
+  0 int logBehaviour = 2
+  0 int nestedTweenFailureBehaviour = 1
+ 0 float timeScale = 1
+ 1 UInt8 useSmoothDeltaTime = 0
+ 0 float maxSmoothUnscaledTime = 0.15
+ 0 int rewindCallbackMode = 0
+ 1 UInt8 showUnityEditorReport = 0
+ 0 int logBehaviour = 0
+ 1 UInt8 drawGizmos = 1
+ 1 UInt8 defaultRecyclable = 1
+ 0 int defaultAutoPlay = 0
+ 0 int defaultUpdateType = 0
+ 1 UInt8 defaultTimeScaleIndependent = 0
+ 0 int defaultEaseType = 6
+ 0 float defaultEaseOvershootOrAmplitude = 1.70158
+ 0 float defaultEasePeriod = 0
+ 1 UInt8 defaultAutoKill = 1
+ 0 int defaultLoopType = 0
+ 1 UInt8 debugMode = 1
+ 1 UInt8 debugStoreTargetId = 0
+ 1 UInt8 showPreviewPanel = 1
+ 0 int storeSettingsLocation = 0
+ 0 ModulesSetup modules
+  1 UInt8 showPanel = 0
+  1 UInt8 audioEnabled = 1
+  1 UInt8 physicsEnabled = 1
+  1 UInt8 physics2DEnabled = 1
+  1 UInt8 spriteEnabled = 1
+  1 UInt8 uiEnabled = 1
+  1 UInt8 textMeshProEnabled = 1
+  1 UInt8 tk2DEnabled = 0
+  1 UInt8 deAudioEnabled = 1
+  1 UInt8 deUnityExtendedEnabled = 1
+  1 UInt8 epoOutlineEnabled = 0
+ 1 UInt8 createASMDEF = 1
+ 1 UInt8 showPlayingTweens = 0
+ 1 UInt8 showPausedTweens = 0

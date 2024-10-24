@@ -1,0 +1,540 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 457
+ 1 string m_Name = "StampTypeToData"
+ 0 StampTypeToData stampTypeToData
+  1 Array Array (16 items)
+   0 int size = 16
+   [0]
+    0 StampTypeToData data
+     0 int type = 0
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 414
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 360
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 318
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 483
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 346
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 429
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 468
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 339
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 329
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 325
+   [1]
+    0 StampTypeToData data
+     0 int type = 1
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 427
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 363
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 331
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 437
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 299
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 444
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 362
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 401
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 404
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 308
+   [2]
+    0 StampTypeToData data
+     0 int type = 2
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 354
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 348
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 435
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 376
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 369
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 381
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 452
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 302
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 466
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 455
+   [3]
+    0 StampTypeToData data
+     0 int type = 3
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 420
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 309
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 355
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 449
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 422
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 461
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 310
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 358
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 314
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 393
+   [4]
+    0 StampTypeToData data
+     0 int type = 4
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 379
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 370
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 333
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 390
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 327
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 419
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 303
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 306
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 372
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 428
+   [5]
+    0 StampTypeToData data
+     0 int type = 5
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 367
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 432
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 315
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 380
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 447
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 448
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 387
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 368
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 458
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 415
+   [6]
+    0 StampTypeToData data
+     0 int type = 6
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 311
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 375
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 371
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 416
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 351
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 316
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 383
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 336
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 334
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 330
+   [7]
+    0 StampTypeToData data
+     0 int type = 7
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 301
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 395
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 394
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 313
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 418
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 406
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 320
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 374
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 481
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 469
+   [8]
+    0 StampTypeToData data
+     0 int type = 9
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 398
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 398
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 398
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 398
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 398
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 460
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 391
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 341
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 478
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 386
+   [9]
+    0 StampTypeToData data
+     0 int type = 10
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 392
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 392
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 392
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 392
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 392
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 300
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 324
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 409
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 397
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 440
+   [10]
+    0 StampTypeToData data
+     0 int type = 11
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 459
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 335
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 457
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 319
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 373
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 400
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 296
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 463
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 317
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 389
+   [11]
+    0 StampTypeToData data
+     0 int type = 12
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 403
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 328
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 307
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 353
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 410
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 424
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 475
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 356
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 388
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 326
+   [12]
+    0 StampTypeToData data
+     0 int type = 13
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 344
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 411
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 378
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 442
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 408
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 453
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 476
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 450
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 446
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 349
+   [13]
+    0 StampTypeToData data
+     0 int type = 15
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 364
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 364
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 364
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 364
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 364
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 439
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 462
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 433
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 474
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 396
+   [14]
+    0 StampTypeToData data
+     0 int type = 16
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 407
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 407
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 407
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 407
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 407
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 399
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 472
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 332
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 402
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 297
+   [15]
+    0 StampTypeToData data
+     0 int type = 14
+     0 PPtr<$Sprite> JpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 482
+     0 PPtr<$Sprite> EnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 451
+     0 PPtr<$Sprite> CnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 471
+     0 PPtr<$Sprite> KoImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 465
+     0 PPtr<$Sprite> TwImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 382
+     0 PPtr<$Sprite> VnImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 322
+     0 PPtr<$Sprite> FrImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 347
+     0 PPtr<$Sprite> ItImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 445
+     0 PPtr<$Sprite> GeImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 343
+     0 PPtr<$Sprite> SpImage
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 430

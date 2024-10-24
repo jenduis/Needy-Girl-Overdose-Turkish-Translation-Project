@@ -1,0 +1,40 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 345
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 715
+ 1 string m_Name = ""
+ 0 LanguageFontData _fontDatas
+  1 Array Array (4 items)
+   0 int size = 4
+   [0]
+    0 LanguageFontData data
+     0 int _targetLanguage = 1
+     0 PPtr<$TMP_FontAsset> _languageFont
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 655
+     0 float _fontSize = 20
+   [1]
+    0 LanguageFontData data
+     0 int _targetLanguage = 2
+     0 PPtr<$TMP_FontAsset> _languageFont
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 655
+     0 float _fontSize = 20
+   [2]
+    0 LanguageFontData data
+     0 int _targetLanguage = 4
+     0 PPtr<$TMP_FontAsset> _languageFont
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 655
+     0 float _fontSize = 20
+   [3]
+    0 LanguageFontData data
+     0 int _targetLanguage = 3
+     0 PPtr<$TMP_FontAsset> _languageFont
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 656
+     0 float _fontSize = 17

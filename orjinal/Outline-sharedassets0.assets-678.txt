@@ -1,0 +1,18 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 343
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2656
+ 1 string m_Name = ""
+ 0 Color m_EffectColor
+  0 float r = 1
+  0 float g = 1
+  0 float b = 1
+  0 float a = 1
+ 0 Vector2 m_EffectDistance
+  0 float x = 2
+  0 float y = 2
+ 1 UInt8 m_UseGraphicAlpha = 1

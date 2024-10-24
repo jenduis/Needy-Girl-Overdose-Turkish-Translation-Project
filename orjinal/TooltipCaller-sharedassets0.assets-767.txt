@@ -1,0 +1,23 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 307
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1661
+ 1 string m_Name = ""
+ 1 UInt8 isShowTooltip = 0
+ 1 UInt8 isTutorial = 0
+ 1 UInt8 isHoming = 0
+ 0 int type = 999
+ 1 string textNakami = ""
+ 0 PPtr<$Button> target
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 750
+ 0 Vector2 colliderSize
+  0 float x = 35
+  0 float y = 35
+ 0 Vector2 colliderOffset
+  0 float x = 0
+  0 float y = 0

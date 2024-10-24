@@ -1,0 +1,4421 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2988
+ 1 string m_Name = "SaitekProFlightThrottleQuadrant"
+ 1 string controllerName = "Saitek Pro Flight Quadrant"
+ 1 string editorControllerName = ""
+ 1 string description = ""
+ 1 string controllerGuid = "5623cc13-d2b1-4f5e-9b87-d3a1840d3040"
+ 0 string templateGuids
+  1 Array Array (0 items)
+   0 int size = 0
+ 1 UInt8 hideInLists = 0
+ 0 vector joystickTypes
+  1 Array Array (2 items)
+   0 int size = 2
+   [0]
+    0 int data = 24
+   [1]
+    0 int data = 20
+ 0 ControllerElementIdentifier elementIdentifiers
+  1 Array Array (12 items)
+   0 int size = 12
+   [0]
+    0 ControllerElementIdentifier data
+     0 int _id = 0
+     1 string _name = "Lever 1"
+     1 string _positiveName = "Lever 1 Up"
+     1 string _negativeName = "Lever 1 Down"
+     0 int _elementType = 0
+     0 int _compoundElementType = 0
+   [1]
+    0 ControllerElementIdentifier data
+     0 int _id = 1
+     1 string _name = "Lever 2"
+     1 string _positiveName = "Lever 2 Up"
+     1 string _negativeName = "Lever 2 Down"
+     0 int _elementType = 0
+     0 int _compoundElementType = 0
+   [2]
+    0 ControllerElementIdentifier data
+     0 int _id = 2
+     1 string _name = "Lever 3"
+     1 string _positiveName = "Lever 3 Up"
+     1 string _negativeName = "Lever 3 Down"
+     0 int _elementType = 0
+     0 int _compoundElementType = 0
+   [3]
+    0 ControllerElementIdentifier data
+     0 int _id = 3
+     1 string _name = "T1"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     0 int _compoundElementType = 0
+   [4]
+    0 ControllerElementIdentifier data
+     0 int _id = 4
+     1 string _name = "T2"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     0 int _compoundElementType = 0
+   [5]
+    0 ControllerElementIdentifier data
+     0 int _id = 5
+     1 string _name = "T3"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     0 int _compoundElementType = 0
+   [6]
+    0 ControllerElementIdentifier data
+     0 int _id = 6
+     1 string _name = "T4"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     0 int _compoundElementType = 0
+   [7]
+    0 ControllerElementIdentifier data
+     0 int _id = 7
+     1 string _name = "T5"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     0 int _compoundElementType = 0
+   [8]
+    0 ControllerElementIdentifier data
+     0 int _id = 8
+     1 string _name = "T6"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     0 int _compoundElementType = 0
+   [9]
+    0 ControllerElementIdentifier data
+     0 int _id = 9
+     1 string _name = "Lever 1 Down"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     0 int _compoundElementType = 0
+   [10]
+    0 ControllerElementIdentifier data
+     0 int _id = 10
+     1 string _name = "Lever 2 Down"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     0 int _compoundElementType = 0
+   [11]
+    0 ControllerElementIdentifier data
+     0 int _id = 11
+     1 string _name = "Lever 3 Down"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     0 int _compoundElementType = 0
+ 0 CompoundElement compoundElements
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 Platform_DirectInput directInput
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   0 int hatCount = 0
+   0 ElementCount alternateElementCounts
+    1 Array Array (0 items)
+     0 int size = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string productGUID
+    1 Array Array (0 items)
+     0 int size = 0
+   0 vector productId
+    1 Array Array (0 items)
+     0 int size = 0
+   0 int deviceType = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_DirectInput_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_RawInput rawInput
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 3
+   0 int buttonCount = 9
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   0 int hatCount = 0
+   0 ElementCount alternateElementCounts
+    1 Array Array (0 items)
+     0 int size = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      1 string data = "Saitek Pro Flight Quadrant"
+   0 string productGUID
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      1 string data = "0c2d06a3"
+   0 vector productId
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      0 int data = 3117
+   0 int deviceType = 20
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (3 items)
+     0 int size = 3
+     [0]
+      0 Axis data
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int elementIdentifier = 0
+       0 int sourceType = 1
+       0 int sourceAxis = 1
+       0 int sourceAxisRange = 0
+       1 UInt8 invert = 1
+       0 float axisDeadZone = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 int sourceButton = 0
+       0 int buttonAxisContribution = 0
+       0 int sourceHat = 0
+       0 int sourceHatDirection = 0
+       0 int sourceHatRange = 0
+       0 int sourceOtherAxis = 0
+     [1]
+      0 Axis data
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int elementIdentifier = 1
+       0 int sourceType = 1
+       0 int sourceAxis = 2
+       0 int sourceAxisRange = 0
+       1 UInt8 invert = 1
+       0 float axisDeadZone = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 int sourceButton = 0
+       0 int buttonAxisContribution = 0
+       0 int sourceHat = 0
+       0 int sourceHatDirection = 0
+       0 int sourceHatRange = 0
+       0 int sourceOtherAxis = 0
+     [2]
+      0 Axis data
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int elementIdentifier = 2
+       0 int sourceType = 1
+       0 int sourceAxis = 3
+       0 int sourceAxisRange = 0
+       1 UInt8 invert = 1
+       0 float axisDeadZone = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 int sourceButton = 0
+       0 int buttonAxisContribution = 0
+       0 int sourceHat = 0
+       0 int sourceHatDirection = 0
+       0 int sourceHatRange = 0
+       0 int sourceOtherAxis = 0
+   0 Button buttons
+    1 Array Array (9 items)
+     0 int size = 9
+     [0]
+      0 Button data
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int elementIdentifier = 3
+       0 int sourceType = 0
+       0 int sourceButton = 0
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+       0 int sourceOtherAxis = 0
+     [1]
+      0 Button data
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int elementIdentifier = 4
+       0 int sourceType = 0
+       0 int sourceButton = 1
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+       0 int sourceOtherAxis = 0
+     [2]
+      0 Button data
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int elementIdentifier = 5
+       0 int sourceType = 0
+       0 int sourceButton = 2
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+       0 int sourceOtherAxis = 0
+     [3]
+      0 Button data
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int elementIdentifier = 6
+       0 int sourceType = 0
+       0 int sourceButton = 3
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+       0 int sourceOtherAxis = 0
+     [4]
+      0 Button data
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int elementIdentifier = 7
+       0 int sourceType = 0
+       0 int sourceButton = 4
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+       0 int sourceOtherAxis = 0
+     [5]
+      0 Button data
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int elementIdentifier = 8
+       0 int sourceType = 0
+       0 int sourceButton = 5
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+       0 int sourceOtherAxis = 0
+     [6]
+      0 Button data
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int elementIdentifier = 9
+       0 int sourceType = 0
+       0 int sourceButton = 6
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+       0 int sourceOtherAxis = 0
+     [7]
+      0 Button data
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int elementIdentifier = 10
+       0 int sourceType = 0
+       0 int sourceButton = 7
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+       0 int sourceOtherAxis = 0
+     [8]
+      0 Button data
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int elementIdentifier = 11
+       0 int sourceType = 0
+       0 int sourceButton = 8
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+       0 int sourceOtherAxis = 0
+  0 Platform_RawInput_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_XInput xInput
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   0 vector subType
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_XInput_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_OSX osx
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 3
+   0 int buttonCount = 9
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   0 int hatCount = 0
+   0 ElementCount alternateElementCounts
+    1 Array Array (0 items)
+     0 int size = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      1 string data = "Saitek Pro Flight Quadrant"
+   0 string manufacturer
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      1 string data = "Saitek"
+   0 vector productId
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      0 int data = 3117
+   0 vector vendorId
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      0 int data = 1699
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (3 items)
+     0 int size = 3
+     [0]
+      0 Axis data
+       0 int elementIdentifier = 0
+       0 int sourceType = 1
+       0 int sourceStick = 0
+       0 int sourceAxis = 1
+       0 int sourceOtherAxis = 0
+       0 int sourceAxisRange = 0
+       1 UInt8 invert = 1
+       0 float axisDeadZone = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+       0 int sourceButton = 0
+       0 int buttonAxisContribution = 0
+       0 int sourceHat = 0
+       0 int sourceHatDirection = 0
+       0 int sourceHatRange = 0
+     [1]
+      0 Axis data
+       0 int elementIdentifier = 1
+       0 int sourceType = 1
+       0 int sourceStick = 0
+       0 int sourceAxis = 2
+       0 int sourceOtherAxis = 0
+       0 int sourceAxisRange = 0
+       1 UInt8 invert = 1
+       0 float axisDeadZone = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+       0 int sourceButton = 0
+       0 int buttonAxisContribution = 0
+       0 int sourceHat = 0
+       0 int sourceHatDirection = 0
+       0 int sourceHatRange = 0
+     [2]
+      0 Axis data
+       0 int elementIdentifier = 2
+       0 int sourceType = 1
+       0 int sourceStick = 0
+       0 int sourceAxis = 3
+       0 int sourceOtherAxis = 0
+       0 int sourceAxisRange = 0
+       1 UInt8 invert = 1
+       0 float axisDeadZone = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+       0 int sourceButton = 0
+       0 int buttonAxisContribution = 0
+       0 int sourceHat = 0
+       0 int sourceHatDirection = 0
+       0 int sourceHatRange = 0
+   0 Button buttons
+    1 Array Array (9 items)
+     0 int size = 9
+     [0]
+      0 Button data
+       0 int elementIdentifier = 3
+       0 int sourceType = 0
+       0 int sourceButton = 0
+       0 int sourceStick = 0
+       0 int sourceAxis = 0
+       0 int sourceOtherAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [1]
+      0 Button data
+       0 int elementIdentifier = 4
+       0 int sourceType = 0
+       0 int sourceButton = 1
+       0 int sourceStick = 0
+       0 int sourceAxis = 0
+       0 int sourceOtherAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [2]
+      0 Button data
+       0 int elementIdentifier = 5
+       0 int sourceType = 0
+       0 int sourceButton = 2
+       0 int sourceStick = 0
+       0 int sourceAxis = 0
+       0 int sourceOtherAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [3]
+      0 Button data
+       0 int elementIdentifier = 6
+       0 int sourceType = 0
+       0 int sourceButton = 3
+       0 int sourceStick = 0
+       0 int sourceAxis = 0
+       0 int sourceOtherAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [4]
+      0 Button data
+       0 int elementIdentifier = 7
+       0 int sourceType = 0
+       0 int sourceButton = 4
+       0 int sourceStick = 0
+       0 int sourceAxis = 0
+       0 int sourceOtherAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [5]
+      0 Button data
+       0 int elementIdentifier = 8
+       0 int sourceType = 0
+       0 int sourceButton = 5
+       0 int sourceStick = 0
+       0 int sourceAxis = 0
+       0 int sourceOtherAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [6]
+      0 Button data
+       0 int elementIdentifier = 9
+       0 int sourceType = 0
+       0 int sourceButton = 6
+       0 int sourceStick = 0
+       0 int sourceAxis = 0
+       0 int sourceOtherAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [7]
+      0 Button data
+       0 int elementIdentifier = 10
+       0 int sourceType = 0
+       0 int sourceButton = 7
+       0 int sourceStick = 0
+       0 int sourceAxis = 0
+       0 int sourceOtherAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [8]
+      0 Button data
+       0 int elementIdentifier = 11
+       0 int sourceType = 0
+       0 int sourceButton = 8
+       0 int sourceStick = 0
+       0 int sourceAxis = 0
+       0 int sourceOtherAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+  0 Platform_OSX_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Linux linux
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 3
+   0 int buttonCount = 9
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   0 int hatCount = 0
+   0 ElementCount alternateElementCounts
+    1 Array Array (0 items)
+     0 int size = 0
+   1 UInt8 manufacturer_useRegex = 0
+   1 UInt8 productName_useRegex = 0
+   1 UInt8 systemName_useRegex = 0
+   0 string manufacturer
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string productName
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      1 string data = "Saitek Pro Flight Quadrant"
+   0 string systemName
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string productGUID
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      1 string data = "0c2d06a3"
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (3 items)
+     0 int size = 3
+     [0]
+      0 Axis data
+       0 int elementIdentifier = 0
+       0 int sourceType = 1
+       0 int sourceAxis = 0
+       0 int sourceAxisRange = 0
+       1 UInt8 invert = 1
+       0 float axisDeadZone = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+       0 int sourceButton = 0
+       0 int buttonAxisContribution = 0
+       0 int sourceHat = 0
+       0 int sourceHatDirection = 0
+       0 int sourceHatRange = 0
+     [1]
+      0 Axis data
+       0 int elementIdentifier = 1
+       0 int sourceType = 1
+       0 int sourceAxis = 1
+       0 int sourceAxisRange = 0
+       1 UInt8 invert = 1
+       0 float axisDeadZone = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+       0 int sourceButton = 0
+       0 int buttonAxisContribution = 0
+       0 int sourceHat = 0
+       0 int sourceHatDirection = 0
+       0 int sourceHatRange = 0
+     [2]
+      0 Axis data
+       0 int elementIdentifier = 2
+       0 int sourceType = 1
+       0 int sourceAxis = 2
+       0 int sourceAxisRange = 0
+       1 UInt8 invert = 1
+       0 float axisDeadZone = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+       0 int sourceButton = 0
+       0 int buttonAxisContribution = 0
+       0 int sourceHat = 0
+       0 int sourceHatDirection = 0
+       0 int sourceHatRange = 0
+   0 Button buttons
+    1 Array Array (9 items)
+     0 int size = 9
+     [0]
+      0 Button data
+       0 int elementIdentifier = 3
+       0 int sourceType = 0
+       0 int sourceButton = 0
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [1]
+      0 Button data
+       0 int elementIdentifier = 4
+       0 int sourceType = 0
+       0 int sourceButton = 1
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [2]
+      0 Button data
+       0 int elementIdentifier = 5
+       0 int sourceType = 0
+       0 int sourceButton = 2
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [3]
+      0 Button data
+       0 int elementIdentifier = 6
+       0 int sourceType = 0
+       0 int sourceButton = 3
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [4]
+      0 Button data
+       0 int elementIdentifier = 7
+       0 int sourceType = 0
+       0 int sourceButton = 4
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [5]
+      0 Button data
+       0 int elementIdentifier = 8
+       0 int sourceType = 0
+       0 int sourceButton = 5
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [6]
+      0 Button data
+       0 int elementIdentifier = 9
+       0 int sourceType = 0
+       0 int sourceButton = 6
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [7]
+      0 Button data
+       0 int elementIdentifier = 10
+       0 int sourceType = 0
+       0 int sourceButton = 7
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [8]
+      0 Button data
+       0 int elementIdentifier = 11
+       0 int sourceType = 0
+       0 int sourceButton = 8
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+  0 Platform_Linux_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_WindowsUWP windowsUWP
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 3
+   0 int buttonCount = 9
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   0 int hatCount = 0
+   0 ElementCount alternateElementCounts
+    1 Array Array (0 items)
+     0 int size = 0
+   1 UInt8 manufacturer_useRegex = 0
+   1 UInt8 productName_useRegex = 0
+   0 string manufacturer
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string productName
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      1 string data = "Saitek Pro Flight Quadrant"
+   0 string productGUID
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      1 string data = "0c2d06a3"
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (3 items)
+     0 int size = 3
+     [0]
+      0 Axis data
+       0 int elementIdentifier = 0
+       0 int sourceType = 1
+       0 int sourceAxis = 0
+       0 int sourceAxisRange = 0
+       1 UInt8 invert = 1
+       0 float axisDeadZone = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+       0 int sourceButton = 0
+       0 int buttonAxisContribution = 0
+       0 int sourceHat = 0
+       0 int sourceHatDirection = 0
+       0 int sourceHatRange = 0
+     [1]
+      0 Axis data
+       0 int elementIdentifier = 1
+       0 int sourceType = 1
+       0 int sourceAxis = 1
+       0 int sourceAxisRange = 0
+       1 UInt8 invert = 1
+       0 float axisDeadZone = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+       0 int sourceButton = 0
+       0 int buttonAxisContribution = 0
+       0 int sourceHat = 0
+       0 int sourceHatDirection = 0
+       0 int sourceHatRange = 0
+     [2]
+      0 Axis data
+       0 int elementIdentifier = 2
+       0 int sourceType = 1
+       0 int sourceAxis = 2
+       0 int sourceAxisRange = 0
+       1 UInt8 invert = 1
+       0 float axisDeadZone = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+       0 int sourceButton = 0
+       0 int buttonAxisContribution = 0
+       0 int sourceHat = 0
+       0 int sourceHatDirection = 0
+       0 int sourceHatRange = 0
+   0 Button buttons
+    1 Array Array (9 items)
+     0 int size = 9
+     [0]
+      0 Button data
+       0 int elementIdentifier = 3
+       0 int sourceType = 0
+       0 int sourceButton = 0
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [1]
+      0 Button data
+       0 int elementIdentifier = 4
+       0 int sourceType = 0
+       0 int sourceButton = 1
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [2]
+      0 Button data
+       0 int elementIdentifier = 5
+       0 int sourceType = 0
+       0 int sourceButton = 2
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [3]
+      0 Button data
+       0 int elementIdentifier = 6
+       0 int sourceType = 0
+       0 int sourceButton = 3
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [4]
+      0 Button data
+       0 int elementIdentifier = 7
+       0 int sourceType = 0
+       0 int sourceButton = 4
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [5]
+      0 Button data
+       0 int elementIdentifier = 8
+       0 int sourceType = 0
+       0 int sourceButton = 5
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [6]
+      0 Button data
+       0 int elementIdentifier = 9
+       0 int sourceType = 0
+       0 int sourceButton = 6
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [7]
+      0 Button data
+       0 int elementIdentifier = 10
+       0 int sourceType = 0
+       0 int sourceButton = 7
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [8]
+      0 Button data
+       0 int elementIdentifier = 11
+       0 int sourceType = 0
+       0 int sourceButton = 8
+       0 int sourceAxis = 0
+       0 int sourceAxisPole = 0
+       0 float axisDeadZone = 0
+       0 int sourceHat = 0
+       0 int sourceHatType = 0
+       0 int sourceHatDirection = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+  0 Platform_WindowsUWP_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Fallback fallback_Windows
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      1 string data = "Saitek Pro Flight Quadrant"
+   1 UInt8 matchUnityVersion = 0
+   1 string matchUnityVersion_min = ""
+   1 string matchUnityVersion_max = ""
+   1 UInt8 matchSysVersion = 0
+   1 string matchSysVersion_min = ""
+   1 string matchSysVersion_max = ""
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (3 items)
+     0 int size = 3
+     [0]
+      0 Axis data
+       0 int elementIdentifier = 0
+       0 int sourceType = 1
+       0 int sourceAxis = 1
+       0 float axisDeadZone = 0
+       0 int sourceButton = 0
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 invert = 1
+       0 int sourceAxisRange = 0
+       0 int buttonAxisContribution = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+     [1]
+      0 Axis data
+       0 int elementIdentifier = 1
+       0 int sourceType = 1
+       0 int sourceAxis = 2
+       0 float axisDeadZone = 0
+       0 int sourceButton = 0
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 invert = 1
+       0 int sourceAxisRange = 0
+       0 int buttonAxisContribution = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+     [2]
+      0 Axis data
+       0 int elementIdentifier = 2
+       0 int sourceType = 1
+       0 int sourceAxis = 3
+       0 float axisDeadZone = 0
+       0 int sourceButton = 0
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 invert = 1
+       0 int sourceAxisRange = 0
+       0 int buttonAxisContribution = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+   0 Button buttons
+    1 Array Array (9 items)
+     0 int size = 9
+     [0]
+      0 Button data
+       0 int elementIdentifier = 3
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 1
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [1]
+      0 Button data
+       0 int elementIdentifier = 4
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 2
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [2]
+      0 Button data
+       0 int elementIdentifier = 5
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 3
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [3]
+      0 Button data
+       0 int elementIdentifier = 6
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 4
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [4]
+      0 Button data
+       0 int elementIdentifier = 7
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 5
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [5]
+      0 Button data
+       0 int elementIdentifier = 8
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 6
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [6]
+      0 Button data
+       0 int elementIdentifier = 9
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 7
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [7]
+      0 Button data
+       0 int elementIdentifier = 10
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 8
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [8]
+      0 Button data
+       0 int elementIdentifier = 11
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 9
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+  0 Platform_Fallback_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Fallback fallback_WindowsUWP
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   1 UInt8 matchUnityVersion = 0
+   1 string matchUnityVersion_min = ""
+   1 string matchUnityVersion_max = ""
+   1 UInt8 matchSysVersion = 0
+   1 string matchSysVersion_min = ""
+   1 string matchSysVersion_max = ""
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_Fallback_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Fallback fallback_OSX
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      1 string data = "Saitek Saitek Pro Flight Quadrant"
+   1 UInt8 matchUnityVersion = 0
+   1 string matchUnityVersion_min = ""
+   1 string matchUnityVersion_max = ""
+   1 UInt8 matchSysVersion = 0
+   1 string matchSysVersion_min = ""
+   1 string matchSysVersion_max = ""
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (3 items)
+     0 int size = 3
+     [0]
+      0 Axis data
+       0 int elementIdentifier = 0
+       0 int sourceType = 1
+       0 int sourceAxis = 1
+       0 float axisDeadZone = 0
+       0 int sourceButton = 0
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 invert = 1
+       0 int sourceAxisRange = 0
+       0 int buttonAxisContribution = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+     [1]
+      0 Axis data
+       0 int elementIdentifier = 1
+       0 int sourceType = 1
+       0 int sourceAxis = 2
+       0 float axisDeadZone = 0
+       0 int sourceButton = 0
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 invert = 1
+       0 int sourceAxisRange = 0
+       0 int buttonAxisContribution = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+     [2]
+      0 Axis data
+       0 int elementIdentifier = 2
+       0 int sourceType = 1
+       0 int sourceAxis = 3
+       0 float axisDeadZone = 0
+       0 int sourceButton = 0
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 invert = 1
+       0 int sourceAxisRange = 0
+       0 int buttonAxisContribution = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+   0 Button buttons
+    1 Array Array (9 items)
+     0 int size = 9
+     [0]
+      0 Button data
+       0 int elementIdentifier = 3
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 1
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [1]
+      0 Button data
+       0 int elementIdentifier = 4
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 2
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [2]
+      0 Button data
+       0 int elementIdentifier = 5
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 3
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [3]
+      0 Button data
+       0 int elementIdentifier = 6
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 4
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [4]
+      0 Button data
+       0 int elementIdentifier = 7
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 5
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [5]
+      0 Button data
+       0 int elementIdentifier = 8
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 6
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [6]
+      0 Button data
+       0 int elementIdentifier = 9
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 7
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [7]
+      0 Button data
+       0 int elementIdentifier = 10
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 8
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [8]
+      0 Button data
+       0 int elementIdentifier = 11
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 9
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+  0 Platform_Fallback_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Fallback fallback_Linux
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      1 string data = "Saitek Saitek Pro Flight Quadrant"
+   1 UInt8 matchUnityVersion = 0
+   1 string matchUnityVersion_min = ""
+   1 string matchUnityVersion_max = ""
+   1 UInt8 matchSysVersion = 0
+   1 string matchSysVersion_min = ""
+   1 string matchSysVersion_max = ""
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (3 items)
+     0 int size = 3
+     [0]
+      0 Axis data
+       0 int elementIdentifier = 0
+       0 int sourceType = 1
+       0 int sourceAxis = 1
+       0 float axisDeadZone = 0
+       0 int sourceButton = 0
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 invert = 1
+       0 int sourceAxisRange = 0
+       0 int buttonAxisContribution = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = 0
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 1
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0.5
+            0 float _min = 0
+            0 float _max = 1
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+     [1]
+      0 Axis data
+       0 int elementIdentifier = 1
+       0 int sourceType = 1
+       0 int sourceAxis = 2
+       0 float axisDeadZone = 0
+       0 int sourceButton = 0
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 invert = 1
+       0 int sourceAxisRange = 0
+       0 int buttonAxisContribution = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = 0
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 1
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0.5
+            0 float _min = 0
+            0 float _max = 1
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+     [2]
+      0 Axis data
+       0 int elementIdentifier = 2
+       0 int sourceType = 1
+       0 int sourceAxis = 3
+       0 float axisDeadZone = 0
+       0 int sourceButton = 0
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 invert = 1
+       0 int sourceAxisRange = 0
+       0 int buttonAxisContribution = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = 0
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 1
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0.5
+            0 float _min = 0
+            0 float _max = 1
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+   0 Button buttons
+    1 Array Array (9 items)
+     0 int size = 9
+     [0]
+      0 Button data
+       0 int elementIdentifier = 3
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 1
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [1]
+      0 Button data
+       0 int elementIdentifier = 4
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 2
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [2]
+      0 Button data
+       0 int elementIdentifier = 5
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 3
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [3]
+      0 Button data
+       0 int elementIdentifier = 6
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 4
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [4]
+      0 Button data
+       0 int elementIdentifier = 7
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 5
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [5]
+      0 Button data
+       0 int elementIdentifier = 8
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 6
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [6]
+      0 Button data
+       0 int elementIdentifier = 9
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 7
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [7]
+      0 Button data
+       0 int elementIdentifier = 10
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 8
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [8]
+      0 Button data
+       0 int elementIdentifier = 11
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 9
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+  0 Platform_Fallback_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Fallback fallback_Linux_PreConfigured
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   1 UInt8 matchUnityVersion = 0
+   1 string matchUnityVersion_min = ""
+   1 string matchUnityVersion_max = ""
+   1 UInt8 matchSysVersion = 0
+   1 string matchSysVersion_min = ""
+   1 string matchSysVersion_max = ""
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_Fallback_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Fallback fallback_Android
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (1 items)
+     0 int size = 1
+     [0]
+      1 string data = "Saitek Saitek Pro Flight Quadrant"
+   1 UInt8 matchUnityVersion = 0
+   1 string matchUnityVersion_min = ""
+   1 string matchUnityVersion_max = ""
+   1 UInt8 matchSysVersion = 0
+   1 string matchSysVersion_min = ""
+   1 string matchSysVersion_max = ""
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (3 items)
+     0 int size = 3
+     [0]
+      0 Axis data
+       0 int elementIdentifier = 0
+       0 int sourceType = 1
+       0 int sourceAxis = 1
+       0 float axisDeadZone = 0
+       0 int sourceButton = 0
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 invert = 1
+       0 int sourceAxisRange = 0
+       0 int buttonAxisContribution = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+     [1]
+      0 Axis data
+       0 int elementIdentifier = 1
+       0 int sourceType = 1
+       0 int sourceAxis = 2
+       0 float axisDeadZone = 0
+       0 int sourceButton = 0
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 invert = 1
+       0 int sourceAxisRange = 0
+       0 int buttonAxisContribution = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+     [2]
+      0 Axis data
+       0 int elementIdentifier = 2
+       0 int sourceType = 1
+       0 int sourceAxis = 3
+       0 float axisDeadZone = 0
+       0 int sourceButton = 0
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 invert = 1
+       0 int sourceAxisRange = 0
+       0 int buttonAxisContribution = 0
+       1 UInt8 calibrateAxis = 1
+       0 float axisZero = 1
+       0 float axisMin = -1
+       0 float axisMax = 1
+       0 AxisCalibrationInfoEntry alternateCalibrations
+        1 Array Array (1 items)
+         0 int size = 1
+         [0]
+          0 AxisCalibrationInfoEntry data
+           0 int key = 1
+           0 AxisCalibrationInfo calibration
+            1 UInt8 _applyRangeCalibration = 0
+            1 UInt8 _invert = 1
+            0 float _deadZone = 0
+            0 float _zero = 0
+            0 float _min = 0
+            0 float _max = 0
+            0 int _sensitivityType = 0
+            0 float _sensitivity = 1
+            0 AnimationCurve _sensitivityCurve
+             0 vector m_Curve
+              1 Array Array (0 items)
+               0 int size = 0
+             0 int m_PreInfinity = 2
+             0 int m_PostInfinity = 2
+             0 int m_RotationOrder = 4
+       0 HardwareAxisInfo axisInfo
+        0 int _dataFormat = 0
+        1 UInt8 _excludeFromPolling = 0
+        0 int _specialAxisType = 1
+        0 float _pollingDeadZone = -1
+   0 Button buttons
+    1 Array Array (5 items)
+     0 int size = 5
+     [0]
+      0 Button data
+       0 int elementIdentifier = 3
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 16
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [1]
+      0 Button data
+       0 int elementIdentifier = 4
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 17
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [2]
+      0 Button data
+       0 int elementIdentifier = 5
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 18
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [3]
+      0 Button data
+       0 int elementIdentifier = 6
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 19
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+     [4]
+      0 Button data
+       0 int elementIdentifier = 7
+       0 int sourceType = 0
+       0 int sourceAxis = 0
+       0 float axisDeadZone = 0
+       0 int sourceButton = 20
+       0 int sourceKeyCode = 0
+       0 PPtr<$CustomCalculation> customCalculation
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 0
+       0 CustomCalculationSourceData customCalculationSourceData
+        1 Array Array (0 items)
+         0 int size = 0
+       0 int sourceAxisPole = 0
+       0 int unityHat_sourceAxis1 = 0
+       0 int unityHat_sourceAxis2 = 0
+       0 Vector2 unityHat_isActiveAxisValues1
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues2
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_isActiveAxisValues3
+        0 float x = 0
+        0 float y = 0
+       0 Vector2 unityHat_zeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 unityHat_checkNeverPressed = 0
+       0 Vector2 unityHat_neverPressedZeroValues
+        0 float x = 0
+        0 float y = 0
+       1 UInt8 requireMultipleButtons = 0
+       0 vector requiredButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 ignoreIfButtonsActive = 0
+       0 vector ignoreIfButtonsActiveButtons
+        1 Array Array (0 items)
+         0 int size = 0
+       0 HardwareButtonInfo buttonInfo
+        1 UInt8 _excludeFromPolling = 0
+        1 UInt8 _isPressureSensitive = 0
+  0 Platform_Fallback_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Fallback fallback_iOS
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   1 UInt8 matchUnityVersion = 0
+   1 string matchUnityVersion_min = ""
+   1 string matchUnityVersion_max = ""
+   1 UInt8 matchSysVersion = 0
+   1 string matchSysVersion_min = ""
+   1 string matchSysVersion_max = ""
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_Fallback_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Fallback fallback_XBoxOne
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   1 UInt8 matchUnityVersion = 0
+   1 string matchUnityVersion_min = ""
+   1 string matchUnityVersion_max = ""
+   1 UInt8 matchSysVersion = 0
+   1 string matchSysVersion_min = ""
+   1 string matchSysVersion_max = ""
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_Fallback_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Fallback fallback_PS4
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   1 UInt8 matchUnityVersion = 0
+   1 string matchUnityVersion_min = ""
+   1 string matchUnityVersion_max = ""
+   1 UInt8 matchSysVersion = 0
+   1 string matchSysVersion_min = ""
+   1 string matchSysVersion_max = ""
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_Fallback_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_PS5 ps5
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  1 string controllerName = ""
+  0 Platform_PS5_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Fallback fallback_PSM
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   1 UInt8 matchUnityVersion = 0
+   1 string matchUnityVersion_min = ""
+   1 string matchUnityVersion_max = ""
+   1 UInt8 matchSysVersion = 0
+   1 string matchSysVersion_min = ""
+   1 string matchSysVersion_max = ""
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_Fallback_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Fallback fallback_PSVita
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   1 UInt8 matchUnityVersion = 0
+   1 string matchUnityVersion_min = ""
+   1 string matchUnityVersion_max = ""
+   1 UInt8 matchSysVersion = 0
+   1 string matchSysVersion_min = ""
+   1 string matchSysVersion_max = ""
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_Fallback_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Fallback fallback_AmazonFireTV
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   1 UInt8 matchUnityVersion = 0
+   1 string matchUnityVersion_min = ""
+   1 string matchUnityVersion_max = ""
+   1 UInt8 matchSysVersion = 0
+   1 string matchSysVersion_min = ""
+   1 string matchSysVersion_max = ""
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_Fallback_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_WebGL webGL
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string productGUID
+    1 Array Array (0 items)
+     0 int size = 0
+   0 vector mapping
+    1 Array Array (0 items)
+     0 int size = 0
+   0 ElementCount_Base elementCount
+    1 Array Array (0 items)
+     0 int size = 0
+   0 ClientInfo clientInfo
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_WebGL_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_XboxOne xboxOne
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_XboxOne_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_GameCore gameCore
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   0 VidPid vidPid
+    1 Array Array (0 items)
+     0 int size = 0
+   0 int deviceType = 0
+   0 int gamepadSubType = 0
+   0 int hatCount = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  1 string controllerName = ""
+  0 Platform_GameCore_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_PS4 ps4
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_PS4_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_NintendoSwitch nintendoSwitch
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_NintendoSwitch_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_Stadia stadia
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  1 string controllerName = ""
+  0 Platform_Stadia_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_InternalDriver internalDriver
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productName_useRegex = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   0 VidPid vidPid
+    1 Array Array (0 items)
+     0 int size = 0
+   0 int hatCount = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_InternalDriver_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_SDL2 sdl2_Linux
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   0 int hatCount = 0
+   1 UInt8 manufacturer_useRegex = 0
+   1 UInt8 productName_useRegex = 0
+   1 UInt8 systemName_useRegex = 0
+   0 string manufacturer
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string systemName
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string productGUID
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_SDL2_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_SDL2 sdl2_Windows
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   0 int hatCount = 0
+   1 UInt8 manufacturer_useRegex = 0
+   1 UInt8 productName_useRegex = 0
+   1 UInt8 systemName_useRegex = 0
+   0 string manufacturer
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string systemName
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string productGUID
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_SDL2_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_SDL2 sdl2_OSX
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   0 int hatCount = 0
+   1 UInt8 manufacturer_useRegex = 0
+   1 UInt8 productName_useRegex = 0
+   1 UInt8 systemName_useRegex = 0
+   0 string manufacturer
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string productName
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string systemName
+    1 Array Array (0 items)
+     0 int size = 0
+   0 string productGUID
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Platform_SDL2_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 Platform_AppleGCController appleGCController
+  1 string description = ""
+  0 MatchingCriteria matchingCriteria
+   0 int axisCount = 0
+   0 int buttonCount = 0
+   1 UInt8 disabled = 0
+   1 string tag = ""
+   1 UInt8 alwaysMatch = 0
+   1 UInt8 productCategory_useRegex = 0
+   0 string productCategory
+    1 Array Array (0 items)
+     0 int size = 0
+   0 int primaryProfileType = 0
+   0 vector profileSubTypes
+    1 Array Array (0 items)
+     0 int size = 0
+  0 Elements elements
+   0 Axis axes
+    1 Array Array (0 items)
+     0 int size = 0
+   0 Button buttons
+    1 Array Array (0 items)
+     0 int size = 0
+   0 CompoundElement compoundElements
+    1 Array Array (0 items)
+     0 int size = 0
+  1 string controllerName = ""
+  0 Platform_AppleGCController_Base variants
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 int elementIdentifierIdCounter = 12

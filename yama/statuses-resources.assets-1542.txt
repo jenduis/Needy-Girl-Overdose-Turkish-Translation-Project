@@ -1,0 +1,120 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2489
+ 1 string m_Name = "statuses"
+ 0 StatusTypeToData StatusList
+  1 Array Array (12 items)
+   0 int size = 12
+   [0]
+    0 StatusTypeToData data
+     0 int StatusType = 0
+     0 PPtr<$Sprite> StatusIcon
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 549
+     1 string StatusNameJP = "テンション"
+     1 string StatusNameCN = ""
+     1 string StatusNameEN = ""
+   [1]
+    0 StatusTypeToData data
+     0 int StatusType = 2
+     0 PPtr<$Sprite> StatusIcon
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 365
+     1 string StatusNameJP = "フォロワー"
+     1 string StatusNameCN = ""
+     1 string StatusNameEN = ""
+   [2]
+    0 StatusTypeToData data
+     0 int StatusType = 3
+     0 PPtr<$Sprite> StatusIcon
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 443
+     1 string StatusNameJP = "ストレス"
+     1 string StatusNameCN = ""
+     1 string StatusNameEN = ""
+   [3]
+    0 StatusTypeToData data
+     0 int StatusType = 4
+     0 PPtr<$Sprite> StatusIcon
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 417
+     1 string StatusNameJP = "好感度"
+     1 string StatusNameCN = ""
+     1 string StatusNameEN = ""
+   [4]
+    0 StatusTypeToData data
+     0 int StatusType = 5
+     0 PPtr<$Sprite> StatusIcon
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 480
+     1 string StatusNameJP = "やみ度"
+     1 string StatusNameCN = ""
+     1 string StatusNameEN = ""
+   [5]
+    0 StatusTypeToData data
+     0 int StatusType = 8
+     0 PPtr<$Sprite> StatusIcon
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 559
+     1 string StatusNameJP = "話題性"
+     1 string StatusNameCN = ""
+     1 string StatusNameEN = ""
+   [6]
+    0 StatusTypeToData data
+     0 int StatusType = 17
+     0 PPtr<$Sprite> StatusIcon
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 559
+     1 string StatusNameJP = "パスワード入力回数"
+     1 string StatusNameCN = ""
+     1 string StatusNameEN = ""
+   [7]
+    0 StatusTypeToData data
+     0 int StatusType = 9
+     0 PPtr<$Sprite> StatusIcon
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 559
+     1 string StatusNameJP = "累計おくすり"
+     1 string StatusNameCN = ""
+     1 string StatusNameEN = ""
+   [8]
+    0 StatusTypeToData data
+     0 int StatusType = 10
+     0 PPtr<$Sprite> StatusIcon
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 559
+     1 string StatusNameJP = "累計えっち"
+     1 string StatusNameCN = ""
+     1 string StatusNameEN = ""
+   [9]
+    0 StatusTypeToData data
+     0 int StatusType = 1
+     0 PPtr<$Sprite> StatusIcon
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 559
+     1 string StatusNameJP = "配信カウンター"
+     1 string StatusNameCN = ""
+     1 string StatusNameEN = ""
+   [10]
+    0 StatusTypeToData data
+     0 int StatusType = 17
+     0 PPtr<$Sprite> StatusIcon
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 559
+     1 string StatusNameJP = "累計配信カウンター"
+     1 string StatusNameCN = ""
+     1 string StatusNameEN = ""
+   [11]
+    0 StatusTypeToData data
+     0 int StatusType = 20
+     0 PPtr<$Sprite> StatusIcon
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 413
+     1 string StatusNameJP = "test netalevel"
+     1 string StatusNameCN = "test netalevel"
+     1 string StatusNameEN = "test netalevel"

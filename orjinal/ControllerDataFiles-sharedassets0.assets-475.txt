@@ -1,0 +1,706 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 115
+ 1 string m_Name = "ControllerDataFiles"
+ 0 PPtr<$HardwareJoystickMap> defaultHardwareJoystickMap
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 504
+ 0 vector hardwareJoystickMaps
+  1 Array Array (166 items)
+   0 int size = 166
+   [0]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 600
+   [1]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 540
+   [2]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 541
+   [3]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 519
+   [4]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 520
+   [5]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 521
+   [6]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 522
+   [7]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 517
+   [8]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 528
+   [9]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 589
+   [10]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 590
+   [11]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 591
+   [12]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 588
+   [13]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 571
+   [14]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 572
+   [15]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 507
+   [16]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 552
+   [17]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 564
+   [18]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 509
+   [19]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 510
+   [20]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 641
+   [21]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 640
+   [22]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 643
+   [23]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 642
+   [24]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 639
+   [25]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 505
+   [26]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 533
+   [27]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 508
+   [28]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 534
+   [29]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 494
+   [30]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 514
+   [31]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 605
+   [32]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 603
+   [33]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 602
+   [34]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 530
+   [35]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 532
+   [36]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 566
+   [37]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 601
+   [38]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 604
+   [39]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 644
+   [40]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 645
+   [41]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 648
+   [42]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 646
+   [43]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 647
+   [44]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 553
+   [45]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 554
+   [46]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 586
+   [47]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 542
+   [48]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 543
+   [49]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 624
+   [50]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 616
+   [51]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 617
+   [52]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 638
+   [53]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 587
+   [54]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 483
+   [55]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 487
+   [56]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 484
+   [57]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 486
+   [58]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 488
+   [59]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 485
+   [60]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 495
+   [61]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 496
+   [62]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 560
+   [63]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 511
+   [64]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 489
+   [65]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 565
+   [66]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 512
+   [67]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 549
+   [68]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 550
+   [69]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 597
+   [70]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 546
+   [71]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 547
+   [72]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 545
+   [73]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 544
+   [74]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 548
+   [75]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 598
+   [76]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 633
+   [77]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 497
+   [78]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 499
+   [79]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 500
+   [80]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 502
+   [81]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 498
+   [82]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 501
+   [83]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 503
+   [84]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 579
+   [85]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 580
+   [86]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 581
+   [87]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 582
+   [88]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 583
+   [89]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 584
+   [90]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 585
+   [91]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 570
+   [92]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 578
+   [93]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 567
+   [94]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 577
+   [95]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 576
+   [96]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 575
+   [97]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 573
+   [98]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 574
+   [99]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 531
+   [100]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 622
+   [101]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 623
+   [102]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 629
+   [103]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 628
+   [104]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 614
+   [105]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 625
+   [106]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 632
+   [107]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 631
+   [108]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 630
+   [109]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 518
+   [110]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 529
+   [111]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 515
+   [112]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 537
+   [113]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 535
+   [114]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 536
+   [115]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 539
+   [116]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 538
+   [117]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 634
+   [118]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 563
+   [119]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 493
+   [120]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 523
+   [121]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 524
+   [122]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 525
+   [123]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 526
+   [124]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 516
+   [125]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 527
+   [126]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 619
+   [127]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 618
+   [128]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 612
+   [129]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 626
+   [130]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 627
+   [131]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 620
+   [132]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 615
+   [133]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 613
+   [134]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 621
+   [135]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 506
+   [136]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 637
+   [137]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 636
+   [138]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 635
+   [139]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 561
+   [140]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 562
+   [141]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 569
+   [142]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 568
+   [143]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 477
+   [144]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 478
+   [145]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 479
+   [146]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 480
+   [147]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 481
+   [148]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 482
+   [149]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 476
+   [150]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 556
+   [151]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 557
+   [152]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 555
+   [153]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 558
+   [154]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 559
+   [155]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 490
+   [156]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 513
+   [157]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 491
+   [158]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 551
+   [159]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 492
+   [160]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 594
+   [161]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 596
+   [162]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 593
+   [163]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 595
+   [164]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 592
+   [165]
+    0 PPtr<$HardwareJoystickMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 599
+ 0 vector joystickTemplates
+  1 Array Array (6 items)
+   0 int size = 6
+   [0]
+    0 PPtr<$HardwareJoystickTemplateMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 606
+   [1]
+    0 PPtr<$HardwareJoystickTemplateMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 610
+   [2]
+    0 PPtr<$HardwareJoystickTemplateMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 609
+   [3]
+    0 PPtr<$HardwareJoystickTemplateMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 608
+   [4]
+    0 PPtr<$HardwareJoystickTemplateMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 607
+   [5]
+    0 PPtr<$HardwareJoystickTemplateMap> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 611

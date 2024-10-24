@@ -1,0 +1,96 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2249
+ 1 string m_Name = "NgoEffectPipelineAsset"
+ 0 int k_AssetVersion = 12
+ 0 int k_AssetPreviousVersion = 12
+ 0 int m_RendererType = 1
+ 0 PPtr<$ScriptableRendererData> m_RendererData
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 vector m_RendererDataList
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 PPtr<$ScriptableRendererData> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3013
+ 0 int m_DefaultRendererIndex = 0
+ 1 UInt8 m_RequireDepthTexture = 0
+ 1 UInt8 m_RequireOpaqueTexture = 0
+ 0 int m_OpaqueDownsampling = 1
+ 1 UInt8 m_SupportsTerrainHoles = 0
+ 1 UInt8 m_SupportsHDR = 1
+ 0 int m_HDRColorBufferPrecision = 0
+ 0 int m_MSAA = 8
+ 0 float m_RenderScale = 1
+ 0 int m_UpscalingFilter = 0
+ 1 UInt8 m_FsrOverrideSharpness = 0
+ 0 float m_FsrSharpness = 0.92
+ 1 UInt8 m_EnableLODCrossFade = 1
+ 0 int m_LODCrossFadeDitheringType = 1
+ 0 int m_ShEvalMode = 0
+ 0 int m_MainLightRenderingMode = 0
+ 1 UInt8 m_MainLightShadowsSupported = 0
+ 0 int m_MainLightShadowmapResolution = 2048
+ 0 int m_AdditionalLightsRenderingMode = 0
+ 0 int m_AdditionalLightsPerObjectLimit = 4
+ 1 UInt8 m_AdditionalLightShadowsSupported = 0
+ 0 int m_AdditionalLightsShadowmapResolution = 512
+ 0 int m_AdditionalLightsShadowResolutionTierLow = 128
+ 0 int m_AdditionalLightsShadowResolutionTierMedium = 256
+ 0 int m_AdditionalLightsShadowResolutionTierHigh = 512
+ 1 UInt8 m_ReflectionProbeBlending = 0
+ 1 UInt8 m_ReflectionProbeBoxProjection = 0
+ 0 float m_ShadowDistance = 50
+ 0 int m_ShadowCascadeCount = 1
+ 0 float m_Cascade2Split = 0.25
+ 0 Vector2 m_Cascade3Split
+  0 float x = 0.1
+  0 float y = 0.3
+ 0 Vector3 m_Cascade4Split
+  0 float x = 0.067
+  0 float y = 0.2
+  0 float z = 0.467
+ 0 float m_CascadeBorder = 0.1
+ 0 float m_ShadowDepthBias = 1
+ 0 float m_ShadowNormalBias = 1
+ 1 UInt8 m_SoftShadowsSupported = 0
+ 1 UInt8 m_ConservativeEnclosingSphere = 0
+ 0 int m_NumIterationsEnclosingSphere = 64
+ 0 int m_SoftShadowQuality = 2
+ 0 int m_AdditionalLightsCookieResolution = 2048
+ 0 int m_AdditionalLightsCookieFormat = 3
+ 1 UInt8 m_UseSRPBatcher = 1
+ 1 UInt8 m_SupportsDynamicBatching = 0
+ 1 UInt8 m_MixedLightingSupported = 0
+ 1 UInt8 m_SupportsLightCookies = 1
+ 1 UInt8 m_SupportsLightLayers = 0
+ 0 int m_DebugLevel = 0
+ 0 int m_StoreActionsOptimization = 0
+ 1 UInt8 m_EnableRenderGraph = 0
+ 1 UInt8 m_UseAdaptivePerformance = 1
+ 0 int m_ColorGradingMode = 0
+ 0 int m_ColorGradingLutSize = 32
+ 1 UInt8 m_UseFastSRGBLinearConversion = 0
+ 1 UInt8 m_SupportDataDrivenLensFlare = 1
+ 0 int m_ShadowType = 1
+ 1 UInt8 m_LocalShadowsSupported = 0
+ 0 int m_LocalShadowsAtlasResolution = 256
+ 0 int m_MaxPixelLights = 0
+ 0 int m_ShadowAtlasResolution = 256
+ 0 int m_VolumeFrameworkUpdateMode = 0
+ 0 TextureResources m_Textures
+  0 PPtr<$Texture2D> blueNoise64LTex
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 40
+  0 PPtr<$Texture2D> bayerMatrixTex
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 45
+ 0 int m_ShaderVariantLogLevel = 0
+ 0 int m_ShadowCascades = 0

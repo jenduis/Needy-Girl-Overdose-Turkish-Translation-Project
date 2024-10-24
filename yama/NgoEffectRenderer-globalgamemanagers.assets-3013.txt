@@ -1,0 +1,96 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2625
+ 1 string m_Name = "NgoEffectRenderer"
+ 0 DebugShaderResources debugShaders
+  0 PPtr<$Shader> debugReplacementPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 98
+  0 PPtr<$Shader> hdrDebugViewPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 81
+ 0 vector m_RendererFeatures
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 PPtr<$ScriptableRendererFeature> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3009
+ 0 vector m_RendererFeatureMap
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 SInt64 data = -6242270379921257520
+ 1 UInt8 m_UseNativeRenderPass = 0
+ 0 PPtr<$PostProcessData> postProcessData
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3014
+ 0 PPtr<$XRSystemData> xrSystemData
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3015
+ 0 ShaderResources shaders
+  0 PPtr<$Shader> blitPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 95
+  0 PPtr<$Shader> copyDepthPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 101
+  0 PPtr<$Shader> screenSpaceShadowPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 67
+  0 PPtr<$Shader> samplingPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 65
+  0 PPtr<$Shader> stencilDeferredPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 106
+  0 PPtr<$Shader> fallbackErrorPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 103
+  0 PPtr<$Shader> fallbackLoadingPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 91
+  0 PPtr<$Shader> materialErrorPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 84
+  0 PPtr<$Shader> coreBlitPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 92
+  0 PPtr<$Shader> coreBlitColorAndDepthPS
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 99
+  0 PPtr<$Shader> blitHDROverlay
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 94
+  0 PPtr<$Shader> cameraMotionVector
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 97
+  0 PPtr<$Shader> objectMotionVector
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 90
+  0 PPtr<$Shader> dataDrivenLensFlare
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 87
+ 0 int m_AssetVersion = 2
+ 0 LayerMask m_OpaqueLayerMask
+  0 unsigned int m_Bits = 4294967295
+ 0 LayerMask m_TransparentLayerMask
+  0 unsigned int m_Bits = 4294967295
+ 0 StencilStateData m_DefaultStencilState
+  1 UInt8 overrideStencilState = 0
+  0 int stencilReference = 0
+  0 int stencilCompareFunction = 8
+  0 int passOperation = 2
+  0 int failOperation = 0
+  0 int zFailOperation = 0
+ 1 UInt8 m_ShadowTransparentReceive = 1
+ 0 int m_RenderingMode = 0
+ 0 int m_DepthPrimingMode = 0
+ 0 int m_CopyDepthMode = 0
+ 1 UInt8 m_AccurateGbufferNormals = 0
+ 0 int m_IntermediateTextureMode = 1

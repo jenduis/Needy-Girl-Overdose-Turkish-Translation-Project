@@ -1,0 +1,106 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1470
+ 1 string m_Name = "NgoEffect"
+ 1 UInt8 m_Active = 1
+ 0 NgoPostEffectPassSetting postEffectPassSetting
+  0 PPtr<$Shader> edgeDetectShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 54
+  0 PPtr<$Shader> inverseShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 57
+  0 PPtr<$Shader> photopsiaShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 50
+  0 PPtr<$Shader> rainbowShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 63
+  0 PPtr<$Shader> sinPatternShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 60
+  0 PPtr<$Shader> rgbBlockNoiseShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 52
+  0 PPtr<$Shader> horizontalBlockNoiseShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 62
+  0 PPtr<$Shader> horizontalNoiseShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 53
+  0 PPtr<$Shader> rgbBlockShiftShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 52
+  0 PPtr<$Shader> crtBlurShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 51
+  0 PPtr<$Shader> horizontalWarpShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 64
+  0 PPtr<$Shader> warpShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 59
+  0 PPtr<$Shader> colorBoostShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 55
+  0 PPtr<$Shader> dizzinessShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 56
+  0 PPtr<$Shader> patternDodgeShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 61
+  0 PPtr<$Shader> boxesShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 58
+  0 PPtr<$ComputeShader> fullSpectrumHorizontalShiftShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 110
+  0 PPtr<$ComputeShader> horizontalPixelSortShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 112
+  0 PPtr<$ComputeShader> bleedingShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 109
+  0 PPtr<$ComputeShader> gaussBlurShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 113
+ 0 NgoMeshPassSetting meshPassSetting
+  0 PPtr<$Shader> happyParticleShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 72
+  0 PPtr<$ComputeShader> happyParticleKernel
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 111
+ 0 NgoSidePanelPassSetting sidePanelPassSetting
+  0 PPtr<$Shader> sidePanelMaskShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 70
+  0 PPtr<$Shader> sunShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 88
+  0 PPtr<$Shader> gridTerrainShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 77
+  0 PPtr<$Shader> finalBlitShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 78
+  0 PPtr<$Shader> streamShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 107
+  0 PPtr<$Shader> statureShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 74
+  0 PPtr<$Shader> backgroundShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 66
+  0 PPtr<$Shader> heartShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 75
+  0 PPtr<$Shader> waveShader
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 89

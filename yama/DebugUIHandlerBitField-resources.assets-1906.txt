@@ -1,0 +1,156 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 868
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1291
+ 1 string m_Name = ""
+ 0 Color colorDefault
+  0 float r = 0.8
+  0 float g = 0.8
+  0 float b = 0.8
+  0 float a = 1
+ 0 Color colorSelected
+  0 float r = 0.25
+  0 float g = 0.65
+  0 float b = 0.8
+  0 float a = 1
+ 0 PPtr<$Text> nameLabel
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1900
+ 0 PPtr<$UIFoldout> valueToggle
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1897
+ 0 vector toggles
+  1 Array Array (32 items)
+   0 int size = 32
+   [0]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1816
+   [1]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1873
+   [2]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1962
+   [3]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1804
+   [4]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1760
+   [5]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1913
+   [6]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1939
+   [7]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1840
+   [8]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1957
+   [9]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1937
+   [10]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1817
+   [11]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1956
+   [12]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1769
+   [13]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1915
+   [14]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1788
+   [15]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1801
+   [16]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1819
+   [17]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1963
+   [18]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1946
+   [19]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1916
+   [20]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1974
+   [21]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1877
+   [22]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1973
+   [23]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1958
+   [24]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1907
+   [25]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1780
+   [26]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1766
+   [27]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1967
+   [28]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1929
+   [29]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1920
+   [30]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1763
+   [31]
+    0 PPtr<$DebugUIHandlerIndirectToggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1851

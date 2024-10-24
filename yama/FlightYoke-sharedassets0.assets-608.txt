@@ -1,0 +1,1484 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 3000
+ 1 string m_Name = "FlightYoke"
+ 1 string controllerName = "Flight Yoke"
+ 1 string description = ""
+ 1 string templateGuid = "f311fa16-0ccc-41c0-ac4b-50f7100bb8ff"
+ 1 string className = "FlightYokeTemplate"
+ 0 ControllerTemplateElementIdentifier_Editor elementIdentifiers
+  1 Array Array (77 items)
+   0 int size = 77
+   [0]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 0
+     1 string _name = "Rotate Yoke"
+     1 string _positiveName = "Rotate Yoke Right"
+     1 string _negativeName = "Rotate Yoke Left"
+     0 int _elementType = 0
+     1 string _scriptingName = "rotateYoke"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [1]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 1
+     1 string _name = "Yoke Z"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 0
+     1 string _scriptingName = "yokeZ"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [2]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 59
+     1 string _name = "Left Paddle"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftPaddle"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [3]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 60
+     1 string _name = "Right Paddle"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightPaddle"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [4]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 2
+     1 string _name = "Lever 1"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 0
+     1 string _scriptingName = "lever1Axis"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [5]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 64
+     1 string _name = "Lever 1 Min Detent"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "lever1MinDetent"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [6]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 3
+     1 string _name = "Lever 2"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 0
+     1 string _scriptingName = "lever2Axis"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [7]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 65
+     1 string _name = "Lever 2 Min Detent"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "lever2MinDetent"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [8]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 4
+     1 string _name = "Lever 3"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 0
+     1 string _scriptingName = "lever3Axis"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [9]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 66
+     1 string _name = "Lever 3 Min Detent"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "lever3MinDetent"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [10]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 5
+     1 string _name = "Lever 4"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 0
+     1 string _scriptingName = "lever4Axis"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [11]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 67
+     1 string _name = "Lever 4 Min Detent"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "lever4MinDetent"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [12]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 6
+     1 string _name = "Lever 5"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 0
+     1 string _scriptingName = "lever5Axis"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [13]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 68
+     1 string _name = "Lever 5 Min Detent"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "lever5MinDetent"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [14]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 7
+     1 string _name = "Left Grip Button 1"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripButton1"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [15]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 8
+     1 string _name = "Left Grip Button 2"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripButton2"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [16]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 9
+     1 string _name = "Left Grip Button 3"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripButton3"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [17]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 10
+     1 string _name = "Left Grip Button 4"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripButton4"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [18]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 11
+     1 string _name = "Left Grip Button 5"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripButton5"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [19]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 12
+     1 string _name = "Left Grip Button 6"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripButton6"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [20]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 13
+     1 string _name = "Right Grip Button 1"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripButton1"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [21]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 14
+     1 string _name = "Right Grip Button 2"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripButton2"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [22]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 15
+     1 string _name = "Right Grip Button 3"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripButton3"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [23]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 16
+     1 string _name = "Right Grip Button 4"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripButton4"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [24]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 17
+     1 string _name = "Right Grip Button 5"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripButton5"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [25]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 18
+     1 string _name = "Right Grip Button 6"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripButton6"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [26]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 19
+     1 string _name = "Center Button 1"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "centerButton1"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [27]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 20
+     1 string _name = "Center Button 2"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "centerButton2"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [28]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 21
+     1 string _name = "Center Button 3"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "centerButton3"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [29]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 22
+     1 string _name = "Center Button 4"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "centerButton4"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [30]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 23
+     1 string _name = "Center Button 5"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "centerButton5"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [31]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 24
+     1 string _name = "Center Button 6"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "centerButton6"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [32]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 25
+     1 string _name = "Center Button 7"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "centerButton7"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [33]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 26
+     1 string _name = "Center Button 8"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "centerButton8"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [34]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 53
+     1 string _name = "Wheel 1 Up"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "wheel1Up"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [35]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 54
+     1 string _name = "Wheel 1 Down"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "wheel1Down"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [36]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 55
+     1 string _name = "Wheel 1 Press"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "wheel1Press"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [37]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 56
+     1 string _name = "Wheel 2 Up"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "wheel2Up"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [38]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 57
+     1 string _name = "Wheel 2 Down"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "wheel2Down"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [39]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 58
+     1 string _name = "Wheel 2 Press"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "wheel2Press"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [40]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 27
+     1 string _name = "Left Grip Hat Up"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripHatUp"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [41]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 28
+     1 string _name = "Left Grip Hat Up-Right"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripHatUpRight"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [42]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 29
+     1 string _name = "Left Grip Hat Right"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripHatRight"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [43]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 30
+     1 string _name = "Left Grip Hat Down-Right"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripHatDownRight"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [44]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 31
+     1 string _name = "Left Grip Hat Down"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripHatDown"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [45]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 32
+     1 string _name = "Left Grip Hat Down-Left"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripHatDownLeft"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [46]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 33
+     1 string _name = "Left Grip Hat Left"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripHatLeft"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [47]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 34
+     1 string _name = "Left Grip Hat Up-Left"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "leftGripHatUpLeft"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [48]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 35
+     1 string _name = "Right Grip Hat Up"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripHatUp"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [49]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 36
+     1 string _name = "Right Grip Hat Up-Right"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripHatUpRight"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [50]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 37
+     1 string _name = "Right Grip Hat Right"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripHatRight"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [51]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 38
+     1 string _name = "Right Grip Hat Down-Right"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripHatDownRight"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [52]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 39
+     1 string _name = "Right Grip Hat Down"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripHatDown"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [53]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 40
+     1 string _name = "Right Grip Hat Down-Left"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripHatDownLeft"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [54]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 41
+     1 string _name = "Right Grip Hat Left"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripHatLeft"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [55]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 42
+     1 string _name = "Right Grip Hat Up-Left"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "rightGripHatUpLeft"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 1
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [56]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 43
+     1 string _name = "Console Button 1"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "consoleButton1"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [57]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 44
+     1 string _name = "Console Button 2"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "consoleButton2"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [58]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 45
+     1 string _name = "Console Button 3"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "consoleButton3"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [59]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 46
+     1 string _name = "Console Button 4"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "consoleButton4"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [60]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 47
+     1 string _name = "Console Button 5"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "consoleButton5"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [61]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 48
+     1 string _name = "Console Button 6"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "consoleButton6"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [62]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 49
+     1 string _name = "Console Button 7"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "consoleButton7"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [63]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 50
+     1 string _name = "Console Button 8"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "consoleButton8"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [64]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 51
+     1 string _name = "Console Button 9"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "consoleButton9"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [65]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 52
+     1 string _name = "Console Button 10"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "consoleButton10"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [66]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 61
+     1 string _name = "Mode 1"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "mode1"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [67]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 62
+     1 string _name = "Mode 2"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "mode2"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [68]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 63
+     1 string _name = "Mode 3"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 1
+     1 string _scriptingName = "mode3"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [69]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 69
+     1 string _name = "Yoke"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 8
+     1 string _scriptingName = "yoke"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [70]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 70
+     1 string _name = "Lever 1"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 6
+     1 string _scriptingName = "lever1"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [71]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 71
+     1 string _name = "Lever 2"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 6
+     1 string _scriptingName = "lever2"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [72]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 72
+     1 string _name = "Lever 3"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 6
+     1 string _scriptingName = "lever3"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [73]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 73
+     1 string _name = "Lever 4"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 6
+     1 string _scriptingName = "lever4"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [74]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 74
+     1 string _name = "Lever 5"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 6
+     1 string _scriptingName = "lever5"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [75]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 75
+     1 string _name = "Left Grip Hat"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 7
+     1 string _scriptingName = "leftGripHat"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [76]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 76
+     1 string _name = "Right Grip Hat"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 7
+     1 string _scriptingName = "rightGripHat"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+ 0 Entry joysticks
+  1 Array Array (2 items)
+   0 int size = 2
+   [0]
+    0 Entry data
+     0 int id = 0
+     1 string name = "CH Eclipse Yoke"
+     1 string joystickGuid = "acd80423-3ce9-4029-9c4b-9230907ea4b1"
+     1 string fileGuid = "7a307642c32f15647bc6b0f77d6672c9"
+     0 ElementIdentifierMap elementIdentifierMappings
+      1 Array Array (45 items)
+       0 int size = 45
+       [0]
+        0 ElementIdentifierMap data
+         0 int templateId = 0
+         0 int joystickId = 0
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [1]
+        0 ElementIdentifierMap data
+         0 int templateId = 1
+         0 int joystickId = 1
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [2]
+        0 ElementIdentifierMap data
+         0 int templateId = 59
+         0 int joystickId = 2
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [3]
+        0 ElementIdentifierMap data
+         0 int templateId = 60
+         0 int joystickId = 28
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [4]
+        0 ElementIdentifierMap data
+         0 int templateId = 2
+         0 int joystickId = 3
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [5]
+        0 ElementIdentifierMap data
+         0 int templateId = 3
+         0 int joystickId = 4
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [6]
+        0 ElementIdentifierMap data
+         0 int templateId = 4
+         0 int joystickId = 5
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [7]
+        0 ElementIdentifierMap data
+         0 int templateId = 7
+         0 int joystickId = 6
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [8]
+        0 ElementIdentifierMap data
+         0 int templateId = 13
+         0 int joystickId = 7
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [9]
+        0 ElementIdentifierMap data
+         0 int templateId = 8
+         0 int joystickId = 8
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [10]
+        0 ElementIdentifierMap data
+         0 int templateId = 9
+         0 int joystickId = 9
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [11]
+        0 ElementIdentifierMap data
+         0 int templateId = 14
+         0 int joystickId = 10
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [12]
+        0 ElementIdentifierMap data
+         0 int templateId = 15
+         0 int joystickId = 11
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [13]
+        0 ElementIdentifierMap data
+         0 int templateId = 43
+         0 int joystickId = 12
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [14]
+        0 ElementIdentifierMap data
+         0 int templateId = 44
+         0 int joystickId = 13
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [15]
+        0 ElementIdentifierMap data
+         0 int templateId = 45
+         0 int joystickId = 14
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [16]
+        0 ElementIdentifierMap data
+         0 int templateId = 46
+         0 int joystickId = 15
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [17]
+        0 ElementIdentifierMap data
+         0 int templateId = 19
+         0 int joystickId = 16
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [18]
+        0 ElementIdentifierMap data
+         0 int templateId = 20
+         0 int joystickId = 18
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [19]
+        0 ElementIdentifierMap data
+         0 int templateId = 21
+         0 int joystickId = 17
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [20]
+        0 ElementIdentifierMap data
+         0 int templateId = 53
+         0 int joystickId = 20
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [21]
+        0 ElementIdentifierMap data
+         0 int templateId = 54
+         0 int joystickId = 21
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [22]
+        0 ElementIdentifierMap data
+         0 int templateId = 55
+         0 int joystickId = 19
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [23]
+        0 ElementIdentifierMap data
+         0 int templateId = 56
+         0 int joystickId = 24
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [24]
+        0 ElementIdentifierMap data
+         0 int templateId = 57
+         0 int joystickId = 23
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [25]
+        0 ElementIdentifierMap data
+         0 int templateId = 58
+         0 int joystickId = 22
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [26]
+        0 ElementIdentifierMap data
+         0 int templateId = 61
+         0 int joystickId = 25
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [27]
+        0 ElementIdentifierMap data
+         0 int templateId = 62
+         0 int joystickId = 26
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [28]
+        0 ElementIdentifierMap data
+         0 int templateId = 63
+         0 int joystickId = 27
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [29]
+        0 ElementIdentifierMap data
+         0 int templateId = 27
+         0 int joystickId = 29
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [30]
+        0 ElementIdentifierMap data
+         0 int templateId = 28
+         0 int joystickId = 30
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [31]
+        0 ElementIdentifierMap data
+         0 int templateId = 29
+         0 int joystickId = 31
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [32]
+        0 ElementIdentifierMap data
+         0 int templateId = 30
+         0 int joystickId = 32
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [33]
+        0 ElementIdentifierMap data
+         0 int templateId = 31
+         0 int joystickId = 33
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [34]
+        0 ElementIdentifierMap data
+         0 int templateId = 32
+         0 int joystickId = 34
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [35]
+        0 ElementIdentifierMap data
+         0 int templateId = 33
+         0 int joystickId = 35
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [36]
+        0 ElementIdentifierMap data
+         0 int templateId = 34
+         0 int joystickId = 36
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [37]
+        0 ElementIdentifierMap data
+         0 int templateId = 35
+         0 int joystickId = 37
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [38]
+        0 ElementIdentifierMap data
+         0 int templateId = 36
+         0 int joystickId = 38
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [39]
+        0 ElementIdentifierMap data
+         0 int templateId = 37
+         0 int joystickId = 39
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [40]
+        0 ElementIdentifierMap data
+         0 int templateId = 38
+         0 int joystickId = 40
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [41]
+        0 ElementIdentifierMap data
+         0 int templateId = 39
+         0 int joystickId = 41
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [42]
+        0 ElementIdentifierMap data
+         0 int templateId = 40
+         0 int joystickId = 42
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [43]
+        0 ElementIdentifierMap data
+         0 int templateId = 41
+         0 int joystickId = 43
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [44]
+        0 ElementIdentifierMap data
+         0 int templateId = 42
+         0 int joystickId = 44
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+   [1]
+    0 Entry data
+     0 int id = 1
+     1 string name = "Saitek Pro Flight Yoke"
+     1 string joystickGuid = "6476e035-08d3-4b91-a336-f2e94ad89e6e"
+     1 string fileGuid = "91631b7cfb2e5d444a5b6f652ffaf6dc"
+     0 ElementIdentifierMap elementIdentifierMappings
+      1 Array Array (36 items)
+       0 int size = 36
+       [0]
+        0 ElementIdentifierMap data
+         0 int templateId = 0
+         0 int joystickId = 0
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [1]
+        0 ElementIdentifierMap data
+         0 int templateId = 1
+         0 int joystickId = 1
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [2]
+        0 ElementIdentifierMap data
+         0 int templateId = 2
+         0 int joystickId = 2
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [3]
+        0 ElementIdentifierMap data
+         0 int templateId = 3
+         0 int joystickId = 3
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [4]
+        0 ElementIdentifierMap data
+         0 int templateId = 4
+         0 int joystickId = 4
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [5]
+        0 ElementIdentifierMap data
+         0 int templateId = 7
+         0 int joystickId = 12
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [6]
+        0 ElementIdentifierMap data
+         0 int templateId = 8
+         0 int joystickId = 5
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [7]
+        0 ElementIdentifierMap data
+         0 int templateId = 8
+         0 int joystickId = 6
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [8]
+        0 ElementIdentifierMap data
+         0 int templateId = 13
+         0 int joystickId = 11
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [9]
+        0 ElementIdentifierMap data
+         0 int templateId = 14
+         0 int joystickId = 7
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [10]
+        0 ElementIdentifierMap data
+         0 int templateId = 15
+         0 int joystickId = 8
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [11]
+        0 ElementIdentifierMap data
+         0 int templateId = 16
+         0 int joystickId = 9
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [12]
+        0 ElementIdentifierMap data
+         0 int templateId = 17
+         0 int joystickId = 10
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [13]
+        0 ElementIdentifierMap data
+         0 int templateId = 19
+         0 int joystickId = 13
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [14]
+        0 ElementIdentifierMap data
+         0 int templateId = 20
+         0 int joystickId = 14
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [15]
+        0 ElementIdentifierMap data
+         0 int templateId = 21
+         0 int joystickId = 15
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [16]
+        0 ElementIdentifierMap data
+         0 int templateId = 61
+         0 int joystickId = 16
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [17]
+        0 ElementIdentifierMap data
+         0 int templateId = 62
+         0 int joystickId = 17
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [18]
+        0 ElementIdentifierMap data
+         0 int templateId = 63
+         0 int joystickId = 18
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [19]
+        0 ElementIdentifierMap data
+         0 int templateId = 43
+         0 int joystickId = 19
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [20]
+        0 ElementIdentifierMap data
+         0 int templateId = 44
+         0 int joystickId = 20
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [21]
+        0 ElementIdentifierMap data
+         0 int templateId = 45
+         0 int joystickId = 21
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [22]
+        0 ElementIdentifierMap data
+         0 int templateId = 46
+         0 int joystickId = 22
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [23]
+        0 ElementIdentifierMap data
+         0 int templateId = 47
+         0 int joystickId = 23
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [24]
+        0 ElementIdentifierMap data
+         0 int templateId = 48
+         0 int joystickId = 24
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [25]
+        0 ElementIdentifierMap data
+         0 int templateId = 27
+         0 int joystickId = 28
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [26]
+        0 ElementIdentifierMap data
+         0 int templateId = 28
+         0 int joystickId = 29
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [27]
+        0 ElementIdentifierMap data
+         0 int templateId = 29
+         0 int joystickId = 30
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [28]
+        0 ElementIdentifierMap data
+         0 int templateId = 30
+         0 int joystickId = 31
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [29]
+        0 ElementIdentifierMap data
+         0 int templateId = 31
+         0 int joystickId = 32
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [30]
+        0 ElementIdentifierMap data
+         0 int templateId = 32
+         0 int joystickId = 33
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [31]
+        0 ElementIdentifierMap data
+         0 int templateId = 33
+         0 int joystickId = 34
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [32]
+        0 ElementIdentifierMap data
+         0 int templateId = 34
+         0 int joystickId = 35
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [33]
+        0 ElementIdentifierMap data
+         0 int templateId = 64
+         0 int joystickId = 25
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [34]
+        0 ElementIdentifierMap data
+         0 int templateId = 65
+         0 int joystickId = 26
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [35]
+        0 ElementIdentifierMap data
+         0 int templateId = 66
+         0 int joystickId = 27
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+ 0 SpecialElementEntry specialElements
+  1 Array Array (8 items)
+   0 int size = 8
+   [0]
+    0 SpecialElementEntry data
+     0 int elementIdentifierId = 69
+     1 string data = "{"eid_axisX":0,"eid_axisZ":1}"
+   [1]
+    0 SpecialElementEntry data
+     0 int elementIdentifierId = 70
+     1 string data = "{"eid_axis":2,"eid_MinDetent":64}"
+   [2]
+    0 SpecialElementEntry data
+     0 int elementIdentifierId = 71
+     1 string data = "{"eid_axis":3,"eid_MinDetent":65}"
+   [3]
+    0 SpecialElementEntry data
+     0 int elementIdentifierId = 72
+     1 string data = "{"eid_axis":4,"eid_MinDetent":66}"
+   [4]
+    0 SpecialElementEntry data
+     0 int elementIdentifierId = 73
+     1 string data = "{"eid_axis":5,"eid_MinDetent":67}"
+   [5]
+    0 SpecialElementEntry data
+     0 int elementIdentifierId = 74
+     1 string data = "{"eid_axis":6,"eid_MinDetent":68}"
+   [6]
+    0 SpecialElementEntry data
+     0 int elementIdentifierId = 75
+     1 string data = "{"eid_up":27,"eid_upRight":28,"eid_right":29,"eid_downRight":30,"eid_down":31,"eid_downLeft":32,"eid_left":33,"eid_upLeft":34}"
+   [7]
+    0 SpecialElementEntry data
+     0 int elementIdentifierId = 76
+     1 string data = "{"eid_up":35,"eid_upRight":36,"eid_right":37,"eid_downRight":38,"eid_down":39,"eid_downLeft":40,"eid_left":41,"eid_upLeft":42}"
+ 0 int elementIdentifierIdCounter = 77
+ 0 int joystickIdCounter = 2
