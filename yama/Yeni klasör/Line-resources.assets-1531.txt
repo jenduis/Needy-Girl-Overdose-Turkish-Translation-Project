@@ -17224,7 +17224,7 @@
      1 string ParentId = "Day0_JINE"
      1 string Speaker = "ame"
      1 string BodyJp = "いまチヤホヤされるには\r\n配信者になるのが一番！"
-     1 string BodyEn = "and streamers get fawned over the most rn! so thats why i wanted to be one!"
+     1 string BodyEn = "bu çagda da seni prenses gibi sevip simartsinlar istiyosan en iyisi yayinci olmak"
      1 string BodyCn = "而现在想被追捧，最好的办法就是成为主播！"
      1 string BodyKo = "요즘 시대에 이쁨받으려면 스트리머가 되는 게 최선이라구!"
      1 string BodyTw = "而現在想被追捧，最好的辦法就是成為主播！"
