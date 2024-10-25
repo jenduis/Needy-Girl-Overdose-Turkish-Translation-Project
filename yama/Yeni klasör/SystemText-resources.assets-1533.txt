@@ -14,7 +14,7 @@
     0 Param data
      1 string Id = "Start_Menu_Open"
      1 string BodyJp = "スタート"
-     1 string BodyEn = "BASLA"
+     1 string BodyEn = "BASLAT"
      1 string BodyCn = "开始"
      1 string BodyKo = "시작"
      1 string BodyTw = "開始"
@@ -446,7 +446,7 @@
     0 Param data
      1 string Id = "Day"
      1 string BodyJp = "DAY"
-     1 string BodyEn = "SABAH"
+     1 string BodyEn = "GÜN"
      1 string BodyCn = "第N天"
      1 string BodyKo = "DAY"
      1 string BodyTw = "第N天"
@@ -2046,7 +2046,7 @@
     0 Param data
      1 string Id = "Shortcut_Play"
      1 string BodyJp = "あそぶ"
-     1 string BodyEn = "Hang Out"
+     1 string BodyEn = "Takilmaca"
      1 string BodyCn = "陪玩"
      1 string BodyKo = "놀기"
      1 string BodyTw = "陪玩"
@@ -2062,7 +2062,7 @@
     0 Param data
      1 string Id = "Shortcut_Drug"
      1 string BodyJp = "おくすり"
-     1 string BodyEn = "İlaç"
+     1 string BodyEn = "Hap"
      1 string BodyCn = "吃药"
      1 string BodyKo = "약 먹기"
      1 string BodyTw = "吃藥"
