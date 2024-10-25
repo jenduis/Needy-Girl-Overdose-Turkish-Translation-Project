@@ -1,5 +1,29 @@
 TenComment [2][12]: chouten-chan için çeviri
 TenComment [4]: otaku mu animeci mi ona karar ver
+Line [957]: bu kısımda başlayan m kısmına emin olamadım iyi mi kötü mü
+Line [963] [967]: şimdilik aklıma bir şey gelmedi
+Line [966][978]: içime sinmedi
+Line [969]: chouten-chan
+Line [971]: 承認 ilgi değil de onaylanmaya tekabül ediyo belki değişebilir + otaku/animeci
+SystemText [17][18][137][141][142][148][153]-[174]: geçtim çünkü chouten-chan
+SystemText [21]: inan bilmiyorum bu ne
+SystemText [25][26][116][127]: tam nerde çıkıyo bilmiyom ona göre bi şey yazarım belki
+SystemText [31][40][58]: direkt TİVİT yazdım ama belki daha iyi bi şey bulunur
+SystemText [38][39]: aynı şeyi yazdım çünkü farkı ne bilmiyom sonra bakarım ona göre değişebilir
+SystemText [42][54]: komut içime sinmedi
+SystemText [43][44][102][125]: geçtim çünkü bilemedim ne yazılır
+SystemText [45]: 万 demiş ama diğer çevirilerde 1k diyen var 10k diyen var 1m diyen var bilemedim
+SystemText [61][184]: geçtim çünkü nerde giriyo bu hatırlamıyorum sonra düzeltirim
+SystemText [65]: şuku yazma fırsatını kaçırmak istemedim ama silebilirim/değiştirebilirim ileride
+SystemText [67][121][139][175]: geçtim çünkü bu ekranda kaç karakterde bir line break atmak en iyisi bilmiyorum
+SystemText [74]: line break lazım olabilir
+SystemText [103]: geçtim çünkü aklıma komik bi fikir gelmedi
+SystemText [112]: içime sinmedi
+SystemText [123]: geçtim çünkü 2channel yerine otakusözlük tarzı bir şey yazmak mantıklı mı değil mi henüz karar veremedim
+SystemText [124]: sosyal medya yerine tivitır tarzı bir şey yazılabilir belki ama bilmiyom
+SystemText [131]: vatsapp yazdım ama daha komiği çıkar belki
+SystemText [132]-[135]: deneyimler yazdım ama daha uygunu çıkar belki
+SystemText [144]: fanart dedim ama çevirmek/başka bir şey yazmak daha iyi olabilir belki
+SystemText [186]: heberler dedim ama daha komiği çıkar belki
 
-bunu okuyorsan calismistir
-okuyom
+

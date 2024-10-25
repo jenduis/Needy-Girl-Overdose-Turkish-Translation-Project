@@ -1,11 +1,12 @@
-TenComment: 0/987
+TenComment: 13/987
 Kitune: 0/185
 KRep: 0/591
-KusoComment: 0/2208
-Line: 0/1506 (0. gün 950. satırdan başlıyo)
-SystemText: 0/431
+KusoComment: 28/2208
+Line: 32/1506 (0. gün 950. satırdan başlıyo)
+SystemText: 143/431
 MobComment: 0/242
-Tweet: 0/401
-Toplam: 0/6551
+Tweet: 1/401
+Toplam: 217/6551 (%3,31)
 
-sonra bakılacaklar: TenComment[2] [12]
+1. Gün: 74 Diyalog (13TenComment, 28KusoComment, 32Line, 1Tweet) + 143 UI = 217 satır (+%3,31)
+
