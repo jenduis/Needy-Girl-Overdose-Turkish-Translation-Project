@@ -1806,7 +1806,7 @@
     0 Param data
      1 string Id = "System_ScreenSize2"
      1 string BodyJp = "等倍"
-     1 string BodyEn = "Aynı Boyut"
+     1 string BodyEn = "Orantıya Ölçekli"
      1 string BodyCn = "等比"
      1 string BodyKo = "배율"
      1 string BodyTw = "等倍大小"
@@ -1822,7 +1822,7 @@
     0 Param data
      1 string Id = "System_ScreenSize3"
      1 string BodyJp = "ウィンドウ"
-     1 string BodyEn = "Pencere"
+     1 string BodyEn = "Pencereli"
      1 string BodyCn = "窗口"
      1 string BodyKo = "윈도우"
      1 string BodyTw = "窗口"
