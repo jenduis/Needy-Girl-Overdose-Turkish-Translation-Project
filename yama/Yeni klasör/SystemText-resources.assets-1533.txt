@@ -3038,7 +3038,7 @@
     0 Param data
      1 string Id = "Ending_Ideon_taikii001"
      1 string BodyJp = "ジェルばんは！！！"
-     1 string BodyEn = "Hey cutie!!!"
+     1 string BodyEn = "cennet isiklari geceni aydinlatsin!!!"
      1 string BodyCn = "小天使请安！！！"
      1 string BodyKo = "젤하!!!"
      1 string BodyTw = "小天使請安！！！"
@@ -3054,7 +3054,7 @@
     0 Param data
      1 string Id = "Ending_Ideon_taikii002"
      1 string BodyJp = "この時を待っていた"
-     1 string BodyEn = "!! I'VE BEEN WAITING FOR THIS"
+     1 string BodyEn = "aha bu ani bekliyodum"
      1 string BodyCn = "终于等到你"
      1 string BodyKo = "이때를 기다렸지"
      1 string BodyTw = "等這個時候已經等很久了"
@@ -3070,7 +3070,7 @@
     0 Param data
      1 string Id = "Ending_Ideon_taikii003"
      1 string BodyJp = "こんなやつがトップなん"
-     1 string BodyEn = "how the hell is she the most popular streamer"
+     1 string BodyEn = "sitedeki en populer isim harbiden bu mu yani simdi"
      1 string BodyCn = "直播界顶流就这？"
      1 string BodyKo = "이딴 녀석이 톱이라니"
      1 string BodyTw = "怎麼會是這種貨色最受歡迎啊"
@@ -3086,7 +3086,7 @@
     0 Param data
      1 string Id = "Ending_Ideon_taikii004"
      1 string BodyJp = "この国はどうなるのか……"
-     1 string BodyEn = "What is this world coming to"
+     1 string BodyEn = "memleketin çivisi çikmis arkadas bu nedir böyle"
      1 string BodyCn = "感觉我国前途难测……"
      1 string BodyKo = "이 나라의 미래가 어둡따…"
      1 string BodyTw = "這個國家是怎麼了……"
@@ -3102,7 +3102,7 @@
     0 Param data
      1 string Id = "Ending_Ideon_taikii005"
      1 string BodyJp = "インターネットでいちばん凄い女"
-     1 string BodyEn = "BEST GRILL ON THE INTERNET"
+     1 string BodyEn = "ulan bu kiz gibisi var mi be internette"
      1 string BodyCn = "全网最厉害的女人"
      1 string BodyKo = "인터넷에서 가장 대단한 년인 듯"
      1 string BodyTw = "網路世界裡最厲害的女人"
@@ -3118,7 +3118,7 @@
     0 Param data
      1 string Id = "Ending_Ideon_taikii006"
      1 string BodyJp = "すでに1億人が待機！？"
-     1 string BodyEn = "one hundred million viewers waiting??!!?!?"
+     1 string BodyEn = "ne ara 100 milyon oldu çüs"
      1 string BodyCn = "还没开场观众就破亿了？！"
      1 string BodyKo = "벌써 1억 명이나 대기 중이라고?"
      1 string BodyTw = "已經有一億人在等了！？"
@@ -3134,7 +3134,7 @@
     0 Param data
      1 string Id = "Ending_Ideon_taikii007"
      1 string BodyJp = "これネット持つ？大丈夫？"
-     1 string BodyEn = "inb4 server dies lmao"
+     1 string BodyEn = "site bu kadar fazlasini kaldirabilir mi ki ya??"
      1 string BodyCn = "服务器不会崩吗？顶得住？"
      1 string BodyKo = "인터넷이 버틸 수 있나? 괜찮은 거 맞음?"
      1 string BodyTw = "這樣網路撐得住嗎？沒問題嗎？"
@@ -3150,7 +3150,7 @@
     0 Param data
      1 string Id = "Ending_Ideon_taikii008"
      1 string BodyJp = "天国へ行く準備完了……"
-     1 string BodyEn = "Take me to heaven now baby I'm ready"
+     1 string BodyEn = "arsa ermek için hazirim..."
      1 string BodyCn = "我准备好上天堂了……"
      1 string BodyKo = "천국에 갈 준비 끝났음…"
      1 string BodyTw = "天國之行已準備好！"
@@ -3166,7 +3166,7 @@
     0 Param data
      1 string Id = "Ending_Ideon_taikii009"
      1 string BodyJp = "インターネットの聖母"
-     1 string BodyEn = "mother mary who?"
+     1 string BodyEn = "atatürk gibi kadin bunun gibileri 100 yilda bir gelir anca"
      1 string BodyCn = "当代互联网大圣母"
      1 string BodyKo = "인터넷 세상의 성모님임"
      1 string BodyTw = "網路世界的聖母"
@@ -3198,7 +3198,7 @@
     0 Param data
      1 string Id = "Ideon_2ch_res1"
      1 string BodyJp = "救済の時、はじまる"
-     1 string BodyEn = "It is our time to be saved..."
+     1 string BodyEn = "KURTAR BIZI BU CEHENNEMDEN"
      1 string BodyCn = "救赎之刻 即将到来"
      1 string BodyKo = "구제의 시간이 다가왔다"
      1 string BodyTw = "拯救的時刻 即將開始"
@@ -3214,7 +3214,7 @@
     0 Param data
      1 string Id = "Ideon_2ch_res2"
      1 string BodyJp = "顔が良すぎてワロタ"
-     1 string BodyEn = "she hot lol"
+     1 string BodyEn = "tam çitir la bu asdvasdavs
      1 string BodyCn = "颜值也太高 笑到我"
      1 string BodyKo = "얼굴 짱 커여움 ㅋㅋㅋ"
      1 string BodyTw = "這顏值高到笑傻我啦"
@@ -3230,7 +3230,7 @@
     0 Param data
      1 string Id = "Ideon_2ch_res3"
      1 string BodyJp = "これがインターネットで一番大きなイベントか"
-     1 string BodyEn = "This has got to be the biggest thing to ever happen to online"
+     1 string BodyEn = "internette bundan büyük olay yasanmadi herhalde"
      1 string BodyCn = "这就是当代互联网规模最大的狂欢吗"
      1 string BodyKo = "이게 인터넷에서 가장 큰 이벤트인가"
      1 string BodyTw = "這是網路世界最盛大的活動了吧"
@@ -3246,7 +3246,7 @@
     0 Param data
      1 string Id = "Ideon_2ch_res4"
      1 string BodyJp = "もう超てんちゃんがいなかった時代が思い出せないや"
-     1 string BodyEn = "I can barely remember a time before kangel"
+     1 string BodyEn = "artik bu kizin hayatimiza girmeden önceki zamani hatirlayamiyom bile mk"
      1 string BodyCn = "我已经想不起没有超天酱的那些日子是怎么过来的了"
      1 string BodyKo = "이제 초텐이 없던 시절은 하나도 생각 안 남"
      1 string BodyTw = "已經不記得超天醬還沒出道的時代了"
@@ -3262,7 +3262,7 @@
     0 Param data
      1 string Id = "Ideon_2ch_res5"
      1 string BodyJp = "俺はこんなやつ認めん"
-     1 string BodyEn = "Fuck this girl"
+     1 string BodyEn = "bunu da ne abarttiniz aq"
      1 string BodyCn = "我可看不上这种女人"
      1 string BodyKo = "난 이런 녀석 인정 못 함"
      1 string BodyTw = "我不承認有這個傢伙"
@@ -3278,7 +3278,7 @@
     0 Param data
      1 string Id = "Ideon_2ch_res6"
      1 string BodyJp = "所詮は顔だけの女が”救済”ねぇ？"
-     1 string BodyEn = "How's she gonna save us? With her nosejob?"
+     1 string BodyEn = "hee yüzü güzel diye kurtarcak bizi amk siz MAL misiniz"
      1 string BodyCn = "一个空有皮囊的女人，也敢来谈“拯救”？"
      1 string BodyKo = "어차피 얼굴만 반반한 여자가 ”구제”라는 거잖아?"
      1 string BodyTw = "說穿了也只是賣「贖罪」賣臉的女人吧？"
@@ -3294,7 +3294,7 @@
     0 Param data
      1 string Id = "Ideon_2ch_res7"
      1 string BodyJp = "俺のおじいちゃんすら超てんちゃん追ってる"
-     1 string BodyEn = "Dude even my grandpa watches KAngel"
+     1 string BodyEn = "kör dedem bile bunun yayinlari izliyo aq"
      1 string BodyCn = "现在连我爷爷都在追超天酱啊"
      1 string BodyKo = "우리 할아버지마저 초텐을 따르고 있어"
      1 string BodyTw = "連我爺爺也在追超天醬呢"
@@ -3310,7 +3310,7 @@
     0 Param data
      1 string Id = "Ideon_2ch_res8"
      1 string BodyJp = "43歳無職の俺もこれで救われるのか……"
-     1 string BodyEn = "Finally... Hope for a jobless middle aged freak like me..."
+     1 string BodyEn = "Benim gibi 43 yasinda issiz güçsüz birini de kurtarir mi acaba?"
      1 string BodyCn = "本43岁无业游民也能因此得救吗……"
      1 string BodyKo = "43세에 백수인 나도 구원받을 수 있나…"
      1 string BodyTw = "超天醬也能拯救43歲沒工作的我嗎？"
@@ -3326,7 +3326,7 @@
     0 Param data
      1 string Id = "Ideon_2ch_res9"
      1 string BodyJp = "伝説を目の当たりにできたこと一族の誇りにするよ"
-     1 string BodyEn = "I'm going to tell all my grandkids that I was alive for this legend"
+     1 string BodyEn = "var yaaa ileride torunlar gelcek dede bi kiz varmis tüm dünya izlemis sen biliyon mu diyecek övüne övüne anlatacam"
      1 string BodyCn = "光荣见证传说 今后这就是我全家的骄傲了"
      1 string BodyKo = "전설을 이 눈으로 확인한 걸 일족의 가보로 삼을 것"
      1 string BodyTw = "能夠親眼目睹傳說的誕生 也夠我向全家說嘴了"
@@ -3342,7 +3342,7 @@
     0 Param data
      1 string Id = "Ideon_2ch_res10"
      1 string BodyJp = "好きだよ"
-     1 string BodyEn = "I love you"
+     1 string BodyEn = "seni seviyorum"
      1 string BodyCn = "喜欢你哦"
      1 string BodyKo = "좋아함"
      1 string BodyTw = "喜歡你"
@@ -3358,7 +3358,7 @@
     0 Param data
      1 string Id = "Ideon_hutaba_res0"
      1 string BodyJp = "ぽきあき"
-     1 string BodyEn = "lads"
+     1 string BodyEn = "beyler"
      1 string BodyCn = "有名氏"
      1 string BodyKo = "아무개"
      1 string BodyTw = "噁宅系～"
@@ -3374,7 +3374,7 @@
     0 Param data
      1 string Id = "PictureFolder"
      1 string BodyJp = "新しいフォルダ"
-     1 string BodyEn = "New Folder"
+     1 string BodyEn = "Yeni Klasör"
      1 string BodyCn = "新建文件夹"
      1 string BodyKo = "새 폴더"
      1 string BodyTw = "新增資料夾"
@@ -3390,7 +3390,7 @@
     0 Param data
      1 string Id = "SwitchGuide01"
      1 string BodyJp = "操作説明"
-     1 string BodyEn = "Controls"
+     1 string BodyEn = "Kontroller"
      1 string BodyCn = "操作说明"
      1 string BodyKo = "操作說明"
      1 string BodyTw = "조작 설명"
@@ -3406,7 +3406,7 @@
     0 Param data
      1 string Id = "SwitchGuide02"
      1 string BodyJp = "デスクトップ"
-     1 string BodyEn = "Desktop"
+     1 string BodyEn = "Masaüstü"
      1 string BodyCn = "桌面"
      1 string BodyKo = "내 컴퓨터"
      1 string BodyTw = "桌面"
@@ -3422,7 +3422,7 @@
     0 Param data
      1 string Id = "SwitchGuide03"
      1 string BodyJp = "配信中"
-     1 string BodyEn = "Streaming"
+     1 string BodyEn = "Yayinda"
      1 string BodyCn = "直播中"
      1 string BodyKo = "방송 중"
      1 string BodyTw = "直播中"
@@ -3438,7 +3438,7 @@
     0 Param data
      1 string Id = "SwitchGuide04"
      1 string BodyJp = "ログイン画面"
-     1 string BodyEn = "Login Page"
+     1 string BodyEn = "Giris Ekrani"
      1 string BodyCn = "登录界面"
      1 string BodyKo = "로그인 화면"
      1 string BodyTw = "登入畫面"
@@ -3454,7 +3454,7 @@
     0 Param data
      1 string Id = "SwitchGuide05"
      1 string BodyJp = "ポチ"
-     1 string BodyEn = "Click"
+     1 string BodyEn = "Tik"
      1 string BodyCn = "点击"
      1 string BodyKo = "輕觸"
      1 string BodyTw = "클릭"
@@ -3470,7 +3470,7 @@
     0 Param data
      1 string Id = "SwitchGuide06"
      1 string BodyJp = "×にいどう"
-     1 string BodyEn = "Move to ✗"
+     1 string BodyEn = "✗'e git"
      1 string BodyCn = "移动到✗"
      1 string BodyKo = "回到✗"
      1 string BodyTw = "X(으)로 이동"
@@ -3486,7 +3486,7 @@
     0 Param data
      1 string Id = "SwitchGuide07"
      1 string BodyJp = "連続で押した場合は\r\n次のウインドウの閉じるボタンへ移動"
-     1 string BodyEn = "Multi-press to move to the\nnext close window button"
+     1 string BodyEn = "Sonraki pencerenin kapatma ekrani için art arda tikla"
      1 string BodyCn = "连续按下此键\r\n则跳转至下一个窗口的关闭按钮"
      1 string BodyKo = "연속으로 누르면\r\n다음 윈도우 닫힘 버튼으로 이동"
      1 string BodyTw = "連續點按\r\n則前往下一個關閉視窗的按鈕"
@@ -3502,7 +3502,7 @@
     0 Param data
      1 string Id = "SwitchGuide08"
      1 string BodyJp = "デスクトップのアイコンにいどう"
-     1 string BodyEn = "Move to Desktop Icon"
+     1 string BodyEn = "Masaüstü simgesine git"
      1 string BodyCn = "移动到桌面图标"
      1 string BodyKo = "移動到桌面選項"
      1 string BodyTw = "바탕화면 아이콘으로 이동"
@@ -3518,7 +3518,7 @@
     0 Param data
      1 string Id = "SwitchGuide09"
      1 string BodyJp = "連続で押した場合は\r\n次のアイコンへ移動する"
-     1 string BodyEn = "Multi-press to move\nto the next icon"
+     1 string BodyEn = "Sonraki simgeye gitmek için art arda tikla"
      1 string BodyCn = "连续按下此键\r\n则跳转至下一个图标"
      1 string BodyKo = "연속으로 누르면\r\n다음 아이콘으로 이동"
      1 string BodyTw = "連續點按則前往\r\n下一個圖示"
@@ -3534,7 +3534,7 @@
     0 Param data
      1 string Id = "SwitchGuide10"
      1 string BodyJp = "つうちをみる"
-     1 string BodyEn = "View Notifs"
+     1 string BodyEn = "Bildirimlere bak"
      1 string BodyCn = "查看通知"
      1 string BodyKo = "檢視通知"
      1 string BodyTw = "알림 보기"
@@ -3550,7 +3550,7 @@
     0 Param data
      1 string Id = "SwitchGuide11"
      1 string BodyJp = "つぎのボタン"
-     1 string BodyEn = "Next"
+     1 string BodyEn = "Sonraki"
      1 string BodyCn = "下一个按键"
      1 string BodyKo = "下一個按鈕"
      1 string BodyTw = "다음 버튼"
@@ -3566,7 +3566,7 @@
     0 Param data
      1 string Id = "SwitchGuide12"
      1 string BodyJp = "まえのボタン"
-     1 string BodyEn = "Previous"
+     1 string BodyEn = "Önceki"
      1 string BodyCn = "前一个按键"
      1 string BodyKo = "上一個按鈕"
      1 string BodyTw = "이전 버튼"
@@ -3582,7 +3582,7 @@
     0 Param data
      1 string Id = "SwitchGuide13"
      1 string BodyJp = "ウインドウきりかえ"
-     1 string BodyEn = "Change Windows"
+     1 string BodyEn = "Pencere Degistir"
      1 string BodyCn = "切换窗口"
      1 string BodyKo = "切換視窗"
      1 string BodyTw = "윈도우 전환"
@@ -3598,7 +3598,7 @@
     0 Param data
      1 string Id = "SwitchGuide14"
      1 string BodyJp = "スタート"
-     1 string BodyEn = "START"
+     1 string BodyEn = "BASLA"
      1 string BodyCn = "开始"
      1 string BodyKo = "시작"
      1 string BodyTw = "開始"
@@ -3614,7 +3614,7 @@
     0 Param data
      1 string Id = "SwitchGuide15"
      1 string BodyJp = "スクロール"
-     1 string BodyEn = "Scroll"
+     1 string BodyEn = "Kaydir"
      1 string BodyCn = "滚动"
      1 string BodyKo = "滾動"
      1 string BodyTw = "스크롤"
@@ -3630,7 +3630,7 @@
     0 Param data
      1 string Id = "SwitchGuide16"
      1 string BodyJp = "動く"
-     1 string BodyEn = "Move"
+     1 string BodyEn = "Hareket et"
      1 string BodyCn = "移动"
      1 string BodyKo = "移動"
      1 string BodyTw = "이동"
@@ -3646,7 +3646,7 @@
     0 Param data
      1 string Id = "SwitchGuide17"
      1 string BodyJp = "ゆっくり動く"
-     1 string BodyEn = "Go Slow"
+     1 string BodyEn = "Yavasça hareket et"
      1 string BodyCn = "缓慢移动"
      1 string BodyKo = "慢速移動"
      1 string BodyTw = "천천히 이동"
@@ -3662,7 +3662,7 @@
     0 Param data
      1 string Id = "SwitchGuide18"
      1 string BodyJp = "LR同時押し"
-     1 string BodyEn = "Press L + R"
+     1 string BodyEn = "L+R tuslarina bas"
      1 string BodyCn = "同时按下L和R"
      1 string BodyKo = "L+R 동시에 누르기"
      1 string BodyTw = "同時按住左右鍵"
@@ -3678,7 +3678,7 @@
     0 Param data
      1 string Id = "SwitchGuide19"
      1 string BodyJp = "デスクトップを見る"
-     1 string BodyEn = "View Desktop"
+     1 string BodyEn = "Masaüstünü görüntüle"
      1 string BodyCn = "显示桌面"
      1 string BodyKo = "顯示桌面"
      1 string BodyTw = "바탕화면 보기"
@@ -3694,7 +3694,7 @@
     0 Param data
      1 string Id = "SwitchGuide20"
      1 string BodyJp = "はいしんスキップ"
-     1 string BodyEn = "Skip Stream"
+     1 string BodyEn = "Yayini Atla"
      1 string BodyCn = "跳过直播"
      1 string BodyKo = "跳過直播"
      1 string BodyTw = "방송 스킵"
@@ -3710,7 +3710,7 @@
     0 Param data
      1 string Id = "SwitchGuide21"
      1 string BodyJp = "はやくする"
-     1 string BodyEn = "Speed Up"
+     1 string BodyEn = "Hizlan"
      1 string BodyCn = "加快"
      1 string BodyKo = "快速"
      1 string BodyTw = "빠르게"
@@ -3726,7 +3726,7 @@
     0 Param data
      1 string Id = "SwitchGuide22"
      1 string BodyJp = "おそくする"
-     1 string BodyEn = "Slow Down"
+     1 string BodyEn = "Yavasla"
      1 string BodyCn = "减慢"
      1 string BodyKo = "慢速"
      1 string BodyTw = "느리게"
@@ -3742,7 +3742,7 @@
     0 Param data
      1 string Id = "SwitchGuide23"
      1 string BodyJp = "つぎのコメント"
-     1 string BodyEn = "Next Comment"
+     1 string BodyEn = "Siradaki yorum"
      1 string BodyCn = "下一条留言"
      1 string BodyKo = "下一則留言"
      1 string BodyTw = "다음 댓글"
@@ -3758,7 +3758,7 @@
     0 Param data
      1 string Id = "SwitchGuide24"
      1 string BodyJp = "まえのコメント"
-     1 string BodyEn = "Previous Comment"
+     1 string BodyEn = "Önceki yorum"
      1 string BodyCn = "前一条留言"
      1 string BodyKo = "上一則留言"
      1 string BodyTw = "이전 댓글"
@@ -3774,7 +3774,7 @@
     0 Param data
      1 string Id = "SwitchGuide25"
      1 string BodyJp = "コメント未選択時は\r\n最新のコメントへ移動"
-     1 string BodyEn = "Moves to the newest comment\nwhen no comments are selected"
+     1 string BodyEn = "Yorum seçili degilse\r\nen yeni yoruma git"
      1 string BodyCn = "玩家未选择留言时\r\n则自动跳转至最新留言"
      1 string BodyKo = "댓글 미선택 시\r\n최신 댓글로 이동"
      1 string BodyTw = "未選擇留言時\r\n會跳到最新留言"
@@ -3790,7 +3790,7 @@
     0 Param data
      1 string Id = "SwitchGuide26"
      1 string BodyJp = "×・もどるにいどう"
-     1 string BodyEn = "Return/Move to ✗"
+     1 string BodyEn = "✗'e dön/git"
      1 string BodyCn = "移动到✗/返回"
      1 string BodyKo = "✗・回到上一頁"
      1 string BodyTw = "X: 뒤로 이동"
@@ -3806,7 +3806,7 @@
     0 Param data
      1 string Id = "System_Vibration"
      1 string BodyJp = "ふるえ"
-     1 string BodyEn = "Vibration"
+     1 string BodyEn = "Titresim"
      1 string BodyCn = "震动"
      1 string BodyKo = "진동"
      1 string BodyTw = "震動"
@@ -3822,7 +3822,7 @@
     0 Param data
      1 string Id = "System_VibrationOn"
      1 string BodyJp = "On"
-     1 string BodyEn = "On"
+     1 string BodyEn = "Açik"
      1 string BodyCn = "On"
      1 string BodyKo = "On"
      1 string BodyTw = "On"
@@ -3838,7 +3838,7 @@
     0 Param data
      1 string Id = "System_VibrationOff"
      1 string BodyJp = "Off"
-     1 string BodyEn = "Off"
+     1 string BodyEn = "Kapali"
      1 string BodyCn = "Off"
      1 string BodyKo = "Off"
      1 string BodyTw = "Off"
@@ -3870,7 +3870,7 @@
     0 Param data
      1 string Id = "Ideon_hutaba_res2"
      1 string BodyJp = "配信見る前におまえたちもう\r\n寝なさい"
-     1 string BodyEn = "Ain't this stream gonna be way past your bedtimes. Shoo."
+     1 string BodyEn = "bebelerin yatma vakti geldi hadi hadi"
      1 string BodyCn = "看什么直播 好孩子该去洗洗睡了"
      1 string BodyKo = "니들 방송 보기 전에\r\n 그만 좀 자라"
      1 string BodyTw = "看直播前你們這些傢伙先給我去睡覺！"
@@ -3886,7 +3886,7 @@
     0 Param data
      1 string Id = "Ideon_hutaba_res3"
      1 string BodyJp = "誰この顔がいい女"
-     1 string BodyEn = "Yo who is this she a qt3.14"
+     1 string BodyEn = "beyler bu kiz kim instasi var mi"
      1 string BodyCn = "这个靓女是谁啊"
      1 string BodyKo = "이 얼굴 예쁘장한 여자는 누규"
      1 string BodyTw = "這個顏值不錯的女人是誰啊？"
@@ -3902,7 +3902,7 @@
     0 Param data
      1 string Id = "Ideon_hutaba_res4"
      1 string BodyJp = "世界一の天使なんやな"
-     1 string BodyEn = "she truly is the greatest angel in the whole wide world..."
+     1 string BodyEn = "bu çürümüs dünyanin biricik melegi"
      1 string BodyCn = "你是世界第一的天使啊"
      1 string BodyKo = "세계 최고의 천사임"
      1 string BodyTw = "真是世界第一的天使啊！"
@@ -3918,7 +3918,7 @@
     0 Param data
      1 string Id = "Ideon_hutaba_res5"
      1 string BodyJp = "フッフッフこれは驚いた\r\n今をときめくインターネット・\r\nエンジェルを知らないなんてね"
-     1 string BodyEn = "Heh... You fool. \r\nHow can you not know who this darling \r\ninternet angel is?"
+     1 string BodyEn = "bre kafir sen kimsin de internet aleminin melegini bilmezsin"
      1 string BodyCn = "哼哼哼，我承认你惊到我了\r\n 竟然还有人不知道眼下\r\n 最最火爆的当代互联网小天使"
      1 string BodyKo = "후후후, 이거 놀랍군\r\n 지금 화제인 인터넷 엔젤을\r\n 아직도 모르는 녀석이 있다니"
      1 string BodyTw = "哈哈哈！這太讓人驚訝了！\r\n 居然沒聽過現在最紅的網路天使？"
@@ -3934,7 +3934,7 @@
     0 Param data
      1 string Id = "Ideon_hutaba_res6"
      1 string BodyJp = "ぽきあきのアイドル"
-     1 string BodyEn = "she is queen of all anons uwu"
+     1 string BodyEn = "bir anadir o bizim için...."
      1 string BodyCn = "有名氏们的偶像"
      1 string BodyKo = "아무개 아이돌"
      1 string BodyTw = "噁宅系偶像"
@@ -3950,7 +3950,7 @@
     0 Param data
      1 string Id = "Ideon_hutaba_res7"
      1 string BodyJp = "超てん激萌え問題"
-     1 string BodyEn = "KANGEL TOO CUTE I'M GONNA DIE"
+     1 string BodyEn = "gel dese hamile sevgilimi birakip yanina giderim"
      1 string BodyCn = "超天酱激萌问题"
      1 string BodyKo = "초텐이 넘 모에해서 문제임"
      1 string BodyTw = "超天醬超萌提問"
@@ -3982,7 +3982,7 @@
     0 Param data
      1 string Id = "Ideon_hutaba_res9"
      1 string BodyJp = "なんか熱くね！？"
-     1 string BodyEn = "bit hot in here ay"
+     1 string BodyEn = "yandik aneyyy"
      1 string BodyCn = "不觉得很热吗？！"
      1 string BodyKo = "좀 뜨겁지 않아?"
      1 string BodyTw = "不覺得熱嗎？"
@@ -3998,7 +3998,7 @@
     0 Param data
      1 string Id = "Ideon_hutaba_res10"
      1 string BodyJp = "ああ救済ってそういう……"
-     1 string BodyEn = "Oh... I think I understand what heaven is now..."
+     1 string BodyEn = "sonunda bizi de görecek biri be"
      1 string BodyCn = "懂了，原来是这种“拯救”……"
      1 string BodyKo = "아, 구제가 이런 뜻이었나…"
      1 string BodyTw = "啊！所謂的拯救就是……"
@@ -4014,7 +4014,7 @@
     0 Param data
      1 string Id = "Ideon_nico_res1"
      1 string BodyJp = "天　使　語　録"
-     1 string BodyEn = "P R A I S E K A N G E L"
+     1 string BodyEn = "ISA MUSA SEN BIZI KUTSA"
      1 string BodyCn = "天 使 语 录"
      1 string BodyKo = "천 사 어 록"
      1 string BodyTw = "天 使 語 錄"
@@ -4046,7 +4046,7 @@
     0 Param data
      1 string Id = "Ideon_nico_res3"
      1 string BodyJp = "【音MAD】ジェルばんはノキワミ"
-     1 string BodyEn = "[MAD] Best of KAngel: Hey Cuties!"
+     1 string BodyEn = "Kafadan Kontak Melek (EducateDear Remix)"
      1 string BodyCn = "【音MAD】什么叫最棒的小天使请安"
      1 string BodyKo = "[음성 MAD] 젤하극점을 검증해 보았다"
      1 string BodyTw = "【音MAD】小天使請安究極版"
@@ -4078,7 +4078,7 @@
     0 Param data
      1 string Id = "Ideon_nico_res5"
      1 string BodyJp = "聖なるかな"
-     1 string BodyEn = "Praise be to KAngel"
+     1 string BodyEn = "ISA <3 MUSA <3 SEN <3 BIZI <3 KUTSA <3"
      1 string BodyCn = "圣哉，圣哉"
      1 string BodyKo = "성스러운 거 맞나"
      1 string BodyTw = "這算神聖嗎"
@@ -4126,7 +4126,7 @@
     0 Param data
      1 string Id = "Ideon_news_res3"
      1 string BodyJp = "すでに待機中の人数は\r\n1億を超え、世界で最も\r\n大きな祭りとなるであろう。"
-     1 string BodyEn = "Currently, more than one hundred million viewers are waiting on standby for the stream to begin. No doubt this will become one of the world's biggest and most historic events."
+     1 string BodyEn = "An itibariyle yayinin baslamasini bekleyen izleyicisi sayisi 100 milyonu geçti. Bu özel günün ileride tüm dünyada kutlanilan bir bayram olacagi öngörülüyor. "
      1 string BodyCn = "目前等待开播的观众已经破亿，\r\n 这场直播或将成为\r\n 人类历史上空前绝后的一场狂欢。"
      1 string BodyKo = "이미 방송 대기 인원은\r\n 1억 명을 넘어, 세계에서 가장\r\n 거대한 축제가 될 예정이다."
      1 string BodyTw = "上線等待者已超過一億人，\r\n 應該是全世界最大的一場活動吧！"
@@ -4142,7 +4142,7 @@
     0 Param data
      1 string Id = "Ideon_news_res4"
      1 string BodyJp = "ちなみに、筆者も\r\nインターネット・エンジェルの\r\n大ファンであり、これから\r\n天使の祝祭を見届けるつもりである\r\n†昇天†"
-     1 string BodyEn = "By the way, the author is also a huge fan of our dear internet angel, so let's not waste any more time and head on over to celebrate our angel's success. 🙏BLESS🙏"
+     1 string BodyEn = "Bu arada belirtmek gerekir ki okudugunuz haberin yazari da internet aleminin meleginin büyük bir hayrani. Hep beraber önümüzdeki kutlamanin tadini çikarmaya bakalim. 🙏SENBIZIKUTSA🙏 "
      1 string BodyCn = "顺便一提，笔者也是这位\r\n 当代互联网小天使的忠实粉丝，\r\n 已经做好了见证天使祝祭的准备。\r\n †升天†"
      1 string BodyKo = "참고로 필자도 인터넷 엔젤의\r\n 광팬인 만큼, 앞으로 열릴 \r\n 천사의 축제를 지켜볼 예정이다.\r\n †승천†"
      1 string BodyTw = "順帶一提，筆者也是\r\n 超天醬的忠實粉絲，\r\n 也仔細關注這場屬於天使的超大型活動。\r\n †昇天†"
@@ -4158,7 +4158,7 @@
     0 Param data
      1 string Id = "Ideon_Insta_res0"
      1 string BodyJp = "配信きてね！"
-     1 string BodyEn = "Be sure to watch the stream!"
+     1 string BodyEn = "Yayina gelmeyi unutmayin!"
      1 string BodyCn = "要来看直播哦！"
      1 string BodyKo = "방송, 보러 와!"
      1 string BodyTw = "趕快直播吧！"
@@ -4190,7 +4190,7 @@
     0 Param data
      1 string Id = "Ideon_Insta_res2"
      1 string BodyJp = "ジェルばんは！！！"
-     1 string BodyEn = "Hey cutie!!!"
+     1 string BodyEn = "Cennet isiklari gecenizi aydinlatsin!!!"
      1 string BodyCn = "小天使请安！！！"
      1 string BodyKo = "젤하!!!"
      1 string BodyTw = "小天使請安！！！"
@@ -4206,7 +4206,7 @@
     0 Param data
      1 string Id = "Ideon_Insta_res3"
      1 string BodyJp = "この時を待っていた"
-     1 string BodyEn = "!! I'VE BEEN WAITING FOR THIS"
+     1 string BodyEn = "aha bu ani bekliyodum"
      1 string BodyCn = "终于等到你"
      1 string BodyKo = "이때를 기다렸지"
      1 string BodyTw = "等這個時候已經等很久了"
@@ -4222,7 +4222,7 @@
     0 Param data
      1 string Id = "Ideon_Insta_res4"
      1 string BodyJp = "こんなやつがトップなん"
-     1 string BodyEn = "how the hell is she tghe most popular streamer"
+     1 string BodyEn = "sitedeki en populer isim harbiden bu mu yani simdi"
      1 string BodyCn = "直播界顶流就这？"
      1 string BodyKo = "이딴 녀석이 톱이라니"
      1 string BodyTw = "怎會是這種貨色最受歡迎啊"
@@ -4238,7 +4238,7 @@
     0 Param data
      1 string Id = "Ideon_Insta_res5"
      1 string BodyJp = "この国はどうなるのか……"
-     1 string BodyEn = "What is this world coming to"
+     1 string BodyEn = "memleketin çivisi çikmis arkadas bu nedir böyle"
      1 string BodyCn = "感觉我国前途难测……"
      1 string BodyKo = "이 나라의 미래가 어둡따…"
      1 string BodyTw = "這個國家是怎麼了……"
@@ -4254,7 +4254,7 @@
     0 Param data
      1 string Id = "Ideon_Insta_res6"
      1 string BodyJp = "インターネットでいちばん凄い女"
-     1 string BodyEn = "BEST GRILL ON THE INTERNET"
+     1 string BodyEn = "ulan bu kiz gibisi var mi be internette"
      1 string BodyCn = "全网最厉害的女人"
      1 string BodyKo = "인터넷에서 가장 대단한 년인 듯"
      1 string BodyTw = "網路世界裡最厲害的女人"
@@ -4270,7 +4270,7 @@
     0 Param data
      1 string Id = "Ideon_Insta_res7"
      1 string BodyJp = "すでに1億人が待機！？"
-     1 string BodyEn = "one hundred million viewers waiting??!!?!?"
+     1 string BodyEn = "ne ara 100 milyon oldu çüs"
      1 string BodyCn = "还没开场观众就破亿了？！"
      1 string BodyKo = "벌써 1억 명이나 대기 중이라고?"
      1 string BodyTw = "已經有一億人在線上等了！？"
@@ -4286,7 +4286,7 @@
     0 Param data
      1 string Id = "Ideon_Insta_res8"
      1 string BodyJp = "これネット持つ？大丈夫？"
-     1 string BodyEn = "inb4 server dies lmao"
+     1 string BodyEn = "site bu kadar fazlasini kaldirabilir mi ki ya??"
      1 string BodyCn = "服务器不会崩吗？顶得住？"
      1 string BodyKo = "인터넷이 버틸 수 있나? 괜찮아?"
      1 string BodyTw = "這樣網路撐得住嗎？沒問題嗎？"
@@ -4302,7 +4302,7 @@
     0 Param data
      1 string Id = "Ideon_Insta_res9"
      1 string BodyJp = "天国へ行く準備完了……"
-     1 string BodyEn = "Take me to heaven now baby I'm ready"
+     1 string BodyEn = "arsa ermek için hazirim..."
      1 string BodyCn = "我准备好上天堂了……"
      1 string BodyKo = "천국에 갈 준비 끝났음…"
      1 string BodyTw = "天國之行已準備好！"
@@ -4318,7 +4318,7 @@
     0 Param data
      1 string Id = "Ideon_Insta_res10"
      1 string BodyJp = "インターネットの聖母"
-     1 string BodyEn = "mother mary who?"
+     1 string BodyEn = "atatürk gibi kadin bunun gibileri 100 yilda bir gelir anca"
      1 string BodyCn = "当代互联网圣母"
      1 string BodyKo = "인터넷 세상의 성모님임"
      1 string BodyTw = "網路世界的聖母"
@@ -4366,7 +4366,7 @@
     0 Param data
      1 string Id = "Ideon_wiki_res2"
      1 string BodyJp = "フォロワー数は9999999を超え、\r\n自他共に認める\r\nこの世で最も顔が良い存在\r\nとなる。"
-     1 string BodyEn = "She has more than 9,999,999 followers, and has the cutest face in the whole wide world."
+     1 string BodyEn = "9,999,999 aboneden fazla abonesi olmasina ek olarak kainattaki en tatli kiz oldugu herkes tarafindan kabul edilmektedir"
      1 string BodyCn = "其粉丝数已超9999999，\r\n 毫无争议地成为了\r\n 全世界公认的颜值最强存在。"
      1 string BodyKo = "팔로워 수도 9,999,999를 넘어,\r\n 자타공인 모두가 인정하는\r\n 세계 최고의 미녀이다."
      1 string BodyTw = "粉絲數已超過9999999，\r\n 粉絲跟超天醬自己都認為\r\n 自己是世界上顏值最高的女人"
@@ -4382,7 +4382,7 @@
     0 Param data
      1 string Id = "Ideon_wiki_res3"
      1 string BodyJp = "評論家たちは\r\n天使のあまりの美しさに\r\n気絶してしまった。"
-     1 string BodyEn = "All her critics have been reported to have fainted from her sheer, angelic beauty."
+     1 string BodyEn = "Kendisini elestirmekten ötemeye gidenler ise uhrevi güzelliginin karsisinda bayilmaktan baska bir sey yapamadi."
      1 string BodyCn = "【评价】她天使般无与伦比的美丽\r\n 已令所有的评论家都为之窒息。"
      1 string BodyKo = "[평가] 평론가들 역시\r\n 천사의 아름다운 미모에\r\n 기절해 버렸다고 한다."
      1 string BodyTw = "【評價】評論家們都為天使的美麗所傾倒。"
@@ -4398,7 +4398,7 @@
     0 Param data
      1 string Id = "Ending_Happy_System001"
      1 string BodyJp = "@raincandy_Uのフォロワーが増えたようです"
-     1 string BodyEn = "@raincandy_U has gained new followers."
+     1 string BodyEn = "@raincandy_U'nun yeni takipçileri var."
      1 string BodyCn = "@raincandy_U有了新粉丝"
      1 string BodyKo = "@raincandy_U 계정에 새로운 팔로워가 있습니다"
      1 string BodyTw = "@raincandy_U有了新粉絲"
@@ -4413,7 +4413,7 @@
    [275]
     0 Param data
      1 string Id = "Ending_Happy_Follower1"
-     1 string BodyJp = "闇@fmPf1KVp6"
+     1 string BodyJp = "Karanlik@fmPf1KVp6"
      1 string BodyEn = "Abyss@fmPf1KVp6"
      1 string BodyCn = "黑暗@fmPf1KVp6"
      1 string BodyKo = "다크@fmPf1KVp6"
@@ -4446,7 +4446,7 @@
     0 Param data
      1 string Id = "Ending_Happy_Follower3"
      1 string BodyJp = "MUUU@muuu_news"
-     1 string BodyEn = "BEE@beenews"
+     1 string BodyEn = "MUUU@muuu_news"
      1 string BodyCn = "MUUU@muuu_news"
      1 string BodyKo = "MUUU@muuu_news"
      1 string BodyTw = "MUUU@muuu_news"
@@ -4462,7 +4462,7 @@
     0 Param data
      1 string Id = "ZZZ_Ending_Happy_Follow"
      1 string BodyJp = "フォロー"
-     1 string BodyEn = "Follow"
+     1 string BodyEn = "Takip"
      1 string BodyCn = "关注"
      1 string BodyKo = "팔로우"
      1 string BodyTw = "追蹤"
@@ -4478,7 +4478,7 @@
     0 Param data
      1 string Id = "ZZZ_Ending_Happy_FollowRequest"
      1 string BodyJp = "フォローリクエストを送る"
-     1 string BodyEn = "Send Follow Request"
+     1 string BodyEn = "Takip istegi gönder"
      1 string BodyCn = "发送关注请求"
      1 string BodyKo = "팔로워 요청 전송"
      1 string BodyTw = "發出追蹤請求"
@@ -4494,7 +4494,7 @@
     0 Param data
      1 string Id = "Ending_Happy_UrauraTweet001"
      1 string BodyJp = "幸せごっこもわるくなかったんだけどな、JINEとか送っちゃって"
-     1 string BodyEn = "dmed p-chan... guess pretending to be happy isnt too bad but..."
+     1 string BodyEn = "mutluymus gibi davranmak düsündügüm kadar kötü degilmis de benimkine vatsaptan yazarken buluverdim kendimi"
      1 string BodyCn = "假装幸福的游戏还蛮好玩的吧，发发JINE什么的"
      1 string BodyKo = "JINE 메시지를 보내며 행복한 척하는 것도 그닥 나쁘진 않았지만…"
      1 string BodyTw = "假裝幸福的遊戲也還不錯玩，發發JINE什麼的"
@@ -4510,7 +4510,7 @@
     0 Param data
      1 string Id = "Ending_Happy_UrauraTweet002"
      1 string BodyJp = "感謝のJINE送るの、超エモい体験だった"
-     1 string BodyEn = "thanking p-chan made me kinda emotional"
+     1 string BodyEn = "tesekkür icin mesaj atayim derken feci duygulandim..."
      1 string BodyCn = "发JINE说谢谢的感觉超级emo的"
      1 string BodyKo = "감사를 담아 JINE 보내는 거, 대박 감성 돋는 체험이었지"
      1 string BodyTw = "發JINE說謝謝的感覺超讚"
@@ -4526,7 +4526,7 @@
     0 Param data
      1 string Id = "Ending_Happy_UrauraTweet003"
      1 string BodyJp = "普通の幸せ、飽きたな～"
-     1 string BodyEn = "this kind of happiness is so... bland, though"
+     1 string BodyEn = "böyle siradan bi mutluluk da amma sikiciymis"
      1 string BodyCn = "但是我已经厌倦了普通人的幸福啦～"
      1 string BodyKo = "평범한 행복은 이제 지겨워~"
      1 string BodyTw = "但是我已經厭倦普通人的幸福啦～"
@@ -4542,7 +4542,7 @@
     0 Param data
      1 string Id = "Ending_Happy_UrauraTweet004"
      1 string BodyJp = "視聴者に配慮した企画つまんね"
-     1 string BodyEn = "streaming just to make my fans happy is such a drag"
+     1 string BodyEn = "planlarimi izleyicilerimi dusunerek yapmak da cok can sikici"
      1 string BodyCn = "做企划的时候要考虑观众的话就好无聊啊"
      1 string BodyKo = "시청자 배려 기획은 정말 노잼이었어"
      1 string BodyTw = "要考慮聽眾喜好的企劃好無聊啊"
@@ -4558,7 +4558,7 @@
     0 Param data
      1 string Id = "Ending_Happy_UrauraTweet005"
      1 string BodyJp = "ピとの生活も刺激なくなってきた"
-     1 string BodyEn = "living together with p-chan is so boring now"
+     1 string BodyEn = "m ile beraber yasamanin da pek bir keyfi kalmadi artik"
      1 string BodyCn = "和阿P在一起的生活也不再那么有激情了"
      1 string BodyKo = "P와의 생활도 자극이 사라졌어"
      1 string BodyTw = "和阿P在一起的生活也不再有激情了"
@@ -4574,7 +4574,7 @@
     0 Param data
      1 string Id = "Ending_AV_Gazou001"
      1 string BodyJp = "超人気配信者衝撃デビュー！"
-     1 string BodyEn = "A star streamer's ELECTRIFYING debut!"
+     1 string BodyEn = "Ünlü yayinci bakin neler neler yapti!"
      1 string BodyCn = "超人气主播强势出道——！"
      1 string BodyKo = "최고 인기 스트리머, 충격 데뷔!"
      1 string BodyTw = "超人氣主播強勢出道！"
@@ -4590,7 +4590,7 @@
     0 Param data
      1 string Id = "Ending_AV_Gazou002"
      1 string BodyJp = "BAN確実"
-     1 string BodyEn = "Watch it before she gets BANNED"
+     1 string BodyEn = "Siteden yasaklanmadan izleyin!"
      1 string BodyCn = "妥妥的要被封号了"
      1 string BodyKo = "정지 확정"
      1 string BodyTw = "真的要被封鎖了！"
@@ -4606,7 +4606,7 @@
     0 Param data
      1 string Id = "Ending_AV_Gazou003"
      1 string BodyJp = "超過激"
-     1 string BodyEn = "Super sexy"
+     1 string BodyEn = "Tas gibi"
      1 string BodyCn = "超过激"
      1 string BodyKo = "과격 그 자체"
      1 string BodyTw = "太刺激！"
@@ -4622,7 +4622,7 @@
     0 Param data
      1 string Id = "Ending_AV_Gazou004"
      1 string BodyJp = "ナイショの裏配信"
-     1 string BodyEn = "Super naughty stream"
+     1 string BodyEn = "Gizli +18 Yayin"
      1 string BodyCn = "秘密地下直播"
      1 string BodyKo = "비밀의 18금 방송"
      1 string BodyTw = "秘密地下直播"
@@ -4638,7 +4638,7 @@
     0 Param data
      1 string Id = "Ending_AV_Gazou005"
      1 string BodyJp = "生配信生えっち"
-     1 string BodyEn = "Sex tape LIVE"
+     1 string BodyEn = "MELEK IFSA"
      1 string BodyCn = "直播无套H"
      1 string BodyKo = "S〇X 생중계"
      1 string BodyTw = "直播無套愛愛"
@@ -4670,7 +4670,7 @@
     0 Param data
      1 string Id = "Ending_Megaten_System001"
      1 string BodyJp = "すぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせすぐにけせ"
-     1 string BodyEn = "DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY DELETE IMMEDIATELY"
+     1 string BodyEn = "DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL DERHAL SIL"
      1 string BodyCn = "快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了快删了"
      1 string BodyKo = "당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라 당장 꺼라"
      1 string BodyTw = "快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了快刪了"
@@ -4686,7 +4686,7 @@
     0 Param data
      1 string Id = "Event_Diary001"
      1 string BodyJp = "ピと同棲生活を始めてから数週間が経った\r\nおもえば遠くまできたもんだ\r\nさいしょは全然いなかったフォロワーもけっこうふえたし、ピといっしょにいろんなところに行った。たまにわたしのワガママとかラリったせいでケンカしたりもしたけど、そんなことすぐ忘れるくらい優しくしてくれた！\r\nこれからも二人でたくさんの思い出が作れたらいいな……\r\nピだいすきだよ～～～～\r\n\r\nまあ依存しまくってるから、いまさら別れるって言われたらマジで困るってのもあるけど。。。\r\n"
-     1 string BodyEn = "It's been a couple of weeks since I moved in with P-chan. We've come a long way, now that I think about it. I've built up a solid following from scratch, and we get to enjoy our time off together. We sometimes fight because I get a bit unreasonable with my demands or I do something stupid when I'm high, but P-chan is super forgiving and kind about it! I hope we can continue to create lots of happy memories together. I have the best SO in the world!!!\n\n\nPlus I'm super dependent on P-chan so if we broke up now I'd be in deep shit..."
+     1 string BodyEn = "M ile beraber eve cikali birkac hafta oldu. Aslinda düsününce baya yol kat etmisiz. En basta bir tane bile abonemiz yokken su anda baya var. M ile beraber bol bol gezdik. Zaman zaman benim bencilligimden ya da kafayi cekmemden dolayi kavga etmis olsak da beni çook sevdigi için hemen unutuveriyor! Seni çok seviyorum askim <3 Kendi basima bir sey yapamayacagim sevgilime muhtacim ama olur da ayrilirsak... Düsünmek bile istemiyorum... "
      1 string BodyCn = "自从跟阿P开始同居生活后已经过去好几周了。\r\n 想想真是一起走了好远啊。\r\n 从一个粉丝都没有做到了小有名气，还跟阿P一起去了好多地方。虽然我们有时会因为糖糖太过任性或者嗑嗨了而吵架，但是阿P总会温柔地不再计较！\r\n 要是今后我们还能继续一起制造更多的回忆就好了……\r\n 爱死你了阿P～～～\r\n \r\n 毕竟我现在已经彻底离不开你了，我可不想现在被你甩掉。。。"
      1 string BodyKo = "P와 동거 생활을 시작한지 몇 주가 지났어. 지금 생각하니 참 멀리까지 왔네. 처음에는 한 명도 없었던 팔로워도 상당히 늘었고, P와 함께 여러 곳도 돌아다녔지. 가끔 내가 너무 제멋대로 굴어서 싸울 때도 있지만, 그것도 금방 잊어버릴만큼 상냥하게 대해 주는걸! 앞으로도 둘이서 많은 추억을 만들고 싶어… P 정말 좋아해~\r\n \r\n뭐, P에게 너무 의존하고 있으니 이제 와서 헤어지겠다는 말을 들으면 멘붕이겠지만…"
      1 string BodyTw = "自從跟阿P開始同居生活後已經過了好幾個禮拜了。\r\n  想想真是一起走了好久啊！\r\n  從一個粉絲都沒有做到小有名氣，還跟阿P一起去了好多地方。雖然我們有時會因為糖糖太過任性或者嗑High了而吵架，但是阿P總會溫柔的不再計較！\r\n  要是今後我們還能繼續一起製造更多的回憶就好了……\r\n  愛死你了阿P～～～\r\n  \r\n  畢竟我現在已經徹底離不開你了，我可不想現在被你甩掉。。。"
@@ -4750,7 +4750,7 @@
     0 Param data
      1 string Id = "Event_Aim_Rent_System001"
      1 string BodyJp = "メールが届きました"
-     1 string BodyEn = "You've got mail"
+     1 string BodyEn = "Mesajiniz var"
      1 string BodyCn = "您有一封邮件"
      1 string BodyKo = "메일이 도착했습니다"
      1 string BodyTw = "您有一封郵件"
@@ -4766,7 +4766,7 @@
     0 Param data
      1 string Id = "Event_Aim_Rent_Mail001"
      1 string BodyJp = "平素よりお世話になっております。\r\n　××クリエーションの斉藤と申します。\r\n　先日電話にてお話しした、賃料不足分の件でご連絡差し上げました。\r\n　当月10日までに下記お振込み先へのご入金をお願い致します。\r\n　何卒ご確認の程宜しくお願い申し上げます。\r\n　---------------------------------　　　\r\n　▼お振込み先：\r\n　○○銀行 ●●支店１２３-４５６７８\r\n　▼お家賃（１カ月分）　△△円\r\n\r\n　♦ご請求についてのお問い合わせはこちら"
-     1 string BodyEn = "Dear P,\r\n \r\n This is Saito from XY Creations. As per our last phone call, your rent is still outstanding and you will have until the 10th to pay it in full. Please forward your payment to the account detailed below and contact me when you have done so.\r\n \r\n Regards\r\n \r\n ---\r\n \r\n Account 123-45678\r\n Bank XX, Branch XYZ\r\n \r\n Payment outstanding: ###,### yen\r\n \r\n Please reply to this email with any concerns you may have."
+     1 string BodyEn = "Devamli desteginiz için mütesekkiriz.\r\n \r\n Ben XX Olusumu'ndan Satou. Bir önceki gün bu konuyu telefonda konusmustuk ancak kiranizin tamami hala yatirilmamis vaziyettedir. Bu ayin 10una kadar lütfen kiranizi belirtilen hesaba havale araciligiyla gönderin.\r\n \r\n Saygilarimla\r\n \r\n ---\r\n \r\n Havale: \r\n X Bankasi, Y Subesi 123-45678\r\n Kira (1 Aylik) Z yen\r\n \r\n Ödemeyle alakali herhangi bir problemle karsilasirsaniz lütfen bizimle iletisime geçin."
      1 string BodyCn = "一直以来承蒙您的关照。\r\n 我是XX创意公司的齐藤。\r\n 关于前日在电话里提及的房租未缴纳一事，特此邮件通知。\r\n 您须在本月10日之前将款项汇至以下账号。\r\n 请务必按时缴纳。\r\n --------------------------------- \r\n ▼收款单位：\r\n ○○银行 ●●分行 123-45678\r\n ▼房租（单月缴纳） △△圆\r\n \r\n ♦若您对本通知的内容抱有疑问，请访问以下链接。"
      1 string BodyKo = "안녕하십니까.\r\nXX 크리에이션 소속의 사토라고 합니다. \r\n며칠 전에 전화드렸던 대로, 임대료 미납 건 때문에 연락을 드렸습니다. \r\n이번 달 10일까지 다음 계좌로 임대료를 입금해 주십시오. \r\n확인 부탁드립니다. \r\n--------------------------------- \r\n▼입금 계좌: \r\n○○은행 ●●지점 123-45678\r\n▼월세(1개월) △△엔\r\n \r\n♦청구 관련 문의는 여기서 해 주십시오."
      1 string BodyTw = "一直以來承蒙您的照顧。\r\n  我是XX創意公司的齊藤。\r\n  關於前日在電話裡提及房租未繳納一事，特此通知。\r\n  您須在本月10日之前將款項匯至以下帳號。\r\n  請務必按時繳納。\r\n  --------------------------------- \r\n  ▼收款單位：\r\n  ○○銀行 ●●分行 123-45678\r\n  ▼房租（每月繳納） △△日圓\r\n  \r\n  ♦若您對本通知內容有疑問，請與我們連絡。"
@@ -4862,7 +4862,7 @@
     0 Param data
      1 string Id = "Status_Stress"
      1 string BodyJp = "ストレス"
-     1 string BodyEn = "Stress"
+     1 string BodyEn = "Stres"
      1 string BodyCn = "压力"
      1 string BodyKo = "스트레스"
      1 string BodyTw = "壓力"
@@ -4878,7 +4878,7 @@
     0 Param data
      1 string Id = "Status_Follower"
      1 string BodyJp = "フォロワー(万)"
-     1 string BodyEn = "Followers"
+     1 string BodyEn = "Takipçi"
      1 string BodyCn = "粉丝"
      1 string BodyKo = "팔로워(만명)"
      1 string BodyTw = "粉絲(萬)"
@@ -4894,7 +4894,7 @@
     0 Param data
      1 string Id = "Status_Affection"
      1 string BodyJp = "好感度"
-     1 string BodyEn = "Affection"
+     1 string BodyEn = "Sevgi"
      1 string BodyCn = "好感度"
      1 string BodyKo = "호감도"
      1 string BodyTw = "好感度"
@@ -4910,7 +4910,7 @@
     0 Param data
      1 string Id = "Status_Affection00"
      1 string BodyJp = "無関心"
-     1 string BodyEn = "Indifferent"
+     1 string BodyEn = "Ilgisiz"
      1 string BodyCn = "漠不关心"
      1 string BodyKo = "무관심"
      1 string BodyTw = "漠不關心"
@@ -4926,7 +4926,7 @@
     0 Param data
      1 string Id = "Status_Affection20"
      1 string BodyJp = "セフレ"
-     1 string BodyEn = "FWB"
+     1 string BodyEn = "Seksgili"
      1 string BodyCn = "炮友"
      1 string BodyKo = "섹파"
      1 string BodyTw = "炮友"
@@ -4942,7 +4942,7 @@
     0 Param data
      1 string Id = "Status_Affection40"
      1 string BodyJp = "こいびと"
-     1 string BodyEn = "Taken"
+     1 string BodyEn = "Sevgili"
      1 string BodyCn = "对象"
      1 string BodyKo = "연인"
      1 string BodyTw = "對象"
@@ -4958,7 +4958,7 @@
     0 Param data
      1 string Id = "Status_Affection60"
      1 string BodyJp = "しゅきピ"
-     1 string BodyEn = "I like you"
+     1 string BodyEn = "askiM"
      1 string BodyCn = "小甜熏"
      1 string BodyKo = "일편단심 P"
      1 string BodyTw = "喜歡阿P"
@@ -4974,7 +4974,7 @@
     0 Param data
      1 string Id = "Status_Affection80"
      1 string BodyJp = "だいしゅき"
-     1 string BodyEn = "I love you!"
+     1 string BodyEn = "Seni seviyorum"
      1 string BodyCn = "敲喜翻"
      1 string BodyKo = "따랑해"
      1 string BodyTw = "超喜歡"
@@ -4990,7 +4990,7 @@
     0 Param data
      1 string Id = "Status_Affection_PPP"
      1 string BodyJp = "だいすき！！！"
-     1 string BodyEn = "LOVE!!!! MWAH"
+     1 string BodyEn = "ÖLÜRÜM SENİN İÇİN!!!"
      1 string BodyCn = "爱死你了！！！"
      1 string BodyKo = "너~무 좋아!!!"
      1 string BodyTw = "愛死你了！！！"
@@ -5006,7 +5006,7 @@
     0 Param data
      1 string Id = "Status_Affection_PP"
      1 string BodyJp = "すき！！！"
-     1 string BodyEn = "i wuv yooou"
+     1 string BodyEn = "HASTAYIM SANA!!!"
      1 string BodyCn = "爱你！！！"
      1 string BodyKo = "좋아해~!!!!"
      1 string BodyTw = "愛你！！！"
@@ -5022,7 +5022,7 @@
     0 Param data
      1 string Id = "Status_Affection_P"
      1 string BodyJp = "みなおした"
-     1 string BodyEn = "Hm, you're all right."
+     1 string BodyEn = "Idare ederiz"
      1 string BodyCn = "改变了看法"
      1 string BodyKo = "다시 봤어"
      1 string BodyTw = "改變了想法"
@@ -5038,7 +5038,7 @@
     0 Param data
      1 string Id = "Status_Affection_nodiff"
      1 string BodyJp = "いままでどおり"
-     1 string BodyEn = "No diff"
+     1 string BodyEn = "Ayni Terane"
      1 string BodyCn = "没有变化"
      1 string BodyKo = "걍 그래"
      1 string BodyTw = "沒有變化"
@@ -5054,7 +5054,7 @@
     0 Param data
      1 string Id = "Status_Affection_M"
      1 string BodyJp = "ちょっとムッとした"
-     1 string BodyEn = "Feeling kinda :/"
+     1 string BodyEn = "Tadim kaçik"
      1 string BodyCn = "有点不爽"
      1 string BodyKo = "좀 짜증나"
      1 string BodyTw = "有點不爽"
@@ -5070,7 +5070,7 @@
     0 Param data
      1 string Id = "Status_Affection_MM"
      1 string BodyJp = "すこしイヤになった"
-     1 string BodyEn = "Getting annoyed..."
+     1 string BodyEn = "Gicik oldum"
      1 string BodyCn = "有点讨厌"
      1 string BodyKo = "많이 짜증나"
      1 string BodyTw = "有點討厭"
@@ -5086,7 +5086,7 @@
     0 Param data
      1 string Id = "Status_Affection_MMM"
      1 string BodyJp = "イヤイヤイヤイヤ"
-     1 string BodyEn = "Go away!!!!!"
+     1 string BodyEn = "OFFFFFFFFF"
      1 string BodyCn = "讨厌讨厌讨厌讨厌"
      1 string BodyKo = "시러시러시러시러"
      1 string BodyTw = "討厭討厭討厭討厭"
@@ -5102,7 +5102,7 @@
     0 Param data
      1 string Id = "Status_Mental"
      1 string BodyJp = "やみ度"
-     1 string BodyEn = "Mental Darkness"
+     1 string BodyEn = "Mental Bozukluk"
      1 string BodyCn = "阴暗度"
      1 string BodyKo = "멘탈"
      1 string BodyTw = "憂鬱程度"
@@ -5118,7 +5118,7 @@
     0 Param data
      1 string Id = "Status_Mental00"
      1 string BodyJp = "健常"
-     1 string BodyEn = "Fine RN"
+     1 string BodyEn = "Hiçbir seyim yok"
      1 string BodyCn = "正常健康"
      1 string BodyKo = "정상"
      1 string BodyTw = "健康"
@@ -5134,7 +5134,7 @@
     0 Param data
      1 string Id = "Status_Mental20"
      1 string BodyJp = "ヘラみあり"
-     1 string BodyEn = "Shaky"
+     1 string BodyEn = "İdare ederim"
      1 string BodyCn = "略有负能"
      1 string BodyKo = "가끔 땅팜"
      1 string BodyTw = "略有負能量"
@@ -5150,7 +5150,7 @@
     0 Param data
      1 string Id = "Status_Mental40"
      1 string BodyJp = "やみそう"
-     1 string BodyEn = "On the brink"
+     1 string BodyEn = "Tirtlatmak üzereyim"
      1 string BodyCn = "发作边缘"
      1 string BodyKo = "위험"
      1 string BodyTw = "發作邊緣"
@@ -5166,7 +5166,7 @@
     0 Param data
      1 string Id = "Status_Mental60"
      1 string BodyJp = "やんでる"
-     1 string BodyEn = "Trainwreck"
+     1 string BodyEn = "Deliriyorum"
      1 string BodyCn = "正在发作"
      1 string BodyKo = "붕괴"
      1 string BodyTw = "發作中"
@@ -5182,7 +5182,7 @@
     0 Param data
      1 string Id = "Status_Mental80"
      1 string BodyJp = "だーくねす"
-     1 string BodyEn = "Self-destructing"
+     1 string BodyEn = "Zifiri karanlik"
      1 string BodyCn = "彻底堕落"
      1 string BodyKo = "다크니스"
      1 string BodyTw = "徹底墮落"
@@ -5198,7 +5198,7 @@
     0 Param data
      1 string Id = "Status_Mental_PPP"
      1 string BodyJp = "めっちゃ病む"
-     1 string BodyEn = "Crashing and burning"
+     1 string BodyEn = "Hayat bitti."
      1 string BodyCn = "感觉很不好"
      1 string BodyKo = "죽을 것 같아"
      1 string BodyTw = "感覺很不好"
@@ -5214,7 +5214,7 @@
     0 Param data
      1 string Id = "Status_Mental_PP"
      1 string BodyJp = "病む"
-     1 string BodyEn = "Dying inside"
+     1 string BodyEn = "Hastayim"
      1 string BodyCn = "感觉不好"
      1 string BodyKo = "힘들어"
      1 string BodyTw = "感覺不好"
@@ -5230,7 +5230,7 @@
     0 Param data
      1 string Id = "Status_Mental_P"
      1 string BodyJp = "つらさきた"
-     1 string BodyEn = "Feeling the squeeze"
+     1 string BodyEn = "Aciyi hissedebiliyorum"
      1 string BodyCn = "有点难受"
      1 string BodyKo = "좀 괴로워"
      1 string BodyTw = "有點難受"
@@ -5246,7 +5246,7 @@
     0 Param data
      1 string Id = "Status_Mental_nodiff"
      1 string BodyJp = "なにもなし！"
-     1 string BodyEn = "Same old!"
+     1 string BodyEn = "Turp gibiyim!"
      1 string BodyCn = "啥事也没有！"
      1 string BodyKo = "멀쩡해!"
      1 string BodyTw = "啥事也沒有！"
@@ -5262,7 +5262,7 @@
     0 Param data
      1 string Id = "Status_Mental_M"
      1 string BodyJp = "ちょっと元気になった"
-     1 string BodyEn = "Feeling OK"
+     1 string BodyEn = "Biraz keyfim yerinde"
      1 string BodyCn = "感觉好些了"
      1 string BodyKo = "좀 괜찮아"
      1 string BodyTw = "感覺好些"
@@ -5278,7 +5278,7 @@
     0 Param data
      1 string Id = "Status_Mental_MM"
      1 string BodyJp = "健康！"
-     1 string BodyEn = "Great!"
+     1 string BodyEn = "Bomba gibiyim!"
      1 string BodyCn = "健康！"
      1 string BodyKo = "건강해!"
      1 string BodyTw = "健康！"
@@ -5294,7 +5294,7 @@
     0 Param data
      1 string Id = "Status_Mental_MMM"
      1 string BodyJp = "めっちゃ健康！健常者！！！"
-     1 string BodyEn = "Doing awesome!"
+     1 string BodyEn = "HAYAT BASLADI!!!"
      1 string BodyCn = "超级健康！做个正常人！！！"
      1 string BodyKo = "팔팔해! 아주 멀쩡해!!!"
      1 string BodyTw = "超級健康！健康寶寶！！！"
@@ -5310,7 +5310,7 @@
     0 Param data
      1 string Id = "Status_Attention"
      1 string BodyJp = "注目度"
-     1 string BodyEn = "Reach"
+     1 string BodyEn = "Ilgi"
      1 string BodyCn = "受关注度"
      1 string BodyKo = "주목도"
      1 string BodyTw = "受關注程度"
@@ -5342,7 +5342,7 @@
     0 Param data
      1 string Id = "Status_Stress20"
      1 string BodyJp = "まだまだイケるよ！"
-     1 string BodyEn = "I can keep going!"
+     1 string BodyEn = "Ohoo bu nedir ki!"
      1 string BodyCn = "还撑得住！"
      1 string BodyKo = "아직 할 수 있어!"
      1 string BodyTw = "還撐得住！"
@@ -5358,7 +5358,7 @@
     0 Param data
      1 string Id = "Status_Stress40"
      1 string BodyJp = "疲れてるみたい"
-     1 string BodyEn = "I'm kind of tired..."
+     1 string BodyEn = "Bikkinlik geldi"
      1 string BodyCn = "好像有点累了"
      1 string BodyKo = "피곤해"
      1 string BodyTw = "好像有點累了"
@@ -5374,7 +5374,7 @@
     0 Param data
      1 string Id = "Status_Stress60"
      1 string BodyJp = "つらい"
-     1 string BodyEn = "I hate this"
+     1 string BodyEn = "Daraldim"
      1 string BodyCn = "好痛苦"
      1 string BodyKo = "괴로워"
      1 string BodyTw = "好痛苦"
@@ -5390,7 +5390,7 @@
     0 Param data
      1 string Id = "Status_Stress80"
      1 string BodyJp = "死にたい"
-     1 string BodyEn = "Please kill me"
+     1 string BodyEn = "ALLAH CANIMI ALSA DA KURTULSAM"
      1 string BodyCn = "想死了"
      1 string BodyKo = "죽고 싶어"
      1 string BodyTw = "好想死"
@@ -5406,7 +5406,7 @@
     0 Param data
      1 string Id = "Status_Stress"
      1 string BodyJp = "ストレス"
-     1 string BodyEn = "Stress"
+     1 string BodyEn = "Stres"
      1 string BodyCn = "压力"
      1 string BodyKo = "스트레스"
      1 string BodyTw = "壓力"
@@ -5422,7 +5422,7 @@
     0 Param data
      1 string Id = "Status_Follower"
      1 string BodyJp = "フォロワー(万)"
-     1 string BodyEn = "Followers"
+     1 string BodyEn = "Takipçi"
      1 string BodyCn = "粉丝"
      1 string BodyKo = "팔로워(만명)"
      1 string BodyTw = "粉絲(萬)"
@@ -5438,7 +5438,7 @@
     0 Param data
      1 string Id = "Stress"
      1 string BodyJp = "ストレス"
-     1 string BodyEn = "Stress"
+     1 string BodyEn = "Stres"
      1 string BodyCn = "压力"
      1 string BodyKo = "스트레스"
      1 string BodyTw = "壓力"
@@ -5454,7 +5454,7 @@
     0 Param data
      1 string Id = "Follower"
      1 string BodyJp = "フォロワー"
-     1 string BodyEn = "Followers"
+     1 string BodyEn = "Takipçi"
      1 string BodyCn = "粉丝"
      1 string BodyKo = "팔로워"
      1 string BodyTw = "粉絲"
@@ -5470,7 +5470,7 @@
     0 Param data
      1 string Id = "Love"
      1 string BodyJp = "好感度"
-     1 string BodyEn = "Affection"
+     1 string BodyEn = "Sevgi"
      1 string BodyCn = "好感度"
      1 string BodyKo = "호감도"
      1 string BodyTw = "好感度"
@@ -5486,7 +5486,7 @@
     0 Param data
      1 string Id = "Yami"
      1 string BodyJp = "やみ度"
-     1 string BodyEn = "Mental Darkness"
+     1 string BodyEn = "Mental Bozukluk"
      1 string BodyCn = "阴暗度"
      1 string BodyKo = "멘탈"
      1 string BodyTw = "憂鬱程度"
@@ -5502,7 +5502,7 @@
     0 Param data
      1 string Id = "OkusuriedCounter"
      1 string BodyJp = "迫力"
-     1 string BodyEn = "Impact"
+     1 string BodyEn = "Çekicilik"
      1 string BodyCn = "感染力"
      1 string BodyKo = "박력"
      1 string BodyTw = "感染力"
@@ -5518,7 +5518,7 @@
     0 Param data
      1 string Id = "OirokeCounter"
      1 string BodyJp = "経験"
-     1 string BodyEn = "Experience"
+     1 string BodyEn = "Deneyim"
      1 string BodyCn = "经验"
      1 string BodyKo = "경험"
      1 string BodyTw = "經驗"
@@ -5534,7 +5534,7 @@
     0 Param data
      1 string Id = "RenzokuHaishinCount"
      1 string BodyJp = "連続配信"
-     1 string BodyEn = "Stream Streak"
+     1 string BodyEn = "Yayin Serisi"
      1 string BodyCn = "连续直播"
      1 string BodyKo = "연속 방송"
      1 string BodyTw = "連續直播"
@@ -5550,7 +5550,7 @@
     0 Param data
      1 string Id = "SNSzizenKokutiBonus"
      1 string BodyJp = "事前告知"
-     1 string BodyEn = "Pre-Stream Alert"
+     1 string BodyEn = "Ön Bildirim"
      1 string BodyCn = "事前通知"
      1 string BodyKo = "사전 공지"
      1 string BodyTw = "事前通知"
@@ -5566,7 +5566,7 @@
     0 Param data
      1 string Id = "GameCountBonus"
      1 string BodyJp = "ゲーム"
-     1 string BodyEn = "Gamer Girl"
+     1 string BodyEn = "Gamer Kiz"
      1 string BodyCn = "游戏"
      1 string BodyKo = "게임"
      1 string BodyTw = "遊戲"
@@ -5582,7 +5582,7 @@
     0 Param data
      1 string Id = "CinePhillCountBonus"
      1 string BodyJp = "シネフィル"
-     1 string BodyEn = "Cinephile"
+     1 string BodyEn = "Sinefili"
      1 string BodyCn = "电影狂"
      1 string BodyKo = "영화지식"
      1 string BodyTw = "電影狂"
@@ -5598,7 +5598,7 @@
     0 Param data
      1 string Id = "DougaTVShabekuriCountBonus"
      1 string BodyJp = "コミュ力"
-     1 string BodyEn = "Communication"
+     1 string BodyEn = "Iletisim Gücü"
      1 string BodyCn = "交流能力"
      1 string BodyKo = "대화 능력"
      1 string BodyTw = "社交能力"
@@ -5630,7 +5630,7 @@
     0 Param data
      1 string Id = "Harumagedo"
      1 string BodyJp = "はるまげ度"
-     1 string BodyEn = "Rabbit Hole"
+     1 string BodyEn = "Kirmizi Hap"
      1 string BodyCn = "邪气度"
      1 string BodyKo = "광기"
      1 string BodyTw = "邪氣度"
@@ -5694,7 +5694,7 @@
     0 Param data
      1 string Id = "Suretai_Legend"
      1 string BodyJp = "インターネット・エンジェル崇拝"
-     1 string BodyEn = "Bow down to our internet angel"
+     1 string BodyEn = "Sen çok yasa internet aleminin melegi!"
      1 string BodyCn = "当代互联网小天使就是此生唯一信仰"
      1 string BodyKo = "인터넷 엔젤 숭배교"
      1 string BodyTw = "當代網路小天使就是此生唯一信仰"
@@ -5726,7 +5726,7 @@
     0 Param data
      1 string Id = "Suretai_Horror_Day2_BeforeHaishin"
      1 string BodyJp = "人気女性配信者 配信中にブチギレ嘔吐テロで一夜にしてゲロ女に成り下がる"
-     1 string BodyEn = "Popular female streamer gets mad during stream, pukes on camera, and is dubbed ”puke girl” during the same night."
+     1 string BodyEn = "Ünlü kiz yayinci yayin esnasinda delirip terör estirdi! Bir gecede adi ''Kusmuk Kiz''a çikti."
      1 string BodyCn = "网红女主播怒火攻心直播呕吐 形象一夜崩塌沦为底层哕女"
      1 string BodyKo = "인기 여성 스트리머, 방송 중 빡친 나머지 구토 테러로 인해 하룻밤만에 구토녀로 전락"
      1 string BodyTw = "網紅女主播怒火攻心直播嘔吐 形象一夜全毀"
@@ -5742,7 +5742,7 @@
     0 Param data
      1 string Id = "Suretai_Horror_Day2_AfterHaishin"
      1 string BodyJp = "インターネットエンジェルとか言うゲロ女wwwww"
-     1 string BodyEn = "internet angel more like in-toilet angel because shes puking all the time hahaha"
+     1 string BodyEn = "internet aleminin melegi diyonuz da bundan olsa olsa kusmuk diyarinin melegi olur KJAHWEJKNTKLKANWE"
      1 string BodyCn = "自称当代互联网小天使的呕吐女wwwww"
      1 string BodyKo = "인터넷 엔젤이라 자칭하는 구토녘ㅋㅋㅋㅋ"
      1 string BodyTw = "自稱當代網路小天使的嘔吐女wwwww"
@@ -5822,7 +5822,7 @@
     0 Param data
      1 string Id = "yakujo_1"
      1 string BodyJp = "名前"
-     1 string BodyEn = "Name"
+     1 string BodyEn = "Ad"
      1 string BodyCn = "名称"
      1 string BodyKo = "이름"
      1 string BodyTw = "名稱"
@@ -5838,7 +5838,7 @@
     0 Param data
      1 string Id = "yakujo_2"
      1 string BodyJp = "適量"
-     1 string BodyEn = "Recommended Dose"
+     1 string BodyEn = "Önerilen Doz"
      1 string BodyCn = "适量"
      1 string BodyKo = "섭취량"
      1 string BodyTw = "適量"
@@ -5854,7 +5854,7 @@
     0 Param data
      1 string Id = "yakujo_3"
      1 string BodyJp = "効果・効能"
-     1 string BodyEn = "Effects"
+     1 string BodyEn = "Etki"
      1 string BodyCn = "作用与效果"
      1 string BodyKo = "효과 및 효능"
      1 string BodyTw = "作用與效果"
@@ -5870,7 +5870,7 @@
     0 Param data
      1 string Id = "yakujo_4"
      1 string BodyJp = "副作用"
-     1 string BodyEn = "Side Effects"
+     1 string BodyEn = "Yan Etki"
      1 string BodyCn = "副作用"
      1 string BodyKo = "부작용"
      1 string BodyTw = "副作用"
@@ -5886,7 +5886,7 @@
     0 Param data
      1 string Id = "yakujo_5"
      1 string BodyJp = "あめちゃんメモ"
-     1 string BodyEn = "Ame's Notes"
+     1 string BodyEn = "Ame'nin Notlari"
      1 string BodyCn = "糖糖笔记"
      1 string BodyKo = "아메의 한 마디"
      1 string BodyTw = "糖糖筆記"
@@ -5902,7 +5902,7 @@
     0 Param data
      1 string Id = "yakujo_6"
      1 string BodyJp = "ディパス錠１mg"
-     1 string BodyEn = "Depaz Pills (1mg)"
+     1 string BodyEn = "Depaz Hapi (1mg)"
      1 string BodyCn = "安神片1mg"
      1 string BodyKo = "데파스정 1mg"
      1 string BodyTw = "抗焦慮藥1mg"
@@ -5918,7 +5918,7 @@
     0 Param data
      1 string Id = "yakujo_7"
      1 string BodyJp = "１日１回２錠"
-     1 string BodyEn = "Take 2 once per day"
+     1 string BodyEn = "Günde 2 kere"
      1 string BodyCn = "1日1次 1次2片"
      1 string BodyKo = "1일 1회 2정"
      1 string BodyTw = "1日1次 1次2片"
@@ -5934,7 +5934,7 @@
     0 Param data
      1 string Id = "yakujo_8"
      1 string BodyJp = "気持ちが落ち着きます"
-     1 string BodyEn = "Calms the user down"
+     1 string BodyEn = "Sakinlestirici"
      1 string BodyCn = "能让心情平静"
      1 string BodyKo = "스트레스 및 긴장 완화"
      1 string BodyTw = "能讓心情平靜"
@@ -5950,7 +5950,7 @@
     0 Param data
      1 string Id = "yakujo_9"
      1 string BodyJp = "身体がふにゃふにゃします"
-     1 string BodyEn = "Makes the user kinda floppy"
+     1 string BodyEn = "Vücudumu gevsek hissettiriyor"
      1 string BodyCn = "浑身瘫软"
      1 string BodyKo = "몸이 흐물흐물해집니다"
      1 string BodyTw = "渾身癱軟"
@@ -5966,7 +5966,7 @@
     0 Param data
      1 string Id = "yakujo_10"
      1 string BodyJp = "飲むとなんだか楽になるんだ\r\n飲みすぎるとふわふわになっちゃう"
-     1 string BodyEn = "Everything just feels more manageable when I take some. Makes me feel kinda floaty if I take too many though."
+     1 string BodyEn = "Içtikten sonra her sey çok rahat gelmeye basliyor.\r\nFazla içince kafa yapiyor"
      1 string BodyCn = "吃了这个会感觉轻松很多\r\n而吃太多后整个人会轻飘飘的"
      1 string BodyKo = "먹으면 마음이 편해져.\r\n많이 먹으면 몸이 늘어져"
      1 string BodyTw = "吃了這個會感覺輕鬆很多\r\n吃過量後就會整個人輕飄飄的"
@@ -5998,7 +5998,7 @@
     0 Param data
      1 string Id = "yakujo_12"
      1 string BodyJp = "１日１回ひとふり"
-     1 string BodyEn = "1 shake per day"
+     1 string BodyEn = "Günde 1 kere"
      1 string BodyCn = "1日1次 1次1把"
      1 string BodyKo = "1일 1회 적당량"
      1 string BodyTw = "1天1次少許"
@@ -6014,7 +6014,7 @@
     0 Param data
      1 string Id = "yakujo_13"
      1 string BodyJp = "咳を止めてくれます"
-     1 string BodyEn = "Stops coughs"
+     1 string BodyEn = "Öksürügü keser"
      1 string BodyCn = "具有止咳效果"
      1 string BodyKo = "기침 완화"
      1 string BodyTw = "具止咳效果"
@@ -6030,7 +6030,7 @@
     0 Param data
      1 string Id = "yakujo_14"
      1 string BodyJp = "いろんな気持ちになります"
-     1 string BodyEn = "Makes you feel all sorts of things"
+     1 string BodyEn = "Binbir hissi tekte yasatir"
      1 string BodyCn = "会产生各种情绪"
      1 string BodyKo = "다양한 감정을 유발합니다"
      1 string BodyTw = "會產生各種情緒"
@@ -6046,7 +6046,7 @@
     0 Param data
      1 string Id = "yakujo_15"
      1 string BodyJp = "配信者は喉が命！\r\nでも、飲みすぎると大変なことになるかも"
-     1 string BodyEn = "A streamer's voice is their lifeline! But don't take too many or bad shit will happen."
+     1 string BodyEn = "Yayinciysan ve bogazlarin gittiyse siçtin! Ama bunu da çok içersen baska bir sekilde siçarsin!"
      1 string BodyCn = "嗓子就是主播的命根子！\r\n但是，过量服用可能会带来严重的后果"
      1 string BodyKo = "스트리머는 목소리가 생명이야!\r\n하지만 많이 먹으면 큰일날 거야"
      1 string BodyTw = "嗓子就是主播的性命！\r\n 但是，過量服用可能會帶來嚴重的後果"
@@ -6078,7 +6078,7 @@
     0 Param data
      1 string Id = "yakujo_17"
      1 string BodyJp = "１日１回２カプセル"
-     1 string BodyEn = "2 capsules once per day"
+     1 string BodyEn = "Günde 2 kapsül"
      1 string BodyCn = "1日1次 1次2粒"
      1 string BodyKo = "1일 2회 2캡슐"
      1 string BodyTw = "1日1次 1次2粒"
@@ -6094,7 +6094,7 @@
     0 Param data
      1 string Id = "yakujo_18"
      1 string BodyJp = "ぐっすり眠れます"
-     1 string BodyEn = "Helps you conk out"
+     1 string BodyEn = "Misil misil uyutur"
      1 string BodyCn = "可以睡个好觉"
      1 string BodyKo = "수면유도제"
      1 string BodyTw = "可以睡個好覺"
@@ -6110,7 +6110,7 @@
     0 Param data
      1 string Id = "yakujo_19"
      1 string BodyJp = "脳味噌がぽわんとします"
-     1 string BodyEn = "Your brain goes all funny"
+     1 string BodyEn = "Beyni yumusatir"
      1 string BodyCn = "让大脑冒泡泡"
      1 string BodyKo = "머릿속이 꽃밭이 됩니다"
      1 string BodyTw = "讓大腦清醒"
@@ -6126,7 +6126,7 @@
     0 Param data
      1 string Id = "yakujo_20"
      1 string BodyJp = "なにもかも忘れて眠っちゃおうか\r\nいっぱい飲むと暴れちゃうよ"
-     1 string BodyEn = "Good for when I just want to forget everything and sleep. I go bonkers if I take too many."
+     1 string BodyEn = "Her seyi kafadan silip uyumak için birebir.\r\nÇok içince kudurtuyor"
      1 string BodyCn = "忘掉一切，睡个好觉吧\r\n但吃太多会使情绪失控哦"
      1 string BodyKo = "모든 걸 잊고 푹 잘 수 있지만\r\n많이 먹으면 폭주할 거야"
      1 string BodyTw = "忘掉一切，睡個好覺吧\r\n 但吃太多會使情緒失控哦"
@@ -6142,7 +6142,7 @@
     0 Param data
      1 string Id = "yakujo_21"
      1 string BodyJp = "魔法のけむり"
-     1 string BodyEn = "Magic Smoke"
+     1 string BodyEn = "Büyülü Duman"
      1 string BodyCn = "魔法香烟"
      1 string BodyKo = "마법 연기"
      1 string BodyTw = "魔幻之菸"
@@ -6158,7 +6158,7 @@
     0 Param data
      1 string Id = "yakujo_22"
      1 string BodyJp = "１日１回１本"
-     1 string BodyEn = "1 once per day"
+     1 string BodyEn = "Günde 1 dal"
      1 string BodyCn = "1天1次 1次1根"
      1 string BodyKo = "1일 1회 1개"
      1 string BodyTw = "1天1次 1次1根"
@@ -6174,7 +6174,7 @@
     0 Param data
      1 string Id = "yakujo_23"
      1 string BodyJp = "ものすごくリラックスします"
-     1 string BodyEn = "Makes you feel super relaxed"
+     1 string BodyEn = "Felaket rahatlatir"
      1 string BodyCn = "会让整个人非常放松"
      1 string BodyKo = "긴장 및 스트레스 대폭 완화"
      1 string BodyTw = "會讓整個人非常放鬆"
@@ -6190,7 +6190,7 @@
     0 Param data
      1 string Id = "yakujo_24"
      1 string BodyJp = "たのしいです"
-     1 string BodyEn = "Fun :)"
+     1 string BodyEn = "Keyif xD"
      1 string BodyCn = "好开心哦"
      1 string BodyKo = "즐거워집니다"
      1 string BodyTw = "好開心喔！"
@@ -6206,7 +6206,7 @@
     0 Param data
      1 string Id = "yakujo_25"
      1 string BodyJp = "かなしいこと　くるしいこと \r\n今だけはぜんぶ隠しちゃおうよ"
-     1 string BodyEn = "For when I want to bury everything that hurts me and makes me sad deep down."
+     1 string BodyEn = "Efkarlandigim ve kederlendigim vakitlerde duygularimi kendimden saklamak icin birebir"
      1 string BodyCn = "无论是悲伤 还是痛苦 \r\n在这一刻 都暂时看不见了"
      1 string BodyKo = "슬픈 일도 괴로운 일도\r\n지금은 모두 감춰버리자"
      1 string BodyTw = "無論是悲傷 還是痛苦 \r\n 在這一刻 都暫時看不見了"
@@ -6222,7 +6222,7 @@
     0 Param data
      1 string Id = "yakujo_26"
      1 string BodyJp = "魔法の切手"
-     1 string BodyEn = "Magic Paper"
+     1 string BodyEn = "Büyülü Pul"
      1 string BodyCn = "魔法邮票"
      1 string BodyKo = "행복 종이"
      1 string BodyTw = "魔幻天堂"
@@ -6238,7 +6238,7 @@
     0 Param data
      1 string Id = "yakujo_27"
      1 string BodyJp = "１日１回１枚"
-     1 string BodyEn = "1 piece once per day"
+     1 string BodyEn = "Günde 1 pul"
      1 string BodyCn = "1天1次 1次1张"
      1 string BodyKo = "1일 1회 1장"
      1 string BodyTw = "1天1次 1次1張"
@@ -6254,7 +6254,7 @@
     0 Param data
      1 string Id = "yakujo_28"
      1 string BodyJp = "いろんなモノが見えます"
-     1 string BodyEn = "Makes you see a bunch of things"
+     1 string BodyEn = "Yeni bir seyler görmeni saglar"
      1 string BodyCn = "会看到各种各样的东西"
      1 string BodyKo = "각종 환각"
      1 string BodyTw = "會看到各式各樣的東西"
@@ -6270,7 +6270,7 @@
     0 Param data
      1 string Id = "yakujo_29"
      1 string BodyJp = "不思議なことが起きます"
-     1 string BodyEn = "Something weird will happen"
+     1 string BodyEn = "Tuhaf bir seyler yasatir"
      1 string BodyCn = "并发生不可思议的事情"
      1 string BodyKo = "이상한 일이 일어납니다"
      1 string BodyTw = "發生不可思議的事情"
@@ -6286,7 +6286,7 @@
     0 Param data
      1 string Id = "yakujo_30"
      1 string BodyJp = "世界が七色になるらしいよ\r\nいっしょに虹を見つけにいこうね"
-     1 string BodyEn = "Apparently this turns your world all rainbow and stuff. Let's go and look for our own rainbow together..."
+     1 string BodyEn = "Dünyayi gökkusagina ceviriyor gibi.\r\nHep beraber gökkusagi arayisinca cikalim <3"
      1 string BodyCn = "据说世界会变成七彩色的\r\n让我们一起去寻找彩虹吧"
      1 string BodyKo = "세상이 무지개빛으로 보인대.\r\n같이 무지개를 찾으러 가자"
      1 string BodyTw = "據說世界會變成七彩的喔\r\n 讓我們一起去尋找彩虹吧"
@@ -6302,7 +6302,7 @@
     0 Param data
      1 string Id = "haisin_start_button"
      1 string BodyJp = "はじめる"
-     1 string BodyEn = "Begin"
+     1 string BodyEn = "Basla"
      1 string BodyCn = "开始"
      1 string BodyKo = "시작"
      1 string BodyTw = "開始"
@@ -6318,7 +6318,7 @@
     0 Param data
      1 string Id = "adieuDialog"
      1 string BodyJp = "あと戻りできません"
-     1 string BodyEn = "You will not be able to return. Continue?"
+     1 string BodyEn = "Bundan sonra geri dönüs yok."
      1 string BodyCn = "您将无法返回。继续？"
      1 string BodyKo = "되돌릴 수 없습니다."
      1 string BodyTw = "您將無法返回。繼續？"
@@ -6334,7 +6334,7 @@
     0 Param data
      1 string Id = "Die"
      1 string BodyJp = "死ね"
-     1 string BodyEn = "DIE"
+     1 string BodyEn = "GEBER"
      1 string BodyCn = "去死吧"
      1 string BodyKo = "죽어"
      1 string BodyTw = "去死吧"
@@ -6350,7 +6350,7 @@
     0 Param data
      1 string Id = "neta_get"
      1 string BodyJp = "Neta Get"
-     1 string BodyEn = "Epiphany"
+     1 string BodyEn = "Evreka"
      1 string BodyCn = "发现新素材"
      1 string BodyKo = "소재 발견!"
      1 string BodyTw = "發現新素材"
@@ -6366,7 +6366,7 @@
     0 Param data
      1 string Id = "window_webcam"
      1 string BodyJp = "webcam"
-     1 string BodyEn = "webcam"
+     1 string BodyEn = "kamera"
      1 string BodyCn = "webcam"
      1 string BodyKo = "webcam"
      1 string BodyTw = "webcam"
@@ -6398,7 +6398,7 @@
     0 Param data
      1 string Id = "window_mail"
      1 string BodyJp = "メール"
-     1 string BodyEn = "E-Mail"
+     1 string BodyEn = "E-Posta"
      1 string BodyCn = "电子邮件"
      1 string BodyKo = "이메일"
      1 string BodyTw = "電子郵件"
@@ -6414,7 +6414,7 @@
     0 Param data
      1 string Id = "window_news"
      1 string BodyJp = "ニュース"
-     1 string BodyEn = "?"
+     1 string BodyEn = "Heberler"
      1 string BodyCn = "?"
      1 string BodyKo = "?"
      1 string BodyTw = "?"
@@ -6430,7 +6430,7 @@
     0 Param data
      1 string Id = "window_insta"
      1 string BodyJp = "いんすた"
-     1 string BodyEn = "?"
+     1 string BodyEn = "Insta"
      1 string BodyCn = "?"
      1 string BodyKo = "?"
      1 string BodyTw = "?"
@@ -6446,7 +6446,7 @@
     0 Param data
      1 string Id = "window_pedia"
      1 string BodyJp = "ペディア"
-     1 string BodyEn = "?"
+     1 string BodyEn = "Pedi"
      1 string BodyCn = "?"
      1 string BodyKo = "?"
      1 string BodyTw = "?"
@@ -6462,7 +6462,7 @@
     0 Param data
      1 string Id = "window_niyaniya"
      1 string BodyJp = "ニヤニヤ動画"
-     1 string BodyEn = "?"
+     1 string BodyEn = "Izlemesene"
      1 string BodyCn = "?"
      1 string BodyKo = "?"
      1 string BodyTw = "?"
@@ -6510,7 +6510,7 @@
     0 Param data
      1 string Id = "window_end"
      1 string BodyJp = "おしまい"
-     1 string BodyEn = "the end"
+     1 string BodyEn = "son"
      1 string BodyCn = "结束"
      1 string BodyKo = "끝"
      1 string BodyTw = "結束"
@@ -6526,7 +6526,7 @@
     0 Param data
      1 string Id = "system_skip"
      1 string BodyJp = "▶SKIP"
-     1 string BodyEn = "▶SKIP"
+     1 string BodyEn = "▶GEÇ"
      1 string BodyCn = "▶SKIP"
      1 string BodyKo = "▶SKIP"
      1 string BodyTw = "▶SKIP"
@@ -6542,7 +6542,7 @@
     0 Param data
      1 string Id = "poketter_name"
      1 string BodyJp = "Poketter"
-     1 string BodyEn = "Tweeter"
+     1 string BodyEn = "Tivitir"
      1 string BodyCn = "Poketter"
      1 string BodyKo = "Poketter"
      1 string BodyTw = "Poketter"
@@ -6558,7 +6558,7 @@
     0 Param data
      1 string Id = "drugGO"
      1 string BodyJp = "GO!"
-     1 string BodyEn = "GO!"
+     1 string BodyEn = "ÇEK!"
      1 string BodyCn = "GO!"
      1 string BodyKo = "GO!"
      1 string BodyTw = "GO!"
@@ -6574,7 +6574,7 @@
     0 Param data
      1 string Id = "WristGO"
      1 string BodyJp = "GO!"
-     1 string BodyEn = "GO!"
+     1 string BodyEn = "KES!"
      1 string BodyCn = "GO!"
      1 string BodyKo = "GO!"
      1 string BodyTw = "GO!"
@@ -6590,7 +6590,7 @@
     0 Param data
      1 string Id = "ManualHaishin"
      1 string BodyJp = "ManualHaishin"
-     1 string BodyEn = "ManualHaishin"
+     1 string BodyEn = "Manüel Yayin"
      1 string BodyCn = "传播手册"
      1 string BodyKo = "Transmisión manual"
      1 string BodyTw = "手動播送"
@@ -6622,7 +6622,7 @@
     0 Param data
      1 string Id = "ManualHaishin_SpeedUpFaster"
      1 string BodyJp = "はやくち"
-     1 string BodyEn = "Faster"
+     1 string BodyEn = "Geveze"
      1 string BodyCn = "快点"
      1 string BodyKo = "더 빠르게"
      1 string BodyTw = "快點"
@@ -6638,7 +6638,7 @@
     0 Param data
      1 string Id = "ManualHaishin_SpeedUpMoment"
      1 string BodyJp = "一瞬"
-     1 string BodyEn = "Moment"
+     1 string BodyEn = "An"
      1 string BodyCn = "片刻"
      1 string BodyKo = "순간"
      1 string BodyTw = "片刻"
@@ -6654,7 +6654,7 @@
     0 Param data
      1 string Id = "ManualHaishin_Next"
      1 string BodyJp = "すすむ"
-     1 string BodyEn = "Start"
+     1 string BodyEn = "Ilerle"
      1 string BodyCn = "继续"
      1 string BodyKo = "스스무"
      1 string BodyTw = "繼續"
@@ -6670,7 +6670,7 @@
     0 Param data
      1 string Id = "ManualHaishin_Replay"
      1 string BodyJp = "はじめから"
-     1 string BodyEn = "Replay"
+     1 string BodyEn = "Tekrar"
      1 string BodyCn = "重播"
      1 string BodyKo = "다시 하다"
      1 string BodyTw = "重播"
@@ -6686,7 +6686,7 @@
     0 Param data
      1 string Id = "ManualHaishin_Reset"
      1 string BodyJp = "りせっと"
-     1 string BodyEn = "Reset"
+     1 string BodyEn = "Sifirla"
      1 string BodyCn = "重置"
      1 string BodyKo = "초기화"
      1 string BodyTw = "重置"
@@ -6702,7 +6702,7 @@
     0 Param data
      1 string Id = "ManualHaishin_GB"
      1 string BodyJp = "モード オンオフ"
-     1 string BodyEn = "Mode on/off"
+     1 string BodyEn = "Modu aç/kapa"
      1 string BodyCn = "模式开/关"
      1 string BodyKo = "모드 온 오프"
      1 string BodyTw = "模式開/關"
@@ -6718,7 +6718,7 @@
     0 Param data
      1 string Id = "From"
      1 string BodyJp = "から"
-     1 string BodyEn = "from"
+     1 string BodyEn = "tarafindan"
      1 string BodyCn = "从"
      1 string BodyKo = "~에서"
      1 string BodyTw = "從"
@@ -6766,7 +6766,7 @@
     0 Param data
      1 string Id = "emotion"
      1 string BodyJp = "喜怒哀楽"
-     1 string BodyEn = "Emotion"
+     1 string BodyEn = "Insani Duygular"
      1 string BodyCn = "情感"
      1 string BodyKo = "감정"
      1 string BodyTw = "情感"
@@ -6782,7 +6782,7 @@
     0 Param data
      1 string Id = "yami"
      1 string BodyJp = "やみ"
-     1 string BodyEn = "Darkness"
+     1 string BodyEn = "Karanlik"
      1 string BodyCn = "阴暗"
      1 string BodyKo = "멘탈"
      1 string BodyTw = "憂鬱"
@@ -6798,7 +6798,7 @@
     0 Param data
      1 string Id = "special"
      1 string BodyJp = "特殊"
-     1 string BodyEn = "Special"
+     1 string BodyEn = "Özel"
      1 string BodyCn = "特别的"
      1 string BodyKo = "특별한"
      1 string BodyTw = "特別的"
@@ -6814,7 +6814,7 @@
     0 Param data
      1 string Id = "action"
      1 string BodyJp = "案件"
-     1 string BodyEn = "Case"
+     1 string BodyEn = "Olay"
      1 string BodyCn = "案件"
      1 string BodyKo = "사례"
      1 string BodyTw = "案件"
@@ -6830,7 +6830,7 @@
     0 Param data
      1 string Id = "live_gen_history"
      1 string BodyJp = "りれき"
-     1 string BodyEn = "History"
+     1 string BodyEn = "Geçmiş"
      1 string BodyCn = "历史"
      1 string BodyKo = "역사"
      1 string BodyTw = "歷史"
@@ -6846,7 +6846,7 @@
     0 Param data
      1 string Id = "live_gen_unlock"
      1 string BodyJp = "解除"
-     1 string BodyEn = "Return"
+     1 string BodyEn = "Iptal"
      1 string BodyCn = "返回"
      1 string BodyKo = "반품"
      1 string BodyTw = "返回"
@@ -6862,7 +6862,7 @@
     0 Param data
      1 string Id = "Agreement"
      1 string BodyJp = "えーと、えーと"
-     1 string BodyEn = "...."
+     1 string BodyEn = "Sey..."
      1 string BodyCn = "...."
      1 string BodyKo = "...."
      1 string BodyTw = "...."
@@ -6878,7 +6878,7 @@
     0 Param data
      1 string Id = "TitleEdit"
      1 string BodyJp = "タイトル編集"
-     1 string BodyEn = "TitleEdit"
+     1 string BodyEn = "BasligiDegistir"
      1 string BodyCn = "标题编辑"
      1 string BodyKo = "제목편집"
      1 string BodyTw = "標題編輯"
@@ -6910,7 +6910,7 @@
     0 Param data
      1 string Id = "live_gen_text_limt"
      1 string BodyJp = "セリフ（横26文字まで _ で改行）"
-     1 string BodyEn = "Comment (line break with _)"
+     1 string BodyEn = "Yorum (her 26 karakterde 1 _ ile satir atlama)"
      1 string BodyCn = "注释（以 _ 换行）"
      1 string BodyKo = "설명( 줄 바꿈은 _)"
      1 string BodyTw = "註釋（以 _ 換行）"

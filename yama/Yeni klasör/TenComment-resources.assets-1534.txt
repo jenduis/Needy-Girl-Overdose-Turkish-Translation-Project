@@ -28,7 +28,7 @@
     0 Param data
      1 string Id = "Haisin_Day0_Chou002"
      1 string BodyJP = "ジェルばんは！"
-     1 string BodyEn = "Cennet isiklari gününüzü aydinlatsin!"
+     1 string BodyEn = "Cennet isiklari gecenizi aydinlatsin!"
      1 string BodyCn = "小天使请安！"
      1 string BodyKo = "젤하!"
      1 string BodyTw = "小天使請安！"
