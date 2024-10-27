@@ -70,7 +70,7 @@
     0 Param data
      1 string Id = "Haisin_Day0_Chou005"
      1 string BodyJP = "電子の海を漂うオタクに笑顔を！"
-     1 string BodyEn = "...ve bu elektronik denizin akintilarinda kaybolan\r\notakularin yüzüne gülümseme getirmek için\r\nburadayim! "
+     1 string BodyEn = "...ve bu elektronik denizin akintilarina kapilip\r\ngiden animecilerin yüzüne gülümseme \r\ngetirmek için buradayim!"
      1 string BodyCn = "为漂泊在电子之海的宅宅献上笑容！"
      1 string BodyKo = "전자의 바다 위를 떠도는 덕후에게 미소를!"
      1 string BodyTw = "為漂泊在電子之海的宅宅獻上笑容！"
@@ -364,7 +364,7 @@
     0 Param data
      1 string Id = "Zatudan2_Chouten001"
      1 string BodyJP = "わたしの †黒歴史†！"
-     1 string BodyEn = "My Secret Dark Past"
+     1 string BodyEn = "xXx KaRaNLiKGeCMiSiM xXx"
      1 string BodyCn = "偶滴†黑历史†！"
      1 string BodyKo = "감추고 싶은 †흑역사†!"
      1 string BodyTw = "偶滴†黑暗過去†！"
@@ -378,7 +378,7 @@
     0 Param data
      1 string Id = "Zatudan2_Chouten002"
      1 string BodyJP = "超てんちゃんはね～\r\n昔ボカ○wikiとか見てたんだよ"
-     1 string BodyEn = "I used to browse the wiki for those \r\nvocal synthesizers back in the day."
+     1 string BodyEn = "Vakti zamaninda vocaloid forumlarinda takilirdim."
      1 string BodyCn = "其实啊～\r\n超天酱以前可常刷术力口wiki那些了"
      1 string BodyKo = "나 있지, 예전에 보○로○드 위키\r\n같은 걸 자주 보곤 했어"
      1 string BodyTw = "其實啊～\r\n 超天醬以前很常去看抖音那些"
@@ -392,7 +392,7 @@
     0 Param data
      1 string Id = "Zatudan2_Chouten003"
      1 string BodyJP = "そこでさ自分なりの\r\n歌詞考察を書いたら"
-     1 string BodyEn = "I wrote my own interpretations of the lyrics there..."
+     1 string BodyEn = "Iste öyle sitelerde sarkilari kendimce yorumlayip\r\nanalizlerimi paylasirdim."
      1 string BodyCn = "还时不时会发一些自己写的歌词解析"
      1 string BodyKo = "거기서 내 나름대로 어느 노래에 대한\r\n해석을 적었던 적이 있는데"
      1 string BodyTw = "還時不時會發一些\r\n 自己寫的歌詞解析"
@@ -406,7 +406,7 @@
     0 Param data
      1 string Id = "Zatudan2_Chouten004"
      1 string BodyJP = "めっちゃ晒されて\r\n笑いものにされて……"
-     1 string BodyEn = "And everyone made fun of me and bullied me a lot."
+     1 string BodyEn = "Ama edilmedik laf kalmadi yazdiklarima...\r\nSanki samar oglaniydim da herkes bi tane çakiyordu... "
      1 string BodyCn = "结果被人挂了……\r\n被他们当作笑话看……"
      1 string BodyKo = "그게 다른 사람에게 확 퍼지고\r\n엄청난 놀림거리가 됐지 뭐야..."
      1 string BodyTw = "結果被人PO上網……\r\n 被當作笑話看……"
@@ -420,7 +420,7 @@
     0 Param data
      1 string Id = "Zatudan2_Chouten005"
      1 string BodyJP = "コピペになって……\r\n朗読とかもされて……"
-     1 string BodyEn = "They got turned into copypastas \r\nand people even made dramatic readings..."
+     1 string BodyEn = "Yazdiklarimi kopyalayip her yere yapistirdilar...\r\nKomik olmayan dublaj bile yaptilar..."
      1 string BodyCn = "那些人编了文体到处玩梗……\r\n还阴阳怪气地读出来……"
      1 string BodyKo = "여기저기서 조리돌림을 당하고...\r\n심지어 대놓고 읽기까지 했지..."
      1 string BodyTw = "那些人亂複製貼上到處玩……\r\n 還陰陽怪氣的讀出來……"
@@ -434,7 +434,7 @@
     0 Param data
      1 string Id = "Zatudan2_Chouten006"
      1 string BodyJP = "その時、はじめてオタクに\r\n殺意が湧いたかな！"
-     1 string BodyEn = "That was when I first thought that\nall nerds should die!"
+     1 string BodyEn = "Iste o an hayatimda ilk kez dedim ki içimden:\r\nTüm animecileri gebertmem lazim!"
      1 string BodyCn = "本天使应该是在那时\r\n第一次对宅宅起了杀心呢！"
      1 string BodyKo = "그때 처음으로 씹덕들을\r\n죽여버리고 싶다고 생각했어!"
      1 string BodyTw = "那次應該是本天使\r\n 第一次對宅宅起了殺意呢！"
@@ -448,7 +448,7 @@
     0 Param data
      1 string Id = "Zatudan2_Chouten007"
      1 string BodyJP = "あはっ！\r\nぜったい許さん"
-     1 string BodyEn = "Aha! Fuck them all!"
+     1 string BodyEn = "Yaa! Unuttum mu sandiniz lan sizi!!"
      1 string BodyCn = "啊哈！\r\n决不饶恕"
      1 string BodyKo = "아하하! \r\n절대 용서하지 않을 거야"
      1 string BodyTw = "啊哈！\r\n 決不饒恕"
@@ -462,7 +462,7 @@
     0 Param data
      1 string Id = "Zatudan2_Chouten008"
      1 string BodyJP = "でしょー！\r\n(´・ω・`)ｼｮﾎﾞｰﾝ"
-     1 string BodyEn = "Right? Lol. *crickets* (´・ω・`)"
+     1 string BodyEn = "Di mi?! Hahaha... (´・ω・`)"
      1 string BodyCn = "对吧！！！\r\n(´・ω・`)叹气"
      1 string BodyKo = "그치, 그치~! \r\n(ㅜ^ㅜ) 히잉"
      1 string BodyTw = "對吧！！！\r\n (´・ω・`)嘆氣"
@@ -476,7 +476,7 @@
     0 Param data
      1 string Id = "Zatudan2_Chouten009"
      1 string BodyJP = "やめろ思い出させるな\r\n死にたくなるだろ"
-     1 string BodyEn = "Stop I don't want to remember please kill me."
+     1 string BodyEn = "Yalvaririm hatirlatma bana o günleri...\r\nÖlüp gitmek istiyorum düşündükçe..."
      1 string BodyCn = "不要啊别让我回忆往事了！\r\n会想死的好吗！"
      1 string BodyKo = "그만, 떠올리게 하지 마\r\n죽고 싶다구"
      1 string BodyTw = "不要啊别讓我回憶往事了！\r\n 會想死的好嗎！"
@@ -490,7 +490,7 @@
     0 Param data
      1 string Id = "Zatudan2_Chouten010"
      1 string BodyJP = "わたしの歌が聴きたい？\r\nじゃあ良いマイク代ちょうだいね"
-     1 string BodyEn = "You want to hear me sing?\nBuy me a better mic then pls."
+     1 string BodyEn = "Ayy, nasil sarki söyledigimi mi merak ettin?\r\nBana güzel bir mikrofon alirsan duyabilirsin belki"
      1 string BodyCn = "想听我唱歌吗？\r\n那就请资助我买个好点的麦吧"
      1 string BodyKo = "내 노래가 듣고 싶어? \r\n그럼 좋은 마이크를 사게 지원해 줘~"
      1 string BodyTw = "想聽我唱歌嗎？\r\n 那就請贊助我買個好一點的麥吧"

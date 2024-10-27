@@ -1,10 +1,14 @@
 TenComment [2][12]: chouten-chan için çeviri
-TenComment [4]: otaku mu animeci mi ona karar ver
+TenComment [14]-[24]: geçtim (aynı yayın)
+KusoComment [29]-[45]: geçtim (aynı yayın)
+TenComment [28]: içime sinmedi
 Line [957]: bu kısımda başlayan m kısmına emin olamadım iyi mi kötü mü
-Line [963] [967]: şimdilik aklıma bir şey gelmedi
-Line [966][978]: içime sinmedi
+Line [963][967][1008]: geçtim çünkü şimdilik aklıma bir şey gelmedi
+Line [966][978][1013]: içime sinmedi
 Line [969]: chouten-chan
 Line [971]: 承認 ilgi değil de onaylanmaya tekabül ediyo belki değişebilir + otaku/animeci
+Line [997]: kandırdım XD
+Line [1024]: yemin ediyorum ok牧場 ne anlamaya çalıştım anlayamadım pes ettim sonra bakarım
 SystemText [17][18][137][141][142][148][153]-[174][198][240][247][251][253][255][256][270][271][352]-[354][356][359]-[362][430]: geçtim çünkü chouten-chan
 SystemText [21][404]: inan bilmiyorum bu ne
 SystemText [25][26][116][127][331][398][419][426]: tam nerde çıkıyo bilmiyom ona göre bi şey yazarım belki
@@ -32,7 +36,14 @@ SystemText [293]-[295][298]-[302]: üşendiğim için geçtim sonra bakacam
 SystemText [357]: noktalamadan emin değilim
 SystemText [372]: ふわふわyı nası çevirsem bilemedim
 SystemText [368][373][378]: türkiyede kullanılan ilaç isimlerinin değişiği yazılabilir (sırasıyla anksiyete, öksürük ve uyku ilacı)
+SystemText [368] yakujo[5]: sanaks dedim ama ben ilaçlardan anlamıyom değişebilir
 SystemText [405]: geçtim çünkü yanlışlıkla bir şeyi bozacakmış gibi bi his verdi
+Act [19] Cmd [73]: dating app esprisi bulamadım
+Cmd [25]-[29][77]-[88][94]: geçtim çünkü bilemedim ne yazılır
+Cmd [40]-[44]: içime sinmedi
+Cmd [72] Act [15]: içime sinmedi (動画サイト)
+
+
 
 
 

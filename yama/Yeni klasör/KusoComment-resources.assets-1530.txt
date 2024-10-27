@@ -704,7 +704,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso001"
      1 string BodyJP = "ナカーマ"
-     1 string BodyEn = "same loool"
+     1 string BodyEn = "ben de panpa"
      1 string BodyCn = "偶滴同志"
      1 string BodyKo = "동지~"
      1 string BodyTw = "偶同掛的"
@@ -719,7 +719,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso002"
      1 string BodyJP = "ウチと同世代マジ？"
-     1 string BodyEn = "Wait what that means we're about the same age?"
+     1 string BodyEn = "ay yasit miyiz yoksa kiz"
      1 string BodyCn = "跟我同辈？真的假的"
      1 string BodyKo = "레알 우리 또래임?"
      1 string BodyTw = "跟我同輩？真假?"
@@ -734,7 +734,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso003"
      1 string BodyJP = "わかる"
-     1 string BodyEn = "nod nod"
+     1 string BodyEn = "anlayana..."
      1 string BodyCn = "我懂"
      1 string BodyKo = "ㄹㅇㅋㅋ"
      1 string BodyTw = "我懂"
@@ -749,7 +749,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso004"
      1 string BodyJP = "ボカ○歌って"
-     1 string BodyEn = "Sing a vocalbot song"
+     1 string BodyEn = "vocaloid sarkisi söyleeee"
      1 string BodyCn = "来首术力口听听"
      1 string BodyKo = "보○이○드 노래 불러 줘"
      1 string BodyTw = "唱首歌聽聽"
@@ -764,7 +764,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso020"
      1 string BodyJP = "歌ってみて！"
-     1 string BodyEn = "can we hear you sing please? :D"
+     1 string BodyEn = "yayinda patlat bi sarki guzum"
      1 string BodyCn = "唱几句听听！"
      1 string BodyKo = "한 번 불러 봐!"
      1 string BodyTw = "唱幾句來聽聽！"
@@ -794,7 +794,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso006"
      1 string BodyJP = "ざわ......"
-     1 string BodyEn = "o_O"
+     1 string BodyEn = "hasss"
      1 string BodyCn = "嘈杂......"
      1 string BodyKo = "웅성..."
      1 string BodyTw = "吵雜......"
@@ -809,7 +809,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso007"
      1 string BodyJP = "あいたたたたた"
-     1 string BodyEn = "ohhhhh nooooooo"
+     1 string BodyEn = "ananiiii"
      1 string BodyCn = "好痛痛痛痛"
      1 string BodyKo = "우와..."
      1 string BodyTw = "好痛痛痛痛"
@@ -824,7 +824,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso008"
      1 string BodyJP = "急に爆弾きたな"
-     1 string BodyEn = "Well that got heavy"
+     1 string BodyEn = "abov patladi bi anda kiz"
      1 string BodyCn = "怎么突然丢来个炸弹"
      1 string BodyKo = "냅다 뼈 때리네"
      1 string BodyTw = "突然丟了個炸彈"
@@ -839,7 +839,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso009"
      1 string BodyJP = "つらすぎ......"
-     1 string BodyEn = "Oh that hurts to read..."
+     1 string BodyEn = "yaaaa kiyamam :("
      1 string BodyCn = "太惨了吧......"
      1 string BodyKo = "힘들구만..."
      1 string BodyTw = "太慘了吧......"
@@ -854,7 +854,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso010"
      1 string BodyJP = "ﾖｼﾖｼ丶(・ω・｀)"
-     1 string BodyEn = "there there\r\n 丶(・ω・｀)"
+     1 string BodyEn = "geçti geçti 丶(・ω・｀)"
      1 string BodyCn = "乖乖不哭丶(・ω・｀)"
      1 string BodyKo = "토닥토닥( 'ㅅ')/"
      1 string BodyTw = "乖乖不哭哭丶(・ω・｀)"
@@ -869,7 +869,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso011"
      1 string BodyJP = "お茶噴いた"
-     1 string BodyEn = "i spat out my drink lmfao"
+     1 string BodyEn = "çayi püskürttüm ekrana amk"
      1 string BodyCn = "喷了"
      1 string BodyKo = "마시던 거 뿜음"
      1 string BodyTw = "噴飯"
@@ -884,7 +884,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso012"
      1 string BodyJP = "コピペはキツすぎ......"
-     1 string BodyEn = "Nooo not the copypasta"
+     1 string BodyEn = "copypasta da yapmayin ya :(:("
      1 string BodyCn = "变成梗也太惨了......"
      1 string BodyKo = "조리돌림은 넘하다..."
      1 string BodyTw = "變成梗也太慘了......"
@@ -899,7 +899,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso013"
      1 string BodyJP = "伝説だ"
-     1 string BodyEn = "legend"
+     1 string BodyEn = "kral"
      1 string BodyCn = "传奇啊这是"
      1 string BodyKo = "레전드"
      1 string BodyTw = "傳奇啊這是"
@@ -914,7 +914,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso014"
      1 string BodyJP = "もしかしたら知ってるかも"
-     1 string BodyEn = "Oh my god do we know the copypastas?"
+     1 string BodyEn = "acaba biliyom mu ya hangisi oldugunu"
      1 string BodyCn = "我当时可能在场"
      1 string BodyKo = "아는 이야기 같음"
      1 string BodyTw = "我當時可能在場"
@@ -929,7 +929,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso015"
      1 string BodyJP = "（´・ω・） ｶﾜｲｿｽ"
-     1 string BodyEn = "（´・ω・）rip"
+     1 string BodyEn = "（´・ω・）vah canim benim"
      1 string BodyCn = "（´・ω・）真可怜"
      1 string BodyKo = "( ' ㅅ')... 가엾구만"
      1 string BodyTw = "（´・ω・）真可憐"
@@ -959,7 +959,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso017"
      1 string BodyJP = "どんなこと書いたの？"
-     1 string BodyEn = "What did you write?"
+     1 string BodyEn = "ne yazdin ki"
      1 string BodyCn = "你写了啥？"
      1 string BodyKo = "뭐라고 썼는데?"
      1 string BodyTw = "你寫了啥？"
@@ -974,7 +974,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso018"
      1 string BodyJP = "殺意の波動に目覚めたんだ"
-     1 string BodyEn = "here we have the making of a serial killer"
+     1 string BodyEn = "la bu manyak katil mi olcak simdi basimiza"
      1 string BodyCn = "产生杀意了就是说"
      1 string BodyKo = "살의의 파동에 눈뜬 초텐"
      1 string BodyTw = "產生殺意了就是說"
@@ -989,7 +989,7 @@
     0 Param data
      1 string Id = "Zatudan2_Kuso019"
      1 string BodyJP = "許して"
-     1 string BodyEn = "please forgive me"
+     1 string BodyEn = "özür dilerim"
      1 string BodyCn = "原谅我们"
      1 string BodyKo = "ㅈㅅ"
      1 string BodyTw = "原諒我們"

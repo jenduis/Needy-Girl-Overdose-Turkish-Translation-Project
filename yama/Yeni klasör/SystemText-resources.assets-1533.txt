@@ -1358,7 +1358,7 @@
     0 Param data
      1 string Id = "System_NightHint"
      1 string BodyJp = "配信してフォロワーを増やそう"
-     1 string BodyEn = "Yayin yaparak takipçi topla!"
+     1 string BodyEn = "Yayin yaparak abone kas!"
      1 string BodyCn = "多多直播，让自己涨粉吧"
      1 string BodyKo = "방송으로 팔로워를 늘리자"
      1 string BodyTw = "多多直播，增加自己的粉絲吧"
@@ -2062,7 +2062,7 @@
     0 Param data
      1 string Id = "Shortcut_Drug"
      1 string BodyJp = "おくすり"
-     1 string BodyEn = "Hap"
+     1 string BodyEn = "Ilaç"
      1 string BodyCn = "吃药"
      1 string BodyKo = "약 먹기"
      1 string BodyTw = "吃藥"
@@ -3214,7 +3214,7 @@
     0 Param data
      1 string Id = "Ideon_2ch_res2"
      1 string BodyJp = "顔が良すぎてワロタ"
-     1 string BodyEn = "tam çitir la bu asdvasdavs
+     1 string BodyEn = "tam çitir la bu asdvasdavs"
      1 string BodyCn = "颜值也太高 笑到我"
      1 string BodyKo = "얼굴 짱 커여움 ㅋㅋㅋ"
      1 string BodyTw = "這顏值高到笑傻我啦"
@@ -4686,7 +4686,7 @@
     0 Param data
      1 string Id = "Event_Diary001"
      1 string BodyJp = "ピと同棲生活を始めてから数週間が経った\r\nおもえば遠くまできたもんだ\r\nさいしょは全然いなかったフォロワーもけっこうふえたし、ピといっしょにいろんなところに行った。たまにわたしのワガママとかラリったせいでケンカしたりもしたけど、そんなことすぐ忘れるくらい優しくしてくれた！\r\nこれからも二人でたくさんの思い出が作れたらいいな……\r\nピだいすきだよ～～～～\r\n\r\nまあ依存しまくってるから、いまさら別れるって言われたらマジで困るってのもあるけど。。。\r\n"
-     1 string BodyEn = "M ile beraber eve cikali birkac hafta oldu. Aslinda düsününce baya yol kat etmisiz. En basta bir tane bile abonemiz yokken su anda baya var. M ile beraber bol bol gezdik. Zaman zaman benim bencilligimden ya da kafayi cekmemden dolayi kavga etmis olsak da beni çook sevdigi için hemen unutuveriyor! Seni çok seviyorum askim <3 Kendi basima bir sey yapamayacagim sevgilime muhtacim ama olur da ayrilirsak... Düsünmek bile istemiyorum... "
+     1 string BodyEn = "M ile beraber eve cikali birkac hafta oldu. Aslinda düsününce baya yol kat etmisiz. En basta bir tane bile abonemiz yokken su anda baya var. M ile beraber bol bol gezdik. Zaman zaman benim bencilligimden ya da kafayi cekmemden dolayi kavga etmis olsak da beni çook sevdigi için hemen unutuveriyor! Seni çok seviyorum askim <3 Kendi basima bir sey yapamayacagim sevgilime muhtacim ama olur da ayrilirsak... Düsünmek bile istemiyorum..."
      1 string BodyCn = "自从跟阿P开始同居生活后已经过去好几周了。\r\n 想想真是一起走了好远啊。\r\n 从一个粉丝都没有做到了小有名气，还跟阿P一起去了好多地方。虽然我们有时会因为糖糖太过任性或者嗑嗨了而吵架，但是阿P总会温柔地不再计较！\r\n 要是今后我们还能继续一起制造更多的回忆就好了……\r\n 爱死你了阿P～～～\r\n \r\n 毕竟我现在已经彻底离不开你了，我可不想现在被你甩掉。。。"
      1 string BodyKo = "P와 동거 생활을 시작한지 몇 주가 지났어. 지금 생각하니 참 멀리까지 왔네. 처음에는 한 명도 없었던 팔로워도 상당히 늘었고, P와 함께 여러 곳도 돌아다녔지. 가끔 내가 너무 제멋대로 굴어서 싸울 때도 있지만, 그것도 금방 잊어버릴만큼 상냥하게 대해 주는걸! 앞으로도 둘이서 많은 추억을 만들고 싶어… P 정말 좋아해~\r\n \r\n뭐, P에게 너무 의존하고 있으니 이제 와서 헤어지겠다는 말을 들으면 멘붕이겠지만…"
      1 string BodyTw = "自從跟阿P開始同居生活後已經過了好幾個禮拜了。\r\n  想想真是一起走了好久啊！\r\n  從一個粉絲都沒有做到小有名氣，還跟阿P一起去了好多地方。雖然我們有時會因為糖糖太過任性或者嗑High了而吵架，但是阿P總會溫柔的不再計較！\r\n  要是今後我們還能繼續一起製造更多的回憶就好了……\r\n  愛死你了阿P～～～\r\n  \r\n  畢竟我現在已經徹底離不開你了，我可不想現在被你甩掉。。。"
@@ -4878,7 +4878,7 @@
     0 Param data
      1 string Id = "Status_Follower"
      1 string BodyJp = "フォロワー(万)"
-     1 string BodyEn = "Takipçi"
+     1 string BodyEn = "Abone"
      1 string BodyCn = "粉丝"
      1 string BodyKo = "팔로워(만명)"
      1 string BodyTw = "粉絲(萬)"
@@ -5422,7 +5422,7 @@
     0 Param data
      1 string Id = "Status_Follower"
      1 string BodyJp = "フォロワー(万)"
-     1 string BodyEn = "Takipçi"
+     1 string BodyEn = "Abone"
      1 string BodyCn = "粉丝"
      1 string BodyKo = "팔로워(만명)"
      1 string BodyTw = "粉絲(萬)"
@@ -5454,7 +5454,7 @@
     0 Param data
      1 string Id = "Follower"
      1 string BodyJp = "フォロワー"
-     1 string BodyEn = "Takipçi"
+     1 string BodyEn = "Abone"
      1 string BodyCn = "粉丝"
      1 string BodyKo = "팔로워"
      1 string BodyTw = "粉絲"
@@ -5902,7 +5902,7 @@
     0 Param data
      1 string Id = "yakujo_6"
      1 string BodyJp = "ディパス錠１mg"
-     1 string BodyEn = "Depaz Hapi (1mg)"
+     1 string BodyEn = "Sanaks Hapi (1mg)"
      1 string BodyCn = "安神片1mg"
      1 string BodyKo = "데파스정 1mg"
      1 string BodyTw = "抗焦慮藥1mg"
@@ -5934,7 +5934,7 @@
     0 Param data
      1 string Id = "yakujo_8"
      1 string BodyJp = "気持ちが落ち着きます"
-     1 string BodyEn = "Sakinlestirici"
+     1 string BodyEn = "Sakinlestirir"
      1 string BodyCn = "能让心情平静"
      1 string BodyKo = "스트레스 및 긴장 완화"
      1 string BodyTw = "能讓心情平靜"
