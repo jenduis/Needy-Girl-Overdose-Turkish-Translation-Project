@@ -1004,7 +1004,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso001"
      1 string BodyJP = "どこで生まれたの？会える？"
-     1 string BodyEn = "whered you grow up? can we meet?"
+     1 string BodyEn = "memleket nere kirvem? buluşak?"
      1 string BodyCn = "你是哪里人？能出来见个面吗？"
      1 string BodyKo = "어디 출신이야? 만남 ㄱ?"
      1 string BodyTw = "你是哪裡人？能出來見個面嗎？"
@@ -1019,7 +1019,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso002"
      1 string BodyJP = "生い立ち情報キボンヌ"
-     1 string BodyEn = "Tell us about your childhood!"
+     1 string BodyEn = "aşko çocukluğunu anlatsana"
      1 string BodyCn = "球个人情报"
      1 string BodyKo = "성장 과정 정보 히망함"
      1 string BodyTw = "求個資"
@@ -1034,7 +1034,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso003"
      1 string BodyJP = "こんな話もするんだ"
-     1 string BodyEn = "why are we talking about this"
+     1 string BodyEn = "böyle konuları da mı konuşuyoz burda"
      1 string BodyCn = "还会聊这些啊"
      1 string BodyKo = "이런 이야기도 하네"
      1 string BodyTw = "還會聊這些啊"
@@ -1094,7 +1094,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso007"
      1 string BodyJP = "低学歴乙"
-     1 string BodyEn = "lmao you a dropout?"
+     1 string BodyEn = "okuyup napçan"
      1 string BodyCn = "知道了是丈育"
      1 string BodyKo = "저학력 즐"
      1 string BodyTw = "知道了是個沒唸書的"
@@ -1109,7 +1109,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso008"
      1 string BodyJP = "なんか......ごめんね"
-     1 string BodyEn = "I haven't even done anything but I feel like I should be apologizing to her."
+     1 string BodyEn = "çok üzüldüm bu duyduklarıma :((("
      1 string BodyCn = "感觉......有点抱歉"
      1 string BodyKo = "저기... ㅈㅅ"
      1 string BodyTw = "感覺......有點抱歉"
@@ -1124,7 +1124,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso016"
      1 string BodyJP = "わたしも学校こわくて行けない"
-     1 string BodyEn = "I can't go to school either because it scares me"
+     1 string BodyEn = "ben de korktuğumdan okula gidemiyorum"
      1 string BodyCn = "我也怕到不敢上学"
      1 string BodyKo = "나도 학교 무서워서 안 감"
      1 string BodyTw = "我也怕到不敢上學"
@@ -1139,7 +1139,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso009"
      1 string BodyJP = "ぼく保卒"
-     1 string BodyEn = "homeschooled gang where u at"
+     1 string BodyEn = "ben ilkokul terkim"
      1 string BodyCn = "本人幼儿园毕业"
      1 string BodyKo = "난 유졸"
      1 string BodyTw = "本人幼兒園畢業"
@@ -1154,7 +1154,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso010"
      1 string BodyJP = "学校くらい行きなよ"
-     1 string BodyEn = "you should go to school lol"
+     1 string BodyEn = "okusana kızım bunlarla uğraşçağına"
      1 string BodyCn = "你倒是去上学啊"
      1 string BodyKo = "학교는 가라"
      1 string BodyTw = "你倒是去上學啊"
@@ -1169,7 +1169,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso011"
      1 string BodyJP = "むしろ好きになった"
-     1 string BodyEn = "i hated school before but now i like it"
+     1 string BodyEn = "ben okulu sevmeye başladım aslında"
      1 string BodyCn = "更爱了"
      1 string BodyKo = "오히려 좋아"
      1 string BodyTw = "反而更喜歡了!"
@@ -1184,7 +1184,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso012"
      1 string BodyJP = "ぼくも学校こわい"
-     1 string BodyEn = "i'm scared to go to school too"
+     1 string BodyEn = "okul çok korkunç bişey:("
      1 string BodyCn = "我也怕上学"
      1 string BodyKo = "나도 학교 무셔"
      1 string BodyTw = "我也怕上學"
@@ -1199,7 +1199,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso017"
      1 string BodyJP = "友達いる？"
-     1 string BodyEn = "Do you even have any friends?"
+     1 string BodyEn = "arkadaşın var mı hiç"
      1 string BodyCn = "你有朋友吗？"
      1 string BodyKo = "친구는 있냐?"
      1 string BodyTw = "你有朋友嗎？"
@@ -1214,7 +1214,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso013"
      1 string BodyJP = "わかるよ超てんちゃん"
-     1 string BodyEn = "Wow are you me?"
+     1 string BodyEn = "kız aynı ben"
      1 string BodyCn = "我懂你啊超天酱"
      1 string BodyKo = "이해함 이해함"
      1 string BodyTw = "我懂你啊超天醬"
@@ -1229,7 +1229,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso014"
      1 string BodyJP = "学校の話はやめて"
-     1 string BodyEn = "Can we stop talking about school please."
+     1 string BodyEn = "allah aşkına okul konusunu kapatın"
      1 string BodyCn = "别提学校的事了"
      1 string BodyKo = "학교 이야기는 그만"
      1 string BodyTw = "別提學校的事了"
@@ -1244,7 +1244,7 @@
     0 Param data
      1 string Id = "Zatudan3_Kuso015"
      1 string BodyJP = "こんな話するんだ"
-     1 string BodyEn = "why are we talking about this"
+     1 string BodyEn = "niye yayında bu konuyu konuşuyoz"
      1 string BodyCn = "还会聊这些啊"
      1 string BodyKo = "이런 이야기도 다 하네"
      1 string BodyTw = "還會聊這些啊"
@@ -1259,7 +1259,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso001"
      1 string BodyJP = "ジェルばんはって言え"
-     1 string BodyEn = "Are we not cuties today :("
+     1 string BodyEn = "cennet ışıklarına noldu bu gece :("
      1 string BodyCn = "快说小天使请安啊"
      1 string BodyKo = "젤하는 어디 감"
      1 string BodyTw = "快說小天使請安啊"
@@ -1274,7 +1274,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso002"
      1 string BodyJP = "挨拶しろ"
-     1 string BodyEn = "where the greeting..."
+     1 string BodyEn = "harbi"
      1 string BodyCn = "打招呼啊倒是"
      1 string BodyKo = "인사 해 인사"
      1 string BodyTw = "打招呼啊倒是"
@@ -1289,7 +1289,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso003"
      1 string BodyJP = "急になに！？"
-     1 string BodyEn = "Wtf is happening"
+     1 string BodyEn = "noluyo be"
      1 string BodyCn = "干吗这么突然？！"
      1 string BodyKo = "뜬금없이 뭐임?!"
      1 string BodyTw = "幹嗎這麼突然？！"
@@ -1304,7 +1304,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso004"
      1 string BodyJP = "そう簡単に言われてもな"
-     1 string BodyEn = "Easy for you to say"
+     1 string BodyEn = "demesi kolay"
      1 string BodyCn = "你说得倒轻巧"
      1 string BodyKo = "술술 부네"
      1 string BodyTw = "你說得倒輕鬆"
@@ -1319,7 +1319,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso005"
      1 string BodyJP = "承認欲求女はお前やろ"
-     1 string BodyEn = "Yeah you're the attention whore"
+     1 string BodyEn = "evet ilgi orospusu olan sensin amk"
      1 string BodyCn = "你才是渴望认同的女人吧"
      1 string BodyKo = "인정욕구 쩌는 건 너지"
      1 string BodyTw = "你才是渴望認同的女人吧"
@@ -1334,7 +1334,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso006"
      1 string BodyJP = "わたしもそう思う！"
-     1 string BodyEn = "i agree!"
+     1 string BodyEn = "bence de!"
      1 string BodyCn = "我也这么嚼得！"
      1 string BodyKo = "나도 그래!"
      1 string BodyTw = "我也這麼覺得！"
@@ -1364,7 +1364,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso008"
      1 string BodyJP = "認めるのか"
-     1 string BodyEn = "so you admit it huh"
+     1 string BodyEn = "kabul edion mu"
      1 string BodyCn = "还承认了啊？"
      1 string BodyKo = "인정하네"
      1 string BodyTw = "還承認了啊？"
@@ -1379,7 +1379,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso009"
      1 string BodyJP = "承認欲求ってどういう意味"
-     1 string BodyEn = "i dont know what that means"
+     1 string BodyEn = "ilgi derken nası yani"
      1 string BodyCn = "什么是渴望认同"
      1 string BodyKo = "인정욕구가 뭐임?"
      1 string BodyTw = "什麼是渴望認同"
@@ -1394,7 +1394,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso022"
      1 string BodyJP = "真面目な話しないで"
-     1 string BodyEn = "can we not talk about serious stuff please?"
+     1 string BodyEn = "biz buraya kafa dağıtmaya geliyoruz sen ne anlatıyosun"
      1 string BodyCn = "不要聊这些严肃的"
      1 string BodyKo = "진지한 이야기 하지 마"
      1 string BodyTw = "不要聊這些嚴肅的"
@@ -1409,7 +1409,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso010"
      1 string BodyJP = "欲求不満ってこと？"
-     1 string BodyEn = "So you're pent up?"
+     1 string BodyEn = "ilgiye açsın yani?"
      1 string BodyCn = "是渴望（男）人捅吗？"
      1 string BodyKo = "욕구불만인가?"
      1 string BodyTw = "是欲求不滿嗎？"
@@ -1424,7 +1424,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso011"
      1 string BodyJP = "たしカニ　 ≧[ﾟ ﾟ]≦,"
-     1 string BodyEn = "tru dat🤔"
+     1 string BodyEn = "harbi aq🤔"
      1 string BodyCn = "雀食 ( >8< )"
      1 string BodyKo = "그르게≧['ㅅ']≦"
      1 string BodyTw = "嘿啊 ( >8< )"
@@ -1454,7 +1454,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso013"
      1 string BodyJP = "漏れも認められたいよ"
-     1 string BodyEn = "I want approval too..."
+     1 string BodyEn = "ben de ilgi istiyom..."
      1 string BodyCn = "俺也想被人认可啊"
      1 string BodyKo = "나도 인정받고 싶음"
      1 string BodyTw = "俺也想被人認可啊"
@@ -1469,7 +1469,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso014"
      1 string BodyJP = "誰も褒めてくれない"
-     1 string BodyEn = "No one ever says anything good about me"
+     1 string BodyEn = "hayatımda bir kere beni öven olmadı"
      1 string BodyCn = "都没人愿意夸夸我"
      1 string BodyKo = "아무도 칭찬해주지 않아"
      1 string BodyTw = "都沒人願意誇誇我"
@@ -1484,7 +1484,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso015"
      1 string BodyJP = "こわい"
-     1 string BodyEn = "lol what"
+     1 string BodyEn = "haa"
      1 string BodyCn = "好怕"
      1 string BodyKo = "무셔"
      1 string BodyTw = "好怕"
@@ -1499,7 +1499,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso016"
      1 string BodyJP = "オレのことも認識してる？"
-     1 string BodyEn = "You'll see me for who I am? Really? 🥺"
+     1 string BodyEn = "peki melek müren de bizi görecek mi"
      1 string BodyCn = "连我你也记住了吗？"
      1 string BodyKo = "나도 인식해줄 거야?"
      1 string BodyTw = "連我你也記住了嗎？"
@@ -1514,7 +1514,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso017"
      1 string BodyJP = "ありがとう"
-     1 string BodyEn = "Thank you KAngel..."
+     1 string BodyEn = "teşekkürler <3"
      1 string BodyCn = "谢谢你"
      1 string BodyKo = "고마워"
      1 string BodyTw = "謝謝你"
@@ -1529,7 +1529,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso018"
      1 string BodyJP = "もっと見て"
-     1 string BodyEn = "more pls"
+     1 string BodyEn = "daha da ilgi ver"
      1 string BodyCn = "请多看看我"
      1 string BodyKo = "날 더 바줘"
      1 string BodyTw = "請多看看我"
@@ -1544,7 +1544,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso019"
      1 string BodyJP = "ファイナルフュージョン"
-     1 string BodyEn = "(db fuses)"
+     1 string BodyEn = "dattebayoo"
      1 string BodyCn = "最终融合"
      1 string BodyKo = "파이널 퓨전!"
      1 string BodyTw = "合體！！"
@@ -1559,7 +1559,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso020"
      1 string BodyJP = "こちらこそありがとうだよ"
-     1 string BodyEn = "Thank YOU, Kangel."
+     1 string BodyEn = "hayır bizim sana teşekkür etmemiz lazım"
      1 string BodyCn = "我才要谢谢你啊"
      1 string BodyKo = "나야말로 고마워"
      1 string BodyTw = "我才要謝謝你啊"
@@ -1574,7 +1574,7 @@
     0 Param data
      1 string Id = "Zatudan4_Kuso021"
      1 string BodyJP = "顔だけの女じゃないんだな"
-     1 string BodyEn = "I knew you were more than just a cute face...!"
+     1 string BodyEn = "güzel olan tek yönünün yüzün olmadığını biliyodum"
      1 string BodyCn = "看来不是空有颜值啊"
      1 string BodyKo = "예쁘기만 할 줄 알았는데 아니네"
      1 string BodyTw = "看來不是空有顏值啊"
@@ -1589,7 +1589,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso001"
      1 string BodyJP = "あー、あれね！　あれあれ！"
-     1 string BodyEn = "YEAH"
+     1 string BodyEn = "anaa harbi öyle bişi vardı"
      1 string BodyCn = "啊 是那个吧！对对对就是那个！"
      1 string BodyKo = "아~ 그거 말이지! 그거!"
      1 string BodyTw = "啊 是那個吧！對對對就是那個！"
@@ -1604,7 +1604,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso002"
      1 string BodyJP = "子供特有の病気"
-     1 string BodyEn = "yep something grown ass people definitely shouldnt have"
+     1 string BodyEn = "eet çocukluk hastalığı"
      1 string BodyCn = "小孩子特有的毛病"
      1 string BodyKo = "애들 특유의 병임"
      1 string BodyTw = "小孩特有的毛病"
@@ -1619,7 +1619,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso003"
      1 string BodyJP = "難しい話しないで"
-     1 string BodyEn = "This is all too much for me"
+     1 string BodyEn = "kafam almıyo bu kadar zor şeyleri:("
      1 string BodyCn = "别讲这种听不懂的"
      1 string BodyKo = "어려운 이야기 하지 마"
      1 string BodyTw = "別講這種聽不懂的"
@@ -1634,7 +1634,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso004"
      1 string BodyJP = "こわ"
-     1 string BodyEn = "Yikes"
+     1 string BodyEn = "korkunç"
      1 string BodyCn = "可怕"
      1 string BodyKo = "무셔"
      1 string BodyTw = "可怕~"
@@ -1649,7 +1649,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso005"
      1 string BodyJP = "わたしも居たよ！"
-     1 string BodyEn = "I had one too!"
+     1 string BodyEn = "benim de hayali arkadaşım vardı!!"
      1 string BodyCn = "我也有呢！"
      1 string BodyKo = "나한테도 있었어!"
      1 string BodyTw = "我也有呢！"
@@ -1664,7 +1664,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso006"
      1 string BodyJP = "虚無ってこと？"
-     1 string BodyEn = "this is why im a nihilist"
+     1 string BodyEn = "bu nihilizm mi demek"
      1 string BodyCn = "所以是虚无？"
      1 string BodyKo = "허무함 말인가?"
      1 string BodyTw = "所以是幻想？"
@@ -1679,7 +1679,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso007"
      1 string BodyJP = "ここに俺がいるだろ"
-     1 string BodyEn = "I'm here for you..."
+     1 string BodyEn = "ben burdayken ne gerek var öyle bişeye"
      1 string BodyCn = "我不是还在这吗"
      1 string BodyKo = "내가 여기 있잖아"
      1 string BodyTw = "我不是還在這嗎"
@@ -1694,7 +1694,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso008"
      1 string BodyJP = "病んどる"
-     1 string BodyEn = "lol you good? clearly not"
+     1 string BodyEn = "manyak"
      1 string BodyCn = "你有病吧"
      1 string BodyKo = "정신 놨네"
      1 string BodyTw = "你有病吧"
@@ -1709,7 +1709,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso009"
      1 string BodyJP = "病　院　い　け"
-     1 string BodyEn = "PLEASE get therapy"
+     1 string BodyEn = "terapi lazımsa yaz bana emmioğlu ilgilensin senle"
      1 string BodyCn = "建 议 就 医"
      1 string BodyKo = "병 원 가 라"
      1 string BodyTw = "建 議 就 醫"
@@ -1724,7 +1724,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso010"
      1 string BodyJP = "やさしいね"
-     1 string BodyEn = "You're so kind..."
+     1 string BodyEn = "çok naziksin 🥺"
      1 string BodyCn = "你人真好"
      1 string BodyKo = "상냥해"
      1 string BodyTw = "你人真好"
@@ -1739,7 +1739,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso011"
      1 string BodyJP = "それは嬉しい"
-     1 string BodyEn = "That's good!"
+     1 string BodyEn = "e çok iyi"
      1 string BodyCn = "那还挺好的"
      1 string BodyKo = "좀 좋은듯"
      1 string BodyTw = "那還挺好的"
@@ -1754,7 +1754,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso012"
      1 string BodyJP = "ぼくも混ぜて"
-     1 string BodyEn = "can i join pls"
+     1 string BodyEn = "beni de katın"
      1 string BodyCn = "也带我一个吧"
      1 string BodyKo = "나도 낄래"
      1 string BodyTw = "也帶我一個吧"
@@ -1769,7 +1769,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso013"
      1 string BodyJP = "今はいないの？"
-     1 string BodyEn = "So it's just gone now?"
+     1 string BodyEn = "artık yok mu yani"
      1 string BodyCn = "现在不在了吗？"
      1 string BodyKo = "지금은 없어?"
      1 string BodyTw = "現在不在了嗎？"
@@ -1799,7 +1799,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso015"
      1 string BodyJP = "俺たちの愛も永遠だよ"
-     1 string BodyEn = "Our love will last forever"
+     1 string BodyEn = "bizim aşkımız ebedi ama!!"
      1 string BodyCn = "我们的爱也是永恒的哦"
      1 string BodyKo = "우리 사랑도 영원해"
      1 string BodyTw = "我們的愛也是永恆的喔"
@@ -1814,7 +1814,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso016"
      1 string BodyJP = "「良い」幻覚なんて無い"
-     1 string BodyEn = "its not good to have delusions yall"
+     1 string BodyEn = "ilüzyon milüzyon hiç girmeyin o topa"
      1 string BodyCn = "幻觉就没有好的"
      1 string BodyKo = "”좋은” 환상따위 없지"
      1 string BodyTw = "沒有那種好的幻覺啦"
@@ -1829,7 +1829,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso017"
      1 string BodyJP = "かわいそ"
-     1 string BodyEn = ":("
+     1 string BodyEn = "yaa kıyamam 😭"
      1 string BodyCn = "可怜"
      1 string BodyKo = "짠하네"
      1 string BodyTw = "可憐"
@@ -1844,7 +1844,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso018"
      1 string BodyJP = "うん......"
-     1 string BodyEn = "Yeah..."
+     1 string BodyEn = "ewd..."
      1 string BodyCn = "嗯......"
      1 string BodyKo = "음..."
      1 string BodyTw = "嗯......"
@@ -1859,7 +1859,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso019"
      1 string BodyJP = "永遠はあるよ"
-     1 string BodyEn = "yes they can"
+     1 string BodyEn = "ne demek yok"
      1 string BodyCn = "永恒是存在的哦"
      1 string BodyKo = "영원함은 존재해"
      1 string BodyTw = "永恆是存在的喔"
@@ -1874,7 +1874,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso020"
      1 string BodyJP = "悲しすぎる"
-     1 string BodyEn = "yo why is this so sad😭"
+     1 string BodyEn = "ağlicammm 😭"
      1 string BodyCn = "也太可悲了吧"
      1 string BodyKo = "넘 슬픔"
      1 string BodyTw = "也太可悲了吧"
@@ -1889,7 +1889,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso021"
      1 string BodyJP = "ネットなんか大事にするな"
-     1 string BodyEn = "I don't think that's a very healthy way to think, please go outside"
+     1 string BodyEn = "şu siteyi kapasalar da adam olsanız aq"
      1 string BodyCn = "别那么在意网络啊"
      1 string BodyKo = "인터넷 따위에 시간낭비하지 마"
      1 string BodyTw = "別那麼在意網路啊"
@@ -1904,7 +1904,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso022"
      1 string BodyJP = "それはおつらい......"
-     1 string BodyEn = "Sounds tough :("
+     1 string BodyEn = "ay canım 😭"
      1 string BodyCn = "那还挺难的......"
      1 string BodyKo = "듣기 괴롭다..."
      1 string BodyTw = "那還挺難的......"
@@ -1919,7 +1919,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso023"
      1 string BodyJP = "oh"
-     1 string BodyEn = "oh"
+     1 string BodyEn = "ha"
      1 string BodyCn = "oh"
      1 string BodyKo = "오?"
      1 string BodyTw = "oh"
@@ -1934,7 +1934,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso024"
      1 string BodyJP = "急　展　開"
-     1 string BodyEn = "That took a turn"
+     1 string BodyEn = "abartma"
      1 string BodyCn = "噔 噔 咚"
      1 string BodyKo = "급 발 진"
      1 string BodyTw = "急速發展!!!!!"
@@ -1949,7 +1949,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso025"
      1 string BodyJP = "突然の感動"
-     1 string BodyEn = "bro 🥺🥺🥺"
+     1 string BodyEn = "olum çok duygulandım laa"
      1 string BodyCn = "突然被感动"
      1 string BodyKo = "급감동"
      1 string BodyTw = "突然被感動"
@@ -1964,7 +1964,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso026"
      1 string BodyJP = "超てんちゃん好きだ"
-     1 string BodyEn = "i love you kangel..."
+     1 string BodyEn = "üzülme ben seni seviyorum"
      1 string BodyCn = "喜欢超天酱"
      1 string BodyKo = "초텐, 좋아해~"
      1 string BodyTw = "喜歡超天醬"
@@ -1994,7 +1994,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso028"
      1 string BodyJP = "LOVE......"
-     1 string BodyEn = "I LOVE YOU..."
+     1 string BodyEn = "SENİ SEVİYORUZ"
      1 string BodyCn = "LOVE......"
      1 string BodyKo = "사랑해..."
      1 string BodyTw = "LOVE......"
@@ -2009,7 +2009,7 @@
     0 Param data
      1 string Id = "Zatudan5_Kuso029"
      1 string BodyJP = "KISS......"
-     1 string BodyEn = "KISS..."
+     1 string BodyEn = "MUCUK"
      1 string BodyCn = "KISS......"
      1 string BodyKo = "쪼옥~"
      1 string BodyTw = "KISS......"

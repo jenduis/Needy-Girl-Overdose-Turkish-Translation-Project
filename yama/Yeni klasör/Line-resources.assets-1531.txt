@@ -17962,7 +17962,7 @@
      1 string ParentId = "Jine_Reply"
      1 string Speaker = "ame"
      1 string BodyJp = "その反応が一番傷つく……\r\nウソ本当はどうでもいい"
-     1 string BodyEn = "bu tepkin canimi öyle bi yakti ki...\r\n\r\nKAAANNDIIRDIIM NAZLI YARI XD"
+     1 string BodyEn = "bu tepkin canimi öyle bi yakti ki...\r\n\r\nsaka saka umrumda degil aslinda hiç"
      1 string BodyCn = "你这种反应最伤人了……\r\n才怪其实我也不在乎"
      1 string BodyKo = "그 반응이 더 아프거든... 뻥이야, 될 대로 되라지 머"
      1 string BodyTw = "你這種反應最傷人了……\r\n 其實我也不在乎"

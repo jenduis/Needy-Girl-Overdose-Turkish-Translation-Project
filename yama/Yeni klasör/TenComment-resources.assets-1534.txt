@@ -518,7 +518,7 @@
     0 Param data
      1 string Id = "Zatudan3_Chouten002"
      1 string BodyJP = "わたしの生い立ち？\r\nうーん……"
-     1 string BodyEn = "My childhood? Hm..."
+     1 string BodyEn = "Çocukluğum mu? Eee..."
      1 string BodyCn = "要听我的身世？\r\n嗯……"
      1 string BodyKo = "내가 어렸을 때 말야? \r\n음..."
      1 string BodyTw = "要聽我的身世？\r\n 嗯……"
@@ -532,7 +532,7 @@
     0 Param data
      1 string Id = "Zatudan3_Chouten003"
      1 string BodyJP = "学校とかあんまり通ってなくて\r\nいわば、ちゅうそ……"
-     1 string BodyEn = "I didn't go to school much. I only really finished m—"
+     1 string BodyEn = "Dersleri falan zırt pırt ekerdim...\r\nZaten bitire bitire anca ortaoku-"
      1 string BodyCn = "我其实没怎么去上学\r\n也就是所谓的九漏鱼……"
      1 string BodyKo = "학교는 거의 안 다녔어.\r\n굳이 말하면 중졸..."
      1 string BodyTw = "我其實沒怎麼去上學\r\n 也就是所謂的逃學少女……"
@@ -546,7 +546,7 @@
     0 Param data
      1 string Id = "Zatudan3_Chouten004"
      1 string BodyJP = "超てんちゃんは天使だから\r\n学歴とかないの！"
-     1 string BodyEn = "I'm an angel! Angels don't have academic records!"
+     1 string BodyEn = "Meleklerin akademik geçmişi meçmişi olmaz zaten ya!"
      1 string BodyCn = "超天酱是天使\r\n因此没有学历这一说啦！"
      1 string BodyKo = "초텐은 천사인걸.\r\n그러니 학력같은 건 없어!"
      1 string BodyTw = "超天醬是天使\r\n 因此沒有學歷這一說啦！"
@@ -560,7 +560,7 @@
     0 Param data
      1 string Id = "Zatudan3_Chouten005"
      1 string BodyJP = "学校も試験もない！\r\nこの話、おわりおわり！"
-     1 string BodyEn = "I never had to go to school! \r\nOr do exams! Next question!"
+     1 string BodyEn = "Okul da sınav da nedir bilmem ben!\r\nHadi kapayın şu konuyu!"
      1 string BodyCn = "没有学校！也不用考试！\r\n好了！打住打住！"
      1 string BodyKo = "학교도 시험도 없단 말야! \r\n이 주제는 여기까지!"
      1 string BodyTw = "沒有學校！也不用考試！\r\n 好了！別說別說了！"
@@ -574,7 +574,7 @@
     0 Param data
      1 string Id = "Zatudan3_Chouten006"
      1 string BodyJP = "バカ！学歴で\r\n人を見るな"
-     1 string BodyEn = "Don't judge a person by their academic record!"
+     1 string BodyEn = "İnsanları diplomalarına göre yargılamayın lan!!"
      1 string BodyCn = "笨蛋！\r\n不许用学历来衡量他人！"
      1 string BodyKo = "새꺄! 학력같은 걸로\r\n사람을 평가하지 말라고!"
      1 string BodyTw = "笨蛋！\r\n 不許用學歷來衡量他人！"
@@ -588,7 +588,7 @@
     0 Param data
      1 string Id = "Zatudan3_Chouten007"
      1 string BodyJP = "頭が悪くてもな～\r\n 心が善いんだぞ～"
-     1 string BodyEn = "I may be a little stupid,\nbut I've got a heart of gold!"
+     1 string BodyEn = "Tamam biraz mankafalı olabilirim ama\r\nyüreğim tertemiz benim!"
      1 string BodyCn = "人家或许是有点蠢～\r\n但是心地可善良啦～"
      1 string BodyKo = "머리는 나쁘지만\r\n마음은 상냥하단 말야~"
      1 string BodyTw = "人家或許是有點蠢～\r\n 但是心地超級善良唷～"
@@ -602,7 +602,7 @@
     0 Param data
      1 string Id = "Zatudan3_Chouten008"
      1 string BodyJP = "登校するじゃん？\r\n教室の前着くじゃん？"
-     1 string BodyEn = "You know when you, like, go to school and then \r\ngo up to your classroom?"
+     1 string BodyEn = "Hani böyle okula gidersiniz...\r\nSonra tam sınıfın önüne gelirsiniz..."
      1 string BodyCn = "正常每天不都得上学嘛？\r\n上了学不都得去教室嘛？"
      1 string BodyKo = "학교에 가잖아?\r\n교실 문 앞에 딱 서잖아?"
      1 string BodyTw = "正常不是每天都得上學嘛？\r\n 上了學不都得去教室嘛？"
@@ -616,7 +616,7 @@
     0 Param data
      1 string Id = "Zatudan3_Chouten009"
      1 string BodyJP = "扉あけるの\r\nスゲー怖いんだわ"
-     1 string BodyEn = "Opening the door is super scary 'coz of the pranks..."
+     1 string BodyEn = "Tam kapıyı açacakken içerde yaşanacakları düşünüp\r\ntir tir titremeye başlarsınız ya?"
      1 string BodyCn = "但我真的是超级害怕的\r\n害怕推开教室的门"
      1 string BodyKo = "문을 여는 게 넘 무서웠어"
      1 string BodyTw = "但我真的是超級害怕的\r\n 害怕推開教室的門"
@@ -630,7 +630,7 @@
     0 Param data
      1 string Id = "Zatudan3_Chouten010"
      1 string BodyJP = "めちゃくちゃ震えんだよ\r\nみんなに分かるかな？"
-     1 string BodyEn = "Yeah I used to literally tremble so much\nat the thought. Anyone relate?"
+     1 string BodyEn = "Hatırladıkça soğuk terler döküyorum hala!\r\nEminim herkesin başına gelmiştir!"
      1 string BodyCn = "手抖得呀，按都按不住\r\n这种感觉谁懂？"
      1 string BodyKo = "엄청 떨린다구. 어떤 기분인지 알려나?"
      1 string BodyTw = "手抖得有多誇張，按都按不住\r\n 這種感覺誰懂？"
@@ -644,7 +644,7 @@
     0 Param data
      1 string Id = "Zatudan3_Chouten011"
      1 string BodyJP = "大丈夫！ウチらは学力じゃなく\r\nてかわいさで生きていこーね"
-     1 string BodyEn = "And that's okay! We can both just live off\nour cuteness. Who needs school?"
+     1 string BodyEn = "Endişelenme tatlım! Diplomayla işimiz olmaz bizim!\r\nGüzelliğimizden başka bir şeye ihtiyacımız yok!"
      1 string BodyCn = "没关系！管它什么学力呀\r\n以后咱们就靠可爱活下去叭～"
      1 string BodyKo = "괜찮아! 우린 학력이 아니라\r\n귀여움으로 살아가니까"
      1 string BodyTw = "沒關係！管它什麼學歷呀\r\n 以後我們就靠可愛活下去吧～"
@@ -658,7 +658,7 @@
     0 Param data
      1 string Id = "Zatudan3_Chouten012"
      1 string BodyJP = "現実の友達なんていらねーよ\r\nネットを開けばおまえらが待ってるからな"
-     1 string BodyEn = "I don't need offline friends :P \r\nI mean, why would I when I can just log on \r\nand see you guys?"
+     1 string BodyEn = "Gerçek arkadaş falan hikaye...\r\nSizler beni burada beklerken kim napsın başkalarını <3"
      1 string BodyCn = "人家才不需要现实朋友呢\r\n因为你们一直都在网上等着我呀"
      1 string BodyKo = "현실 친구따윈 없어도 돼\r\n인터넷을 켜면 너희가 기다리는걸"
      1 string BodyTw = "人家才不需要現實朋友呢\r\n 因為你們一直都在網上等著我呀"
@@ -672,7 +672,7 @@
     0 Param data
      1 string Id = "Zatudan4_Chouten001"
      1 string BodyJP = "承認欲求女子"
-     1 string BodyEn = "Needy Girl"
+     1 string BodyEn = "İlgiye Muhtaç Kızlar"
      1 string BodyCn = "渴望认同型女生"
      1 string BodyKo = "인정욕구가 강한 여자"
      1 string BodyTw = "渴望認同型的女生"
@@ -686,7 +686,7 @@
     0 Param data
      1 string Id = "Zatudan4_Chouten002"
      1 string BodyJP = "「承認」って、とても大事なことだと思う\r\n人は承認なしでは生きていけないから"
-     1 string BodyEn = "I think approval is a very important thing. \r\nHumans can't live without approval from their peers."
+     1 string BodyEn = "Bana sorarsınız ilgi çok önemli bir şey.\r\nİnsan ilgi olmadan nası yaşasın ki?"
      1 string BodyCn = "我觉得别人的「认同」特别重要\r\n因为人得不到认同就没法活下去"
      1 string BodyKo = "”인정”이란 정말 중요하다고 생각해\r\n사람은 남의 인정 없이는 살 수 없거든"
      1 string BodyTw = "我覺得別人的「認同」特別重要\r\n 因為人得不到認同就沒法活下去"
@@ -700,7 +700,7 @@
     0 Param data
      1 string Id = "Zatudan4_Chouten003"
      1 string BodyJP = "インターネットだと承認欲求は叩かれがちだけど\r\n承認を原動力にするのも大事だよね"
-     1 string BodyEn = "Those who want approval get called attention whores\nonline, but why? It's good for your motivation!"
+     1 string BodyEn = "İnternette az biraz ilgi istediğiniz an\r\nilgi orospusu diye damga yiyorsunuz hemen!\r\nOysa ilgiden motivasyon bulmak harika bir şey!"
      1 string BodyCn = "虽然上网求认同一般都会被喷死\r\n但有时他人的认同也是很重要的原动力呀"
      1 string BodyKo = "인터넷에서는 조리돌림의 대상일 뿐이지만\r\n인정을 원동력으로 삼는 것도 중요해"
      1 string BodyTw = "雖然上網求認同一般都會被砲死\r\n 但有時他人的認同也是很重要的原動力呀"
@@ -714,7 +714,7 @@
     0 Param data
      1 string Id = "Zatudan4_Chouten004"
      1 string BodyJP = "だって、こうして超てんちゃんを見られるのも\r\nわたしの承認欲求のおかげだなんだもの"
-     1 string BodyEn = "Like, I'm only here because of the affirmation \r\neveryone gives me, ya know?"
+     1 string BodyEn = "Yani bugün beni urda izleyebiliyorsanız sebebi\r\nbenim de ilgiye muhtaç olmam!"
      1 string BodyCn = "毕竟你们现在之所以能看到超天酱\r\n也要感谢人家对认同的渴望哦"
      1 string BodyKo = "왜냐면 이렇게 초텐을 볼 수 있는 것도\r\n내 인정욕구 덕분인걸"
      1 string BodyTw = "畢竟你們現在之所以能看到超天醬\r\n 也要感謝人家對認同的渴望喔"
@@ -728,7 +728,7 @@
     0 Param data
      1 string Id = "Zatudan4_Chouten005"
      1 string BodyJP = "誰かに自分を認められないと……\r\n誰かの役に立っているという実感がないと"
-     1 string BodyEn = "I need to feel recognized by others and feel like \r\nI'm offering something of use to someone out there."
+     1 string BodyEn = "Naparsam yapayım eğer sonunda ilgi göremeyeceksem\r\nsanki boşuna kürek çekiyo gibi hissediyorum."
      1 string BodyCn = "如果不被任何人所认可……\r\n或者如果从任何地方都感受不到自身价值的话"
      1 string BodyKo = "누군가에게 인정받지 못하면...\r\n누군가의 도움이 된다고 느끼지 못하면"
      1 string BodyTw = "如果不被任何人認同……\r\n 或者如果從任何地方都感受不到自身價值的話"
@@ -742,7 +742,7 @@
     0 Param data
      1 string Id = "Zatudan4_Chouten006"
      1 string BodyJP = "心が壊れて人間でなくなってしまうよね"
-     1 string BodyEn = "Otherwise I'd just be hollow inside. \r\nMy heart would break."
+     1 string BodyEn = "Öyle olunca da kalbim kırılıp \r\ninsanlığımı yitiriyorum gibi geliyo."
      1 string BodyCn = "那人的内心就会崩溃，成为行尸走肉了，对吧"
      1 string BodyKo = "마음이 망가져 인간이 아닌\r\n다른 게 될 것 같거든"
      1 string BodyTw = "那人的內心就會崩潰，成為行屍走肉了，對吧"
@@ -756,7 +756,7 @@
     0 Param data
      1 string Id = "Zatudan4_Chouten007"
      1 string BodyJP = "だから超てんちゃんも、みんなのことを\r\n認めて……「認識」してあげるからね"
-     1 string BodyEn = "So I'll recognize all of you guys as well. \r\nI am here to affirm you."
+     1 string BodyEn = "O yüzden sevgili meleğiniz olarak size ilgi vermek\r\niçin burdayım, tamam mı? <3"
      1 string BodyCn = "所以超天酱，也会给予大家认同……\r\n也会帮大家「认识」自己哦"
      1 string BodyKo = "그러니 초텐도 너희를 인정하고...\r\n”인식”해 줄게"
      1 string BodyTw = "所以超天醬，也會給大家認同……\r\n 也會幫大家「認識」自己喔"
@@ -770,7 +770,7 @@
     0 Param data
      1 string Id = "Zatudan4_Chouten008"
      1 string BodyJP = "いつも見てくれてありがとう！"
-     1 string BodyEn = "Thanks for always coming by!"
+     1 string BodyEn = "Yayınlarıma gösterdiğiniz ilgi için teşekkürler!"
      1 string BodyCn = "谢谢你们经常来看我的直播！"
      1 string BodyKo = "늘 봐줘서 고마워!"
      1 string BodyTw = "謝謝你們經常來看我的直播！"
@@ -784,7 +784,7 @@
     0 Param data
      1 string Id = "Zatudan4_Chouten009"
      1 string BodyJP = "じゃあ、また次も配信で会おうね †昇天†"
-     1 string BodyEn = "I'll see you all in the next stream. 🙏BLESS🙏"
+     1 string BodyEn = "Sonraki yayında görüşmek üzere öyleyse"
      1 string BodyCn = "那么，咱们下期再见啦，†升天†"
      1 string BodyKo = "그럼 다음 방송에서 만나! †승천†"
      1 string BodyTw = "那麼，咱們下集再見啦，†升天†"
@@ -798,7 +798,7 @@
     0 Param data
      1 string Id = "Zatudan4_Chouten010"
      1 string BodyJP = "人はな、フォロワー増え始めたら\r\n真面目な話をするようになるんだよ"
-     1 string BodyEn = "This is just what happens when people online \r\ngain more followers, my friend."
+     1 string BodyEn = "İnsanların abonesi artınca böyle ciddi konulardan\r\nbahsetmeye başlaması normal canım."
      1 string BodyCn = "人啊，只要粉丝一多\r\n就会开始想聊一些严肃的话题"
      1 string BodyKo = "사람은 팔로워 수가 늘어나면\r\n진지한 이야기를 하게 돼"
      1 string BodyTw = "人啊，只要粉絲一多\r\n 就會開始想聊一些嚴肅的話題"
@@ -812,7 +812,7 @@
     0 Param data
      1 string Id = "Zatudan4_Chouten011"
      1 string BodyJP = "そうじゃないとネタ切れするからな……"
-     1 string BodyEn = "We'd all run out of content otherwise!"
+     1 string BodyEn = "Öbür türlü içeriğimiz biterdi..."
      1 string BodyCn = "不然的话就没梗用了……"
      1 string BodyKo = "안 그러면 소재가 떨어지니까..."
      1 string BodyTw = "不然的話就沒梗用了……"
@@ -826,7 +826,7 @@
     0 Param data
      1 string Id = "Zatudan4_Chouten012"
      1 string BodyJP = "うん……ちゃんと「視えて」るからね"
-     1 string BodyEn = "Yes... I see you."
+     1 string BodyEn = "Tabii ki de <3."
      1 string BodyCn = "嗯……因为我一直都能「看见」你哦"
      1 string BodyKo = "응... 항상 ”지켜보고” 있을게"
      1 string BodyTw = "嗯……因為我一直都能「看見」你喔"
@@ -840,7 +840,7 @@
     0 Param data
      1 string Id = "Zatudan4_Chouten013"
      1 string BodyJP = "承認！！！"
-     1 string BodyEn = "Here! Affirmation for you!!!"
+     1 string BodyEn = "Al bakalım ilgini!!!"
      1 string BodyCn = "我批准了！！！"
      1 string BodyKo = "인정!!!"
      1 string BodyTw = "我認同！！！"
@@ -868,7 +868,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten002"
      1 string BodyJP = "「イマジナリーフレンド」って知っているかな？"
-     1 string BodyEn = "You know imaginary friends, right?"
+     1 string BodyEn = "Hayali arkadaş nedir biliyonuz di mi?"
      1 string BodyCn = "大家知道什么是「幻想朋友」吗？"
      1 string BodyKo = "”상상 속 친구”란 말 들어 봤어?"
      1 string BodyTw = "大家知道什麼是「幻想朋友」嗎？"
@@ -882,7 +882,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten003"
      1 string BodyJP = "そう、幼い頃に創り上げてしまう\r\n「妄想の友達」のことだね！"
-     1 string BodyEn = "The companions that we'd make up as kids?"
+     1 string BodyEn = "Hani çocukken kafada kurup beraber\r\noyun oynadığımız tipler?"
      1 string BodyCn = "没错！就是小时候\r\n自己脑补出来的空气朋友！"
      1 string BodyKo = "맞아, 어릴 적에 누구나 만들어 봤던\r\n”망상 속 친구” 말야!"
      1 string BodyTw = "沒錯！就是小時候\r\n 自己腦補出來的虛擬朋友！"
@@ -896,7 +896,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten004"
      1 string BodyJP = "超てんちゃんも、子供の頃は妄想の友達がいたんだ\r\n本当の友達が居なかったから……"
-     1 string BodyEn = "I had one as a kid 'coz I didn't\nhave any actual friends..."
+     1 string BodyEn = "Benim de küçükken hiç gerçek arkadaşım olmadığından\r\nbir sürü hayali arkadaşım vardı..."
      1 string BodyCn = "超天酱小时候也有个空气朋友哦\r\n因为当时人家没有真实的朋友……"
      1 string BodyKo = "초텐도 어릴 적 망상 속 친구가 있었어\r\n현실에서는 친구가 없었거든..."
      1 string BodyTw = "超天醬小時候也有個幻想朋友喔\r\n 因為那時候人家沒有真的朋友……"
@@ -910,7 +910,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten005"
      1 string BodyJP = "まいにち一緒に遊んでくれたんだ\r\n一緒にアニメを観たり、ゲームをしたり……"
-     1 string BodyEn = "We'd play together every day and\nwatch anime and play video games..."
+     1 string BodyEn = "Her gün beraber oyun oynayıp anime izlerdik..."
      1 string BodyCn = "那个朋友每天都陪我一起玩\r\n我们一起看动画片，一起打游戏……"
      1 string BodyKo = "그 친구랑 매일 같이 놀곤 했어\r\n같이 애니메이션을 보거나, 게임을 했지..."
      1 string BodyTw = "那個朋友每天都陪我一起玩\r\n 我們一起看卡通，一起打遊戲……"
@@ -924,7 +924,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten006"
      1 string BodyJP = "とっても楽しかった。親友だったんだよ"
-     1 string BodyEn = "We had a lot of fun together. \r\nWe were best friends."
+     1 string BodyEn = "Baya bildiğiniz en yakın arkadaşlardık..."
      1 string BodyCn = "每天都过得超开心的。那曾是我最要好的朋友"
      1 string BodyKo = "정말 즐거웠어. 절친이었지"
      1 string BodyTw = "每天都過得超開心的。那曾是我最要好的朋友"
@@ -938,7 +938,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten007"
      1 string BodyJP = "都合の良い幻覚だってわかっていても\r\nそれが永遠に続けばいいと思ってた"
-     1 string BodyEn = "I knew it was just a fanciful illusion I made up, \r\nbut I wished it could have continued forever."
+     1 string BodyEn = "Kendi kafamda oluşturduğum bir ilüzyon olduklarının\r\nfarkındaydım ama bu ilüzyonun hiç bitmemesini\r\nistiyodum."
      1 string BodyCn = "就算明白那只是自己一厢情愿的幻觉\r\n我仍然希望这段友情能永远持续下去"
      1 string BodyKo = "멋대로 상상한 환각이라는 걸 알면서도\r\n이 관계가 영원히 계속되길 바랐어"
      1 string BodyTw = "就算明白那只是自己一廂情願的幻覺\r\n 我仍然希望這段友情能永遠持續下去"
@@ -952,7 +952,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten008"
      1 string BodyJP = "永遠のものなんてないのにね"
-     1 string BodyEn = "But you know, nothing lasts forever."
+     1 string BodyEn = "Ama ebedi bir şey yok bu hayatta."
      1 string BodyCn = "明明世上压根没有什么永恒的东西"
      1 string BodyKo = "영원한 건 없는데 말야"
      1 string BodyTw = "明明世上根本沒有什麼永恆的東西"
@@ -966,7 +966,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten009"
      1 string BodyJP = "でも、大人になって 妄想の友達よりも\r\nインターネットの方が大事だなって気づいたとき"
-     1 string BodyEn = "When I got older, I realized that the internet was \r\nway better and more important than a made-up friend."
+     1 string BodyEn = "Büyüyünce de fark ettim ki internet aslında\r\nhayali arkadaşlardan daha da önemliymiş."
      1 string BodyCn = "不过，当我长大后发现，在自己心里，\r\n网络世界比空想的朋友还要重要的时候"
      1 string BodyKo = "그런데 어른이 되면서 망상 속 친구보다\r\n인터넷이 더 소중한 곳이라는 걸 깨달았더니"
      1 string BodyTw = "不過，當我長大後發現，在自己心裡，\r\n 網路世界比想像的朋友還要重要的時候"
@@ -980,7 +980,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten010"
      1 string BodyJP = "ぽんってイマジナリーフレンドは\r\n消えちゃった"
-     1 string BodyEn = "And poof, my imaginary friend disappeared."
+     1 string BodyEn = "Ve o anda tüm hayali arkadaşlarım\r\npat diye ortadan kayboldu."
      1 string BodyCn = "我的幻想朋友就突然消失了"
      1 string BodyKo = "상상 속 친구도 갑자기\r\n뿅하고 사라져 버렸어"
      1 string BodyTw = "我的幻想朋友就突然消失了"
@@ -994,7 +994,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten011"
      1 string BodyJP = "幻覚に囚われることよりも、\r\n天使としてみんなに会うことを選んだんだね"
-     1 string BodyEn = "I chose to step out and meet all of you as an angel\ninstead of being trapped by my delusions."
+     1 string BodyEn = "Ben de hayal gücümün bir mahkumu olmayı bırakıp\r\nmeleğiniz olarak sizlerle tanışmaya karar verdim!"
      1 string BodyCn = "因为我选择了以天使的身份跟大家相见\r\n而不是一味地把自己囚禁在幻觉里"
      1 string BodyKo = "환각에 사로잡히는 것보다\r\n천사가 되어 모두와 만나는 걸 선택한 거야"
      1 string BodyTw = "因為我選擇了以天使的身份跟大家相見\r\n 而不是一味的把自己囚禁在幻覺裡"
@@ -1008,7 +1008,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten012"
      1 string BodyJP = "だから……"
-     1 string BodyEn = "So..."
+     1 string BodyEn = "O yüzden..."
      1 string BodyCn = "所以……"
      1 string BodyKo = "그러니까..."
      1 string BodyTw = "所以……"
@@ -1022,7 +1022,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten013"
      1 string BodyJP = "責任とってね♡"
-     1 string BodyEn = "You'd all better be responsible\r\nand take good care of me!❤️"
+     1 string BodyEn = "Bana iyi davranmanız lazım!❤️"
      1 string BodyCn = "你们要对我负责呀♡"
      1 string BodyKo = "책임져♡"
      1 string BodyTw = "你們要對我負責呀♡"
@@ -1036,7 +1036,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten014"
      1 string BodyJP = "人はな、フォロワー増え始めたら\r\n真面目な話をするようになるんだよ"
-     1 string BodyEn = "This is just what happens when people online \r\ngain more followers, my friend."
+     1 string BodyEn = "İnsanların abonesi artınca böyle ciddi konulardan\r\nbahsetmeye başlaması normal canım."
      1 string BodyCn = "人啊，只要粉丝一多\r\n就会开始想聊一些严肃的话题"
      1 string BodyKo = "사람은 팔로워 수가 늘어나면\r\n진지한 이야기를 하게 돼"
      1 string BodyTw = "人啊，只要粉絲一多\r\n 就會開始想聊一些嚴肅的話題"
@@ -1050,7 +1050,7 @@
     0 Param data
      1 string Id = "Zatudan5_Chouten015"
      1 string BodyJP = "そうじゃないとネタ切れするからな……"
-     1 string BodyEn = "We'd all run out of content otherwise!"
+     1 string BodyEn = "Öbür türlü içeriğimiz biterdi..."
      1 string BodyCn = "不然的话就没梗用了……"
      1 string BodyKo = "안 그러면 이야깃거리가 바닥나니까..."
      1 string BodyTw = "不然的話就沒梗用了……"
