@@ -1,12 +1,13 @@
-TenComment [2][12][118]: chouten-chan için çeviri
+TenComment [2][12][75][118]: chouten-chan için çeviri
 TenComment [14]-[24]: geçtim (aynı yayın)
 KusoComment [29]-[45]: geçtim (aynı yayın)
 TenComment [28][66]: içime sinmedi
 TenComment [35]: geçtim çünkü aklıma gönderme gelmedi
 TenComment [55]: †昇天†
-TenComment [60]: geçtim çünkü bilemedim ne yazılır
+TenComment [60][91]: geçtim çünkü bilemedim ne yazılır
+TenComment [81][84]: horlamayı türkçe nasıl yazıyoruz amk?
 
-KusoComment [89]: geçtim çünkü chouten-chan
+KusoComment [89][154]: geçtim çünkü chouten-chan
 KusoComment [95]: geçtim çünkü 禿同 yerine ne yazılır bilemedim
 KusoComment [104]: içinme sinmedi
 

@@ -1,18 +1,17 @@
-TenComment: 23/987
+TenComment: 76/987
 Kitune: 0/185
 KRep: 0/591
-KusoComment: 49/2208
+KusoComment: 156/2208
 Line: 72/1506 (0. gün 950. satırdan başlıyo)
 SystemText: 365/431 (geriye sadece atladıklarım ve kontrol edilmesi gerekenler kaldı)
 MobComment: 0/242
-Cmd: 0/125
 Tweet: 1/401
 Act: 39/40 
 Cmd: 114/126 (atladıklarım ve kontrol edilmesi gerekenler kaldı)
 Tooltip: 0/36 
-Toplam: 643/6877 (%9,35)
+Toplam: 823/6877 (%11,96)
 
 1. Gün: 217 satır (13TenComment, 28KusoComment, 32Line, 1Tweet, 143SystemText) 
 2. Gün: 202 satır (202 SystemText) 
 3. Gün: 224 satır (10TenComment, 21KusoComment, 40Line, 39Act, 114Cmd)
-4. Gün: (36TenComment, 48KusoComment
+4. Gün: 160 satır (53TenComment, 107KusoComment) (Zatsudan 3-5, ASMR 1-2)

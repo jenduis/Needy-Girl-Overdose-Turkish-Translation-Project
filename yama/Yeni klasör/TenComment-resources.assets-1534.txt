@@ -1078,7 +1078,7 @@
     0 Param data
      1 string Id = "ASMR1_Chouten002"
      1 string BodyJP = "ふふ……俺くん\r\n今日もお仕事お疲れ様♡"
-     1 string BodyEn = "Good work out there today, you ❤️"
+     1 string BodyEn = "Bugün de harikaydın tatlım ❤️"
      1 string BodyCn = "哼哼……亲爱的\r\n今天上班辛苦啦♡"
      1 string BodyKo = "후후... 다들\r\n오늘 하루도 수고 많았어♡"
      1 string BodyTw = "哼哼……親愛的\r\n 今天上班辛苦啦♡"
@@ -1092,7 +1092,7 @@
     0 Param data
      1 string Id = "ASMR1_Chouten003"
      1 string BodyJP = "無職だったとしても、お仕事お疲れ様♡"
-     1 string BodyEn = "Even if you don't have a job... \r\ngood work out there today ❤️"
+     1 string BodyEn = "Tüm gün evde oturmuş olsan bile harikasın ❤️"
      1 string BodyCn = "就算没班可上，也辛苦了哦♡"
      1 string BodyKo = "백수도 수고 많았어♡"
      1 string BodyTw = "就算沒班可上，也辛苦了喔♡"
@@ -1106,7 +1106,7 @@
     0 Param data
      1 string Id = "ASMR1_Chouten004"
      1 string BodyJP = "今晩は一緒に寝ちゃおうね"
-     1 string BodyEn = "Let's sleep together tonight."
+     1 string BodyEn = "Hadi beraber uyuyalım bu gece."
      1 string BodyCn = "今晚咱们一起睡吧"
      1 string BodyKo = "오늘밤은 같이 자자"
      1 string BodyTw = "今晚咱們一起睡吧"
@@ -1120,7 +1120,7 @@
     0 Param data
      1 string Id = "ASMR1_Chouten005"
      1 string BodyJP = "眠るまで隣で羊数えてあげるからね♡"
-     1 string BodyEn = "I'll count sheep for you until you fall asleep ❤️"
+     1 string BodyEn = "Olur da uyku tutmazsa senin için koyunları sayıp\r\nşöyle güzel kulağına fısıldayabilirim ❤️"
      1 string BodyCn = "我会在你身边数羊给你听的♡"
      1 string BodyKo = "잠들 때까지 옆에서 양을 세어줄게♡"
      1 string BodyTw = "我會在你身邊數羊給你聽的♡"
@@ -1134,7 +1134,7 @@
     0 Param data
      1 string Id = "ASMR1_Chouten006"
      1 string BodyJP = "いーち、にー、さーーーん、しー……"
-     1 string BodyEn = "One sheep... Two sheep... Three sheep... Four..."
+     1 string BodyEn = "Biir, ikii, üüüüüç, dööört..."
      1 string BodyCn = "一只羊……两～只羊……三只……"
      1 string BodyKo = "하나, 둘, 셋, 넷..."
      1 string BodyTw = "一隻羊……兩～隻羊……三隻……"
@@ -1148,7 +1148,7 @@
     0 Param data
      1 string Id = "ASMR1_Chouten007"
      1 string BodyJP = "ごー、ろく……スースーっzzz"
-     1 string BodyEn = "Five... Six... Snzzz... Zzz..."
+     1 string BodyEn = "Beeş, altı... Horrr..."
      1 string BodyCn = "五……六……呼……zzz"
      1 string BodyKo = "다섯, 여섯... 쿨... 쿨..."
      1 string BodyTw = "五……六……呼……zzz"
@@ -1162,7 +1162,7 @@
     0 Param data
      1 string Id = "ASMR1_Chouten008"
      1 string BodyJP = "はわわ……寝ちゃってた！\r\nまさかわたしの方が先に寝ちゃうとは……"
-     1 string BodyEn = "Ack, I fell asleep! \r\nI didn't think I would be the first one..."
+     1 string BodyEn = "Ay, uyuyakalmışım ya!\r\nNoldu da ilk ben uyuyp gittim ki..."
      1 string BodyCn = "啊哇……我给睡着了！\r\n妹想到竟然是我先睡着……"
      1 string BodyKo = "아앗... 내가 잠들어버렸네! \r\n설마 내가 먼저 잠들 줄은 몰랐어..."
      1 string BodyTw = "哇！哇！哇！我居然睡著了！\r\n 沒想到竟然是我先睡著……"
@@ -1176,7 +1176,7 @@
     0 Param data
      1 string Id = "ASMR1_Chouten009"
      1 string BodyJP = "でも、もう限界……ぽやしみ～……zzz"
-     1 string BodyEn = "But I'm... so tired... Can't keep my eyes... Zzz..."
+     1 string BodyEn = "Çok uykum var... Hadi... İyi keçeler..."
      1 string BodyCn = "可我真的撑不住了……晚安安咯～……zzz"
      1 string BodyKo = "그치만 더는 못 견디겠어... 잘 자... 쿨..."
      1 string BodyTw = "可我真的撐不住了……安安囉～……zzz"
@@ -1190,7 +1190,7 @@
     0 Param data
      1 string Id = "ASMR1_Chouten010"
      1 string BodyJP = "むにゃむにゃ……俺くん、好き……zzz"
-     1 string BodyEn = "Mmm... I love you... Zzz..."
+     1 string BodyEn = "Horr... Seni seviyorum..."
      1 string BodyCn = "呜喵喵……亲爱的……爱你哦……zzz"
      1 string BodyKo = "음냐 음냐... 모두 좋아해... 쿨..."
      1 string BodyTw = "嗚喵喵……親愛的……愛你喔……zzz"
@@ -1204,7 +1204,7 @@
     0 Param data
      1 string Id = "ASMR1_Chouten011"
      1 string BodyJP = "えっ……誹謗中傷！？\r\n通報しますた！"
-     1 string BodyEn = "Slander! Police!\nGet this clown!"
+     1 string BodyEn = "Ne bu terbiyesizlik ya?!\r\nSayın modum, lütfen derhal bu adamı infaz edin!"
      1 string BodyCn = "咦……人身攻击？！我报警惹！"
      1 string BodyKo = "뭐야... 비방글 맞지?! \r\n무고죄로 신고할 거야!"
      1 string BodyTw = "咦……人身攻擊？！我報警惹！"
@@ -1218,7 +1218,7 @@
     0 Param data
      1 string Id = "ASMR2_Chouten001"
      1 string BodyJP = "脳味噌くちゅくちゅあっあっあ♡"
-     1 string BodyEn = "Lobotomy Simulator"
+     1 string BodyEn = "Beyin Dokunu Parçalayacağım ♡"
      1 string BodyCn = "脑融实况咕啾咕啾啊，啊，啊♡"
      1 string BodyKo = "뇌를 녹여버리는 방송♡"
      1 string BodyTw = "腦袋實況咕啾咕啾啊，啊，啊♡"
@@ -1232,7 +1232,7 @@
     0 Param data
      1 string Id = "ASMR2_Chouten002"
      1 string BodyJP = "今日は俺くんの脳味噌を\r\n天使がくちゅくちゅしてあげるね♡"
-     1 string BodyEn = "Hey, you❤️ I'm going to be probing \r\nand squelching your brain today!"
+     1 string BodyEn = "Bugün neşterimle kafatasını yarıp\r\niçerideki yumuşak şeyle oynayacağım tatlım ❤️"
      1 string BodyCn = "今天就由本天使来搅一搅\r\n我滴亲亲小观众的脑花哈♡"
      1 string BodyKo = "오늘은 천사 초텐이\r\n모두의 뇌를 완전히 녹여 줄게♡"
      1 string BodyTw = "今天就由本天使來攪一攪\r\n 各位觀眾的腦子吧♡"
@@ -1246,7 +1246,7 @@
     0 Param data
      1 string Id = "ASMR2_Chouten003"
      1 string BodyJP = "ほら、くちゅくちゅ♡\r\nくちゅくちゅ♡"
-     1 string BodyEn = "Squelch, squelch. Squelch, squelch.❤️"
+     1 string BodyEn = "Hazır mısın? Canın yanarsa tadını çıkarmaya bak ❤️\r\nŞöyle uslu dur da rahatça kesebileyim..."
      1 string BodyCn = "开始啰，咕啾咕啾♡\r\n咕啾咕啾♡"
      1 string BodyKo = "자, 조물조물♡ 조물조물♡"
      1 string BodyTw = "開始囉，咕啾咕啾♡\r\n 咕啾咕啾♡"
@@ -1260,7 +1260,7 @@
     0 Param data
      1 string Id = "ASMR2_Chouten004"
      1 string BodyJP = "脳味噌とっても気持ちいいね～\r\nしあわせだね～"
-     1 string BodyEn = "Your brain is so squishy! I love it❤️"
+     1 string BodyEn = "Beynin mi yoksa o? Ayy, ne kadar da yumuşacık ❤️"
      1 string BodyCn = "是不是很酥糊～\r\n四八四很幸福～"
      1 string BodyKo = "뇌 만지는 감촉이 정말 기분 좋네~\r\n다들 행복하지~?"
      1 string BodyTw = "是不是很酥糊～\r\n 四八四很幸福～"
@@ -1274,7 +1274,7 @@
     0 Param data
      1 string Id = "ASMR2_Chouten005"
      1 string BodyJP = "もう何もかんがえなくていいからね♡"
-     1 string BodyEn = "Now just relax... You don't have to think \r\nabout anything anymore..."
+     1 string BodyEn = "Artık bu hayatta hiçbir şeyi\r\ndert edinmene gerek yok ❤️"
      1 string BodyCn = "大脑放空什么都不用去想了哦♡"
      1 string BodyKo = "이제 아무것도 생각하지 마♡"
      1 string BodyTw = "大腦放空就什麼都不用想了喔♡"
@@ -1302,7 +1302,7 @@
     0 Param data
      1 string Id = "ASMR2_Chouten007"
      1 string BodyJP = "いっぱい発狂して気持ちよくなりまちょうね～\r\nいあいあ いあいあ♡"
-     1 string BodyEn = "Let's all go crazy and \r\nfeel good together~ Aaah❤️"
+     1 string BodyEn = "Bol bol delirip iyi hissetmeye bakalım tatlım ❤️"
      1 string BodyCn = "尽管发泄～让自己一起酥糊起来哦～\r\n咿呀咿呀，咿呀咿呀♡"
      1 string BodyKo = "몽롱한 기분과 함께 마음껏 발광하자~\r\n이아 이아! 이아 이아♡"
      1 string BodyTw = "儘管發洩～讓自己一起酥糊起來喔～\r\n 咿呀咿呀，咿呀咿呀♡"
@@ -1316,7 +1316,7 @@
     0 Param data
      1 string Id = "ASMR2_Chouten008"
      1 string BodyJP = "大丈夫！　キミの脳味噌は元から壊れてたよ"
-     1 string BodyEn = "I don't have to!\nYour brain is already broken <3"
+     1 string BodyEn = "Merak etme <3\r\nBeynin zaten parçalanmış vaziyetteydi"
      1 string BodyCn = "没关系！你的脑子本来就是坏的"
      1 string BodyKo = "괜찮아!\r\n네 뇌는 처음부터 망가져 있었으니까"
      1 string BodyTw = "沒關係！你的腦子本來就是壞的"

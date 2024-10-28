@@ -2024,7 +2024,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso001"
      1 string BodyJP = "俺くんです"
-     1 string BodyEn = "M-ME?"
+     1 string BodyEn = "BEN"
      1 string BodyCn = "大家好 她在叫我"
      1 string BodyKo = "나도임"
      1 string BodyTw = "大家好 她在叫我"
@@ -2039,7 +2039,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso002"
      1 string BodyJP = "漏れくん"
-     1 string BodyEn = "that's me...!"
+     1 string BodyEn = "BENDİR"
      1 string BodyCn = "爱爱的"
      1 string BodyKo = "나 님 등 장"
      1 string BodyTw = "是俺啦..."
@@ -2054,7 +2054,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso003"
      1 string BodyJP = "ぼく無職"
-     1 string BodyEn = "im jobless"
+     1 string BodyEn = "ben işsizim..."
      1 string BodyCn = "本人无业游民"
      1 string BodyKo = "나 백수"
      1 string BodyTw = "本人無業遊民"
@@ -2069,7 +2069,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso004"
      1 string BodyJP = "別れた妻に似てる"
-     1 string BodyEn = "You look like my ex-wife haha"
+     1 string BodyEn = "Boşandığım karıma benziyorsun."
      1 string BodyCn = "她好像我前妻"
      1 string BodyKo = "이혼한 마누라 닮았네"
      1 string BodyTw = "她好像我前妻"
@@ -2084,7 +2084,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso005"
      1 string BodyJP = "無　職　救　済　大　天　使"
-     1 string BodyEn = "BASED KANGEL"
+     1 string BodyEn = "İŞSİZLERİN İMDADINA YETİŞTİN EY BAŞ MELEK"
      1 string BodyCn = "待 业 救 星 大 天 使"
      1 string BodyKo = "백 수 의 수 호 천 사"
      1 string BodyTw = "待 業 救 星 大 天 使"
@@ -2099,7 +2099,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso006"
      1 string BodyJP = "無職も疲れるからな"
-     1 string BodyEn = "it's hard being jobless"
+     1 string BodyEn = "bıktım artık işsiz güçsüz takılmaktan"
      1 string BodyCn = "待业也是会累的"
      1 string BodyKo = "백수도 힘든 일이지"
      1 string BodyTw = "待業也是會累的"
@@ -2114,7 +2114,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso007"
      1 string BodyJP = "これには無職もにっこり"
-     1 string BodyEn = "I could cope with being unemployed if I had KAngel..."
+     1 string BodyEn = "biz işsizleri bile güldürebildin ya :=) ilahi"
      1 string BodyCn = "看到的无业游民露出了欣慰的笑容"
      1 string BodyKo = "여기서는 백수도 빵끗"
      1 string BodyTw = "看到無業遊民露出了欣慰的笑容"
@@ -2174,7 +2174,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso011"
      1 string BodyJP = "マジ？？？？？"
-     1 string BodyEn = "yoooooo"
+     1 string BodyEn = "HARBİ Mİ"
      1 string BodyCn = "真假？？？？？"
      1 string BodyKo = "레알???"
      1 string BodyTw = "真假？？？？？"
@@ -2189,7 +2189,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso012"
      1 string BodyJP = "日本語で数えても意味ないよ"
-     1 string BodyEn = "does this even work"
+     1 string BodyEn = "hee biz de uyuduk sen eşşek sayınca aq"
      1 string BodyCn = "你不用英语数没意义啊"
      1 string BodyKo = "안 통할 텐데"
      1 string BodyTw = "你不用日語數沒意義啊"
@@ -2204,7 +2204,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso013"
      1 string BodyJP = "zzz"
-     1 string BodyEn = "zzz"
+     1 string BodyEn = "😴😴😴"
      1 string BodyCn = "zzz"
      1 string BodyKo = "드르렁"
      1 string BodyTw = "zzz"
@@ -2219,7 +2219,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso014"
      1 string BodyJP = "俺くんが就寝......"
-     1 string BodyEn = "I want to sleep now..."
+     1 string BodyEn = "uyku vaktim geldi..."
      1 string BodyCn = "你亲爱的要去睡了......"
      1 string BodyKo = "나 졸류..."
      1 string BodyTw = "我要去睡了......"
@@ -2234,7 +2234,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso015"
      1 string BodyJP = "おきろおきろ～！！！"
-     1 string BodyEn = "KANGEL YOUR STICKS"
+     1 string BodyEn = "MELEK KALK ÖSSYİ KAÇIRDIN"
      1 string BodyCn = "快醒醒~！！！"
      1 string BodyKo = "어서 일어나~!!!"
      1 string BodyTw = "快醒醒~！！！"
@@ -2249,7 +2249,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso016"
      1 string BodyJP = "そっちが寝るんか～い！！！"
-     1 string BodyEn = "lmao wake up!!!"
+     1 string BodyEn = "lan benim uyumam gerekiyodu"
      1 string BodyCn = "怎么是你先睡着啊！！！"
      1 string BodyKo = "그쪽이 자면 어켘ㅋㅋㅋ!!!"
      1 string BodyTw = "怎麼是你先睡著啊！！！"
@@ -2264,7 +2264,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso017"
      1 string BodyJP = "ヽ(・ω・)/ ｽﾞｺｰ"
-     1 string BodyEn = "😅"
+     1 string BodyEn = "ヽ(・ω・)/"
      1 string BodyCn = "ヽ(・ω・)/我倒~"
      1 string BodyKo = "('ㅁ') 대다내~"
      1 string BodyTw = "ヽ(・ω・)/我倒~"
@@ -2279,7 +2279,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso030"
      1 string BodyJP = "もう一生目覚めるな"
-     1 string BodyEn = "I hope you go to sleep and never wake up"
+     1 string BodyEn = "umarım bir ömür uyanmazsın"
      1 string BodyCn = "这辈子都别醒了"
      1 string BodyKo = "영원히 자도 됨"
      1 string BodyTw = "這辈子都别醒了"
@@ -2294,7 +2294,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso018"
      1 string BodyJP = "ぽやしみ～"
-     1 string BodyEn = "niiight..."
+     1 string BodyEn = "iyi keçeler <3"
      1 string BodyCn = "暗安～"
      1 string BodyKo = "잘 자~"
      1 string BodyTw = "安安～"
@@ -2309,7 +2309,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso019"
      1 string BodyJP = "スースーzzz"
-     1 string BodyEn = "snzz... snzz..."
+     1 string BodyEn = "HORRRRRRRR"
      1 string BodyCn = "呼噜呼噜zzz"
      1 string BodyKo = "쿨... 드르렁..."
      1 string BodyTw = "呼嚕呼嚕zzz"
@@ -2339,7 +2339,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso021"
      1 string BodyJP = "天使の寝顔"
-     1 string BodyEn = "shes so cute when shes asleep..."
+     1 string BodyEn = "uyuyan melek görmek de varmış nasipte..."
      1 string BodyCn = "天使的睡脸"
      1 string BodyKo = "천사의 잠든 모습이라니"
      1 string BodyTw = "天使的睡臉"
@@ -2354,7 +2354,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso022"
      1 string BodyJP = "zzz"
-     1 string BodyEn = "zzz"
+     1 string BodyEn = "😴😴😴"
      1 string BodyCn = "zzz"
      1 string BodyKo = "드르렁"
      1 string BodyTw = "zzz"
@@ -2369,7 +2369,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso023"
      1 string BodyJP = "超　て　ん　萌　え　萌　え"
-     1 string BodyEn = "kangel is cute!!! CUTE!!!"
+     1 string BodyEn = "ALLAHIM ŞU GÜZELLİK NE"
      1 string BodyCn = "超 天 萌 萌 哒"
      1 string BodyKo = "초 텐 모 에 모 에"
      1 string BodyTw = "超 天 萌 萌 的"
@@ -2384,7 +2384,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso024"
      1 string BodyJP = "かわいすぐる"
-     1 string BodyEn = "Shes so fucking cute oh my god"
+     1 string BodyEn = "ağlayacam tatlılıktan"
      1 string BodyCn = "也太可爱了啪"
      1 string BodyKo = "넘 커여움"
      1 string BodyTw = "也太可愛了吧"
@@ -2399,7 +2399,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso025"
      1 string BodyJP = "毎晩これ聴くわ"
-     1 string BodyEn = "Recording this for bedtime asmr lets go"
+     1 string BodyEn = "her gece bunu dinleyerek uyicam artık"
      1 string BodyCn = "我必每晚亿遍"
      1 string BodyKo = "매일 들어야징"
      1 string BodyTw = "我每晚聽一億遍"
@@ -2414,7 +2414,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso026"
      1 string BodyJP = "永久保存版"
-     1 string BodyEn = "I'm ripping this"
+     1 string BodyEn = "uykularıma bir melek eşlik edecek bundan sonra..."
      1 string BodyCn = "永久珍藏版"
      1 string BodyKo = "영구 저장각"
      1 string BodyTw = "永久珍藏版"
@@ -2444,7 +2444,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso028"
      1 string BodyJP = "無職が就寝......"
-     1 string BodyEn = "this jobless loser's gonna go to sleep..."
+     1 string BodyEn = "işsizlerin de uyku vakti geldi gibi..."
      1 string BodyCn = "无业游民要睡了......"
      1 string BodyKo = "백수가 자네..."
      1 string BodyTw = "無業遊民要睡了......"
@@ -2459,7 +2459,7 @@
     0 Param data
      1 string Id = "ASMR1_Kuso029"
      1 string BodyJP = "生まれて初めて寝れそう"
-     1 string BodyEn = "I think this just cured my insomnia"
+     1 string BodyEn = "sanırım hayatımda ilk defa rahatça uyuyabilecem"
      1 string BodyCn = "是这辈子第一次感觉到睡意"
      1 string BodyKo = "인생 처음으로 잠들 듯"
      1 string BodyTw = "是這輩子第一次感覺到睡意"
@@ -2474,7 +2474,7 @@
     0 Param data
      1 string Id = "ASMR2_Kuso001"
      1 string BodyJP = "合法？"
-     1 string BodyEn = "Is this legal?"
+     1 string BodyEn = "buna hakkın var mı"
      1 string BodyCn = "合法？"
      1 string BodyKo = "합법이겠지?"
      1 string BodyTw = "合法？"
@@ -2489,7 +2489,7 @@
     0 Param data
      1 string Id = "ASMR2_Kuso002"
      1 string BodyJP = "脳天直撃"
-     1 string BodyEn = "You can probe my brain all you like"
+     1 string BodyEn = "beynime krit vurdun"
      1 string BodyCn = "直冲脑门"
      1 string BodyKo = "머리통 직격"
      1 string BodyTw = "直衝腦門"
@@ -2504,7 +2504,7 @@
     0 Param data
      1 string Id = "ASMR2_Kuso003"
      1 string BodyJP = "くちゅくちゅキター"
-     1 string BodyEn = "pls squelch my brain"
+     1 string BodyEn = "BEYNİMİ DEŞ GEÇ"
      1 string BodyCn = "是、是咕啾咕啾！"
      1 string BodyKo = "조물조물 떴다~"
      1 string BodyTw = "是、是咕啾咕啾！"
@@ -2519,7 +2519,7 @@
     0 Param data
      1 string Id = "ASMR2_Kuso004"
      1 string BodyJP = "期待age"
-     1 string BodyEn = "LETS GO"
+     1 string BodyEn = "OFFFF BUDURRRR"
      1 string BodyCn = "好期待哦"
      1 string BodyKo = "기대댐"
      1 string BodyTw = "好期待喔"
@@ -2534,7 +2534,7 @@
     0 Param data
      1 string Id = "ASMR2_Kuso005"
      1 string BodyJP = "あっあっあっあっ"
-     1 string BodyEn = "aaahhh kangel aaahh"
+     1 string BodyEn = "aaahhhh"
      1 string BodyCn = "啊，啊，啊，啊"
      1 string BodyKo = "앗, 앗... 아아..."
      1 string BodyTw = "啊，啊，啊，啊"
@@ -2564,7 +2564,7 @@
     0 Param data
      1 string Id = "ASMR2_Kuso007"
      1 string BodyJP = "ヘ　ブ　ン　状　態"
-     1 string BodyEn = "A S C E N D I N G"
+     1 string BodyEn = "CENNETİ YAŞAT BANA"
      1 string BodyCn = "升 天 状 态"
      1 string BodyKo = "천 국 상 태"
      1 string BodyTw = "升 天 狀 態"
@@ -2579,7 +2579,7 @@
     0 Param data
      1 string Id = "ASMR2_Kuso008"
      1 string BodyJP = "狂う狂う"
-     1 string BodyEn = "🤪🤪🤪🤪🤪🤪"
+     1 string BodyEn = "DELİRİYORUM"
      1 string BodyCn = "疯了疯了"
      1 string BodyKo = "가... 가버렷"
      1 string BodyTw = "瘋了瘋了"
@@ -2594,7 +2594,7 @@
     0 Param data
      1 string Id = "ASMR2_Kuso009"
      1 string BodyJP = "きもちい"
-     1 string BodyEn = "eargasm"
+     1 string BodyEn = "daha da oyna beynimle"
      1 string BodyCn = "好爽"
      1 string BodyKo = "짱이야..."
      1 string BodyTw = "好爽"
@@ -2609,7 +2609,7 @@
     0 Param data
      1 string Id = "ASMR2_Kuso013"
      1 string BodyJP = "脳みそこわして"
-     1 string BodyEn = "please break my brain"
+     1 string BodyEn = "beynimi parçalaaa"
      1 string BodyCn = "来搞坏我的大脑吧"
      1 string BodyKo = "망가뜨려조..."
      1 string BodyTw = "來搗爛我的大腦吧"
@@ -2624,7 +2624,7 @@
     0 Param data
      1 string Id = "ASMR2_Kuso010"
      1 string BodyJP = "考えなくて良いの助かる"
-     1 string BodyEn = "I can feel my brain getting smoother😩😩😩"
+     1 string BodyEn = "beynim boşa ağırlık yapıyodu zaten😩😩😩"
      1 string BodyCn = "不用动脑简直无敌"
      1 string BodyKo = "생각따위 필요없어... 짱이야..."
      1 string BodyTw = "不用動腦簡直無敵"
@@ -2639,7 +2639,7 @@
     0 Param data
      1 string Id = "ASMR2_Kuso011"
      1 string BodyJP = "はい！"
-     1 string BodyEn = "oogh"
+     1 string BodyEn = "ooyy"
      1 string BodyCn = "是！"
      1 string BodyKo = "넵!"
      1 string BodyTw = "是！"
@@ -2654,7 +2654,7 @@
     0 Param data
      1 string Id = "ASMR2_Kuso012"
      1 string BodyJP = "アッアッ"
-     1 string BodyEn = "oh my gooooodddd"
+     1 string BodyEn = "oy oy oy oy"
      1 string BodyCn = "啊 啊"
      1 string BodyKo = "앗... 으앗..."
      1 string BodyTw = "啊 啊"
