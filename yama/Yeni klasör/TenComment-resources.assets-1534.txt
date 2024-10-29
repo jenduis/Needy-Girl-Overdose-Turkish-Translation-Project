@@ -1316,7 +1316,7 @@
     0 Param data
      1 string Id = "ASMR2_Chouten008"
      1 string BodyJP = "大丈夫！　キミの脳味噌は元から壊れてたよ"
-     1 string BodyEn = "Merak etme <3\r\nBeynin zaten parçalanmış vaziyetteydi"
+     1 string BodyEn = "Merak etme...\r\nDaha da parçalanacak bir beyin kalmamış sende <3"
      1 string BodyCn = "没关系！你的脑子本来就是坏的"
      1 string BodyKo = "괜찮아!\r\n네 뇌는 처음부터 망가져 있었으니까"
      1 string BodyTw = "沒關係！你的腦子本來就是壞的"
@@ -1330,7 +1330,7 @@
     0 Param data
      1 string Id = "ASMR3_Chouten001"
      1 string BodyJP = "セリフをリクエストしてね♡"
-     1 string BodyEn = "Get Me to Say Stuff!"
+     1 string BodyEn = "Diyeceklerimi Siz Seçin <3"
      1 string BodyCn = "说出你想听我念的台词吧♡"
      1 string BodyKo = "대사 리퀘스트♡"
      1 string BodyTw = "說出你想聽我唸的台詞吧♡"
@@ -1344,7 +1344,7 @@
     0 Param data
      1 string Id = "ASMR3_Chouten002"
      1 string BodyJP = "なんでも読み上げてあげるから\r\n超てんちゃんに読んでほしいセリフを書き込んでね"
-     1 string BodyEn = "I'll read anything out loud, \r\nso post your suggestions in the comments!"
+     1 string BodyEn = "Bu yayında chate yazdıklarınızı okuyacam.\r\nAğzımdan duymak istediğiniz şeyleri chate yazın!"
      1 string BodyCn = "大家想听超天酱念什么台词尽管写出来哦\r\n只要你们敢发我就敢念"
      1 string BodyKo = "초텐이 읽어줬으면 하는 말을 올려 줘\r\n뭐든 다 읽어줄게~"
      1 string BodyTw = "大家想聽超天醬唸什麼台詞儘管寫出來喔\r\n 只要你們敢發我就敢念"
@@ -1358,7 +1358,7 @@
     0 Param data
      1 string Id = "ASMR3_Chouten003"
      1 string BodyJP = "えっちなヤツはダメだよ！\r\nチャンネルBANされちゃうからね♡"
-     1 string BodyEn = "But nothing NSFW!\nI could get banned."
+     1 string BodyEn = "Aman sapıkça bir şeyler yazayım demeyin ama!\r\nKanalımın kapanmasını istemezsiniz herhalde ♡"
      1 string BodyCn = "但是不准色色！\r\n因为频道会被封的♡"
      1 string BodyKo = "야한 건 안 돼! \r\n채널 정지 먹는다구♡"
      1 string BodyTw = "但是不准色色的喔！\r\n 因為頻道會被封鎖的♡"
@@ -1372,7 +1372,7 @@
     0 Param data
      1 string Id = "ASMR3_Chouten004"
      1 string BodyJP = "ダメ！ えっちな単語はダ～メ\r\nフリじゃないからね。ぜったいダメだよ！"
-     1 string BodyEn = "No! No lewd words!\nI'm serious! Big no-no!"
+     1 string BodyEn = "Olmaz! Ol-maaaz! Çok ciddiyim arkadaşlar!"
      1 string BodyCn = "哒咩！不可以发色色的词~\r\n没跟大家开玩笑哦。绝对不可以！"
      1 string BodyKo = "안 돼! 야한 단어는 안 돼\r\n장난으로 그러는 거 아냐. 절대 안 돼!"
      1 string BodyTw = "不行喔！不可以發色色的詞～\r\n 沒跟大家開玩笑喔。絕對不可以！"
@@ -1386,7 +1386,7 @@
     0 Param data
      1 string Id = "ASMR3_Chouten005"
      1 string BodyJP = "じゃあ、コメントスタート！"
-     1 string BodyEn = "All right guys, go wild in the comments!"
+     1 string BodyEn = "Anladıysanız başlayalım hadi!"
      1 string BodyCn = "好了，现在开始读评！"
      1 string BodyKo = "그럼, 시작~!"
      1 string BodyTw = "好了，現在開始讀評論！"
@@ -1400,7 +1400,7 @@
     0 Param data
      1 string Id = "ASMR3_Chouten006"
      1 string BodyJP = "ち、ちん……もう！ なんてこと言わせるの！"
-     1 string BodyEn = "Pe... Pe... Hey!\nYou think you're smart?!"
+     1 string BodyEn = "Birisi adını okumamı istemiş, Fenasi Kerim.\r\nBiz halka hizmet ediyoruz sen terbiyesizlik!"
      1 string BodyCn = "吃鸡，吧……喂！你们让我念的什么鬼！"
      1 string BodyKo = "ㅈ, 자... 진짜! 뭔 소릴 쓴 거야!"
      1 string BodyTw = "吃雞，雞巴……喂！你們讓我唸什麼鬼！"
@@ -1414,7 +1414,7 @@
     0 Param data
      1 string Id = "ASMR3_Chouten007"
      1 string BodyJP = "そ、そんな卑猥な単語BANされちゃうよぉ……"
-     1 string BodyEn = "You can't do that...\nI'm gonna get banned..."
+     1 string BodyEn = "Kanalın banlanmasını mı istiyosunuz yoksa..."
      1 string BodyCn = "再、再这样搞真的会被BAN的啦……"
      1 string BodyKo = "그, 그런 상스러운 단어 쓰면 정지 먹는다니까..."
      1 string BodyTw = "再、再這樣搞真的會被關台的啦……"
@@ -1428,7 +1428,7 @@
     0 Param data
      1 string Id = "ASMR3_Chouten008"
      1 string BodyJP = "あ、あな……ダメだよ、こんなえっちな職業！"
-     1 string BodyEn = "A... Ana... \r\nNo! I can't!"
+     1 string BodyEn = "Derin anal...iz? Ay yok daha neler!"
      1 string BodyCn = "皮、皮炎……不行啦，这种奇怪的病名！"
      1 string BodyKo = "애, 애ㄴ... 이것도 안 돼\r\n이런 야한 이름을 가진 직업이 있다니!"
      1 string BodyTw = "小、小穴……不行啦，這種色色的東西！"
@@ -1442,7 +1442,7 @@
     0 Param data
      1 string Id = "ASMR3_Chouten009"
      1 string BodyJP = "つゆだく……\r\nって、こんな単語にまでエロスを感じるな！"
-     1 string BodyEn = "Sopping wet... Hey!\nI know what you're trying to pull!"
+     1 string BodyEn = "Sırılsıklam oldu-\r\nSenin niyetini anlamadım mı sence?!"
      1 string BodyCn = "水帘洞……不是，你们还好吗！\r\n不要连这种词都拿来色色啊！"
      1 string BodyKo = "덮밥...\r\n잠깐, 이런 단어까지 음란마귀 씌우지 마!"
      1 string BodyTw = "濕濕的……不是，你們還好嗎！\r\n 不要連這種詞都覺得色色的啊！"
@@ -1652,7 +1652,7 @@
     0 Param data
      1 string Id = "ASMR5_Chouten001"
      1 string BodyJP = "NTR"
-     1 string BodyEn = "Cucked"
+     1 string BodyEn = "Boynuz"
      1 string BodyCn = "“NTR”"
      1 string BodyKo = "NTR"
      1 string BodyTw = "「NTR」"
@@ -1666,7 +1666,7 @@
     0 Param data
      1 string Id = "ASMR5_Chouten002"
      1 string BodyJP = "ジェルばんは！\r\nあなただけの天使 超てんちゃんだよ……！"
-     1 string BodyEn = "Heeey, it's KAngel! Your one and only angel...!"
+     1 string BodyEn = "Cennet ışıkları geceni aydınlatsın!\r\nSevgili meleğin imdadına yetişti!"
      1 string BodyCn = "小天使请安！\r\n我是你的专属小天使，超天酱哦……！"
      1 string BodyKo = "젤하! \r\n모두의 천사, 초텐이야...!"
      1 string BodyTw = "小天使請安！\r\n 我是你的專屬小天使，超天醬喔……！"
@@ -1680,7 +1680,7 @@
     0 Param data
      1 string Id = "ASMR5_Chouten003"
      1 string BodyJP = "ん？ なにかパンパン聴こえる？\r\nなんかいつもより息が荒い？"
-     1 string BodyEn = "Huh? You can hear some slapping sounds?\nAnd I sound a little out of breath?"
+     1 string BodyEn = "Ne? Şak şak sesler mi geliyo?\r\nÇok mu soluklanıyorum?"
      1 string BodyCn = "嗯？你说背景里好像有啪啪声？\r\n我的鼻息比平时要重？"
      1 string BodyKo = "응? 뭔가 부딪히는 소리가 들린다고? \r\n평소보다 숨이 거칠... 어?"
      1 string BodyTw = "嗯？你說背景裡好像有啪啪聲？\r\n 我喘的比平常厲害？"
@@ -1694,7 +1694,7 @@
     0 Param data
      1 string Id = "ASMR5_Chouten004"
      1 string BodyJP = "き、きのせいじゃないかな～……？"
-     1 string BodyEn = "It's, um, just your imagination!"
+     1 string BodyEn = "Yok daha neler canım ya..."
      1 string BodyCn = "错、错觉吧～……？"
      1 string BodyKo = "기, 기분 탓일 거야..."
      1 string BodyTw = "錯、錯覺吧～……？"
@@ -1708,7 +1708,7 @@
     0 Param data
      1 string Id = "ASMR5_Chouten005"
      1 string BodyJP = "いつもどおりっ……のっ……超てんちゃんだよ！\r\n健全だよ～！ けんぜん、けんぜん～♪"
-     1 string BodyEn = "I'm... just like I always am... \r\nI'm still... your wholesome KAngel!"
+     1 string BodyEn = "Her zamanki gibiyim ya işte tatlım!\r\nYanlış bir şey olduğuna emin misin?"
      1 string BodyCn = "超天酱……！还是……嗯！\r\n……还是平时的超天酱呀！\r\n清纯可爱～！清纯～可爱～♪"
      1 string BodyKo = "초, 초텐은... 느... 늘 평소대로인걸 ! \r\n건전한 천사라구~! 건... 건전하다니까~♪"
      1 string BodyTw = "超天醬……！還是……嗯！\r\n ……還是平時的超天醬呀！\r\n 清純可愛～！清純～可愛～♪"
@@ -1722,7 +1722,7 @@
     0 Param data
      1 string Id = "ASMR5_Chouten006"
      1 string BodyJP = "あっ、あはっ……なんだか暑いね\r\n汗かいちゃったよっ……はぁはあ"
-     1 string BodyEn = "Ahaha... It's kinda hot here.\nI'm getting a little sweaty... Haah... Haah..."
+     1 string BodyEn = "Ahaha... Havalar da çok sıcakladı ya!\r\nTerleyip duruyorum sürekli... Haha..."
      1 string BodyCn = "昂……啊哈……总感觉好热呀\r\n身上都出汗了……哈啊哈……"
      1 string BodyKo = "앗, 아하하... 좀 덥네\r\n땀이 다 나는걸... 하아, 하아..."
      1 string BodyTw = "啊……啊哈……總感覺好熱呀\r\n 身上都出汗了……哈啊哈……"
@@ -1736,7 +1736,7 @@
     0 Param data
      1 string Id = "ASMR5_Chouten007"
      1 string BodyJP = "俺くんのことっ……だいすきだからねっ……\r\n信じてねっ……♡"
-     1 string BodyEn = "I... love you... so please... trust me...❤️"
+     1 string BodyEn = "Tatlım... seni... çok... seviyorum...\r\nLütfen... güven... bana ♡"
      1 string BodyCn = "亲爱的……啊！人家……最喜欢你了……\r\n要相信我哦……♡"
      1 string BodyKo = "다들... 정말 좋아해...\r\n그러니까 믿어 줘...♡"
      1 string BodyTw = "親愛的……啊！人家……最喜歡你了……\r\n 要相信我喔……♡"
@@ -1750,7 +1750,7 @@
     0 Param data
      1 string Id = "ASMR5_Chouten008"
      1 string BodyJP = "だいすきっ……だよっ……あはは♡"
-     1 string BodyEn = "I... love you... Ahaha❤️"
+     1 string BodyEn = "Seni... çok seviyorum... Ahaha ♡"
      1 string BodyCn = "最……嗯……喜欢你了……啊哈哈♡"
      1 string BodyKo = "저... 정말... 좋아해... 아하하♡"
      1 string BodyTw = "最……嗯……喜歡你了……啊哈哈♡"
@@ -1764,7 +1764,7 @@
     0 Param data
      1 string Id = "ASMR5_Chouten009"
      1 string BodyJP = "なぜか涙が……\r\n超てんちゃんちょっと風邪っぽいみたいっ……"
-     1 string BodyEn = "What the... I'm tearing up a little... \r\nI think I've come down with a bit of a cold..."
+     1 string BodyEn = "Ay gözüm yaşardı...\r\nBiraz üşüttüm galiba..."
      1 string BodyCn = "我怎么哭了……\r\n超天酱可能有点感冒了……嗯……"
      1 string BodyKo = "어라, 눈물이...\r\n초텐, 감기에 걸렸나 봐..."
      1 string BodyTw = "我怎麼哭了……\r\n 超天醬可能有點感冒了……嗯……"
@@ -1778,7 +1778,7 @@
     0 Param data
      1 string Id = "ASMR5_Chouten010"
      1 string BodyJP = "また今度ねっ……俺くん、だいすき♡\r\n†昇天†（意味深）"
-     1 string BodyEn = "I'll talk to you later, okay? I love you❤️ \r\nThis angel is going to... ascend..."
+     1 string BodyEn = "Sonra konuşalım... tamam mı..?\r\nSeni çok seviyorum tatlım ♡\r\nBu meleğin cennete yükselmesi lazım..."
      1 string BodyCn = "再联络……哦……亲爱的，爱你哦♡\r\n†升天†（双关）"
      1 string BodyKo = "다음에 봐... 다들, 정말 좋아해♡\r\n†승... 천†♡"
      1 string BodyTw = "再聯絡……喔……親愛的，愛你喔♡\r\n †升天†（雙關）"
@@ -1792,7 +1792,7 @@
     0 Param data
      1 string Id = "Kaisetu1_Chouten001"
      1 string BodyJP = "オタクとは"
-     1 string BodyEn = "What Makes a Nerd?"
+     1 string BodyEn = "Animeci Nedir?"
      1 string BodyCn = "什么是宅"
      1 string BodyKo = "덕후에 관한 이야기"
      1 string BodyTw = "什麼是宅"
@@ -1806,7 +1806,7 @@
     0 Param data
      1 string Id = "Kaisetu1_Chouten002"
      1 string BodyJP = "超てんちゃんの配信を観てくれるオタクくんたち～\r\n「オタク」の定義ってなにか分かるかな？"
-     1 string BodyEn = "Hello, all the nerds out there watching my stream.\r\nI've been thinking, how do you define ”nerd”?"
+     1 string BodyEn = "Tüm animecilere selam olsun!\r\n''Animeci'' kavramını nasıl tanımlayabiliriz sizce?"
      1 string BodyCn = "来看超天酱直播的各位宅宅～\r\n你们知道宅的定义是什么吗？"
      1 string BodyKo = "초텐 방송을 보는 덕후들 안녕~\r\n”덕후”의 의미가 뭔지 정확히 알고 있어?"
      1 string BodyTw = "來看超天醬直播的各位宅宅～\r\n 你們知道宅的定義是什麼嗎？"
@@ -1820,7 +1820,7 @@
     0 Param data
      1 string Id = "Kaisetu1_Chouten003"
      1 string BodyJP = "いろいろ調べてみたんだけど\r\nわたしが好きな本によると……"
-     1 string BodyEn = "I did a bit of research, and found a definition \r\nin a book that I like."
+     1 string BodyEn = "Biz ne kadar animeci diyor olsak da aslında\r\nanimeci derken Japon oyunlarını veya benzeri\r\nşeyleri sevenleri kastediyoruz."
      1 string BodyCn = "超天酱试着查了不少的资料\r\n其中我最喜欢的一本书上写着……"
      1 string BodyKo = "여러모로 조사해 봤는데,\r\n내가 좋아하는 책에 따르면..."
      1 string BodyTw = "超天醬試著查了不少的資料\r\n 其中我最喜歡的一本書上寫著……"
@@ -1834,7 +1834,7 @@
     0 Param data
      1 string Id = "Kaisetu1_Chouten004"
      1 string BodyJP = "漫画やアニメなどサブカルチャーの愛好家\r\nある趣味や物事に強いこだわりを持つ人"
-     1 string BodyEn = "It says they're enthusiasts of subcultures like anime, \r\nor people who are passionate about hobbies and stuff."
+     1 string BodyEn = "Bildiğiniz otakuyla aynı anlam aslında.\r\nOkuduğum bir kitap otakuları şöyle tanımlıyor:\r\nHobileriyle kafayı bozmuş insan."
      1 string BodyCn = "宅就是指漫画动画之类次文化的爱好者\r\n对某种爱好或事物有着特殊执着的人"
      1 string BodyKo = "만화나 애니메이션 등 서브컬쳐 애호가로\r\n어떤 취미나 물건에 강한 집착을 보이는 사람으로서"
      1 string BodyTw = "宅就是指漫畫動畫之類次文化的愛好者\r\n 對某種愛好或事物有特殊執著的人"
@@ -1848,7 +1848,7 @@
     0 Param data
      1 string Id = "Kaisetu1_Chouten005"
      1 string BodyJP = "他者には理解できない虚構の世界に浸り\r\n社会性を欠く場合もある……だって"
-     1 string BodyEn = "Some of them may immerse themselves in a fabricated\nworld unreachable by others, and lack sociality..."
+     1 string BodyEn = "Başkalarının anlam veremeyeceği bir şekilde\r\nkendi hayal dünyasına çekilmiş ve\r\nsosyallik konusunda zorluk yaşayan biri."
      1 string BodyCn = "书上还说，宅会陷入他人所无法理解的虚构世界\r\n有时甚至会缺失社交能力"
      1 string BodyKo = "타인이 이해할 수 없는 허구의 세계에 빠져 \r\n사회성이 결여되는 경우도 보인다... 래"
      1 string BodyTw = "書上還說，宅會陷入他人所無法理解的虛構世界\r\n 有時甚至會欠缺社交能力"
@@ -1862,7 +1862,7 @@
     0 Param data
      1 string Id = "Kaisetu1_Chouten006"
      1 string BodyJP = "わたしこの解釈は好きだな 「こだわり」のために\r\n社会性を犠牲にする……不器用な生き方もアリだよ"
-     1 string BodyEn = "I like that. I don't think sacrificing sociality for\nyour passions is bad, despite what other people think."
+     1 string BodyEn = "Şahsen bu yazı hoşuma gitti. Bence sevdiğin\r\nşeylere takıntılı olmak ve bunun için \r\nsosyalliği feda etmekte bir sıkıntı yok."
      1 string BodyCn = "我好喜欢这个解释呀 为了自己的「执着」\r\n而牺牲社交能力……这种憨憨的活法也不错呀"
      1 string BodyKo = "이 해석이 마음에 들어. ”좋아하는 것”에 빠져 사회성을\r\n희생한다라... 그런 인생도 얼마든지 있을법하니까"
      1 string BodyTw = "我好喜歡這個解釋呀 為了自己的「執著」\r\n 而犧牲社交能力……這種憨憨的活法也不錯呀"
@@ -1876,7 +1876,7 @@
     0 Param data
      1 string Id = "Kaisetu1_Chouten007"
      1 string BodyJP = "どうせみんな社会性なんてゼロなんだから\r\n細かいこと気にせず、好きな物のために生きようや"
-     1 string BodyEn = "We all have zero sociality anyway, so don't sweat the\nsmall stuff and just live for whatever you like."
+     1 string BodyEn = "Amaan, burda hepimiz asosyaliz zaten.\r\nBöyle şeyleri takmayıp keyfinize göre yaşayın!"
      1 string BodyCn = "反正大家本来就是社交能力为零\r\n那就别再在意其它琐事，\r\n为了喜欢的事物而纯粹地活着吧"
      1 string BodyKo = "처음부터 사회성이 만렙인 사람은 없으니\r\n사소한 건 던져버리고 좋아하는 걸 하며 살면 돼"
      1 string BodyTw = "反正大家本來就是社交能力為零\r\n 那就別再在意其它瑣事，\r\n 為了喜歡的事物純粹的活著吧"
@@ -1890,7 +1890,7 @@
     0 Param data
      1 string Id = "Kaisetu1_Chouten008"
      1 string BodyJP = "みんな超てんちゃんの配信を観ているあいだは\r\n遠慮なく「虚構」の世界に浸ってね♡"
-     1 string BodyEn = "And you're all welcome to immerse yourselves in the \r\nfabricated world of my streams as much as you like❤️"
+     1 string BodyEn = "Olur da gerçek hayatı boşvermeye karar verirseniz\r\nyayınlarımda yaşamaya başlayabilirsiniz ♡"
      1 string BodyCn = "大家在看超天酱直播的时候就做回自己\r\n全身心投入「虚构」的世界就好啦♡"
      1 string BodyKo = "다들 초텐 방송을 보는 동안에는\r\n사양하지 말고 ”허구”의 세계에 빠지면 돼♡"
      1 string BodyTw = "大家在看超天醬直播的時候就做回自己\r\n 全心投入「虛構」的世界就好啦♡"
@@ -1904,7 +1904,7 @@
     0 Param data
      1 string Id = "Kaisetu1_Chouten009"
      1 string BodyJP = "そうだよ。だってわたしの可愛さに\r\nすっかりとりこまれちゃったでしょ？"
-     1 string BodyEn = "Exactly. Because you can't escape my cuteness,\ncan you?"
+     1 string BodyEn = "Aynen öyle.\r\nBenim gibi tatlı bi kıza napabilirsin ki?"
      1 string BodyCn = "对呀。你们不是已经被我的可爱\r\n所彻底俘虏了吗？"
      1 string BodyKo = "당연하지.\r\n이미 내 귀여운 모습에 사로잡혔잖아?"
      1 string BodyTw = "對呀。你們不是已經被我的可愛\r\n 徹底俘虜了嗎？"
@@ -1918,7 +1918,7 @@
     0 Param data
      1 string Id = "Kaisetu1_Chouten010"
      1 string BodyJP = "おなじオタク同士、仲良くやっていきましょうね～"
-     1 string BodyEn = "We're all nerds, so we should\nget along with each other!"
+     1 string BodyEn = "Burada hepimiz animeci olduğumuzdan\r\niyi geçinmeye bakalım!"
      1 string BodyCn = "大家都是阿宅，要好好相处哟～"
      1 string BodyKo = "같은 덕후끼리 사이좋게 지내자~"
      1 string BodyTw = "大家都是阿宅，要好好相處喲～"
@@ -1932,7 +1932,7 @@
     0 Param data
      1 string Id = "Kaisetu1_Chouten011"
      1 string BodyJP = "ふふっわたしもオタクだけど……\r\nどんなオタクかはこれからの配信で知っていってね"
-     1 string BodyEn = "Hehehe... I sure am, but as for what kind, you'll just\nhave to find out for yourself by watching my streams."
+     1 string BodyEn = "Ay tabii ki de. Ama ne kadar ağır animeci olduğumu\r\ngörmek istiyorsan yayınlara daha sık gelmen lazım ♡"
      1 string BodyCn = "呵呵，其实我也是个阿宅……\r\n但至于是什么宅，就请继续收看直播来鉴定吧～"
      1 string BodyKo = "후후, 나도 덕후지만... 어떤 덕후인지는\r\n앞으로 진행할 방송을 통해 맞춰 봐"
      1 string BodyTw = "呵呵，其實我也是個阿宅……\r\n 但至於是什麼宅，就請繼續收看直播來鑑定吧～"
@@ -1946,7 +1946,7 @@
     0 Param data
      1 string Id = "Kaisetu1_Chouten012"
      1 string BodyJP = "そう　オタクはキモいんだよ　それでも彼らは\r\n頑張って生きているんだよ　それを忘れるなよな！"
-     1 string BodyEn = "They might be gross, but they still try their best to\nlive despite that! And don't you forget it!"
+     1 string BodyEn = "Yani... Animecilerden tiksinebilirsin tabii ama\r\nama bu hayatta en az senin kadar çabalıyorlar!"
      1 string BodyCn = "没错，阿宅很恶心。但是别忘了，\r\n阿宅虽然恶心，可他们也在努力地活着哦！"
      1 string BodyKo = "맞아, 덕후는 징그럽지. 그럼에도 다들 열심히\r\n살고 있어. 그걸 잊으면 안 돼!"
      1 string BodyTw = "沒錯，阿宅很噁心。但是別忘了，\r\n 阿宅雖然噁心，可他們也在努力活著喔！"

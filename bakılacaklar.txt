@@ -1,13 +1,16 @@
 TenComment [2][12][75][118]: chouten-chan için çeviri
 TenComment [14]-[24]: geçtim (aynı yayın)
 KusoComment [29]-[45]: geçtim (aynı yayın)
-TenComment [28][66]: içime sinmedi
+TenComment [28][66][93]: içime sinmedi
 TenComment [35]: geçtim çünkü aklıma gönderme gelmedi
 TenComment [55]: †昇天†
 TenComment [60][91]: geçtim çünkü bilemedim ne yazılır
 TenComment [81][84]: horlamayı türkçe nasıl yazıyoruz amk?
+TenComment [103]-[116]: geçtim çünkü japonya 10dan geriye saymanın nesi seksi asmr çözemedim (aynı yayın)
+KusoComment [201]-[240]: geçtim çünkü japonya 10dan geriye saymanın nesi seksi asmr çözemedim (aynı yayın)
+TenComment [122][124]: gülme kısmı içime sinmedi
 
-KusoComment [89][154]: geçtim çünkü chouten-chan
+KusoComment [89][154][259]: geçtim çünkü chouten-chan
 KusoComment [95]: geçtim çünkü 禿同 yerine ne yazılır bilemedim
 KusoComment [104]: içinme sinmedi
 
@@ -17,6 +20,7 @@ Line [966][978][1013]: içime sinmedi
 Line [969]: chouten-chan
 Line [971]: 承認 ilgi değil de onaylanmaya tekabül ediyo belki değişebilir + otaku/animeci
 Line [1024]: yemin ediyorum ok牧場 ne anlamaya çalıştım anlayamadım pes ettim sonra bakarım
+Line [1028]: stickerda yazanları değiştireceksek ona göre bu da değişebilir (LOVE stickerı)
 
 SystemText [17][18][137][141][142][148][153]-[174][198][240][247][251][253][255][256][270][271][352]-[354][356][359]-[362][430]: geçtim çünkü chouten-chan
 SystemText [21][404]: inan bilmiyorum bu ne
@@ -52,6 +56,9 @@ Act [19] Cmd [73]: dating app esprisi bulamadım
 Cmd [25]-[29][77]-[88][94]: geçtim çünkü bilemedim ne yazılır
 Cmd [40]-[44]: içime sinmedi
 Cmd [72] Act [15]: içime sinmedi (動画サイト)
+
+Tooltip [19]: line breaklerden dolayı yarım bıraktım
+Tooltip [24]: içime sinmedi
 
 
 
