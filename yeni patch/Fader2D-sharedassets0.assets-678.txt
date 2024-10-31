@@ -1,0 +1,28 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 306
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 760
+ 1 string m_Name = ""
+ 0 vector spriteRendererList
+  1 Array Array (2 items)
+   0 int size = 2
+   [0]
+    0 PPtr<$SpriteRenderer> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 380
+   [1]
+    0 PPtr<$SpriteRenderer> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 379
+ 0 vector textList
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 PPtr<$TMP_Text> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 733
+ 0 float alpha = 1

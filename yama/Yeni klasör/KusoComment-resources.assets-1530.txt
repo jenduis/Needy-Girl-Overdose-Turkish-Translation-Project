@@ -4274,7 +4274,7 @@
     0 Param data
      1 string Id = "Kaisetu1_Kuso005"
      1 string BodyJP = "オタクにすらなれない半端者の俺が登場"
-     1 string BodyEn = "bana bi arkadaşım devli mevli bişi izletmişti sonra bi daha konuşmadık"
+     1 string BodyEn = "ben animeci bile olamayacak kadar malım"
      1 string BodyCn = "连宅都成不了的本半吊子登场"
      1 string BodyKo = "씹덕도 아닌 어중간한 나님 등장"
      1 string BodyTw = "連宅都成不了的本半吊子登場"
@@ -4499,7 +4499,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso001"
      1 string BodyJP = "フン......そうだが？"
-     1 string BodyEn = "you're not wrong"
+     1 string BodyEn = "harbi mi"
      1 string BodyCn = "哼......对啊怎么了"
      1 string BodyKo = "흠... 그렇다만?"
      1 string BodyTw = "哼......對啊怎麼了"
@@ -4514,7 +4514,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso002"
      1 string BodyJP = "正解！"
-     1 string BodyEn = "Yep"
+     1 string BodyEn = "doğru!"
      1 string BodyCn = "答对了！"
      1 string BodyKo = "정답!"
      1 string BodyTw = "答對了！"
@@ -4529,7 +4529,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso003"
      1 string BodyJP = "名　探　偵　登　場"
-     1 string BodyEn = "scientist KAngel"
+     1 string BodyEn = "vayy tamam şerlok"
      1 string BodyCn = "名 侦 探 登 场"
      1 string BodyKo = "명 탐 정 등 장"
      1 string BodyTw = "名 偵 探 登 場"
@@ -4544,7 +4544,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso004"
      1 string BodyJP = "わかってんじゃん"
-     1 string BodyEn = "you sure know us well"
+     1 string BodyEn = "heee anladım"
      1 string BodyCn = "你很懂嘛"
      1 string BodyKo = "잘 아네"
      1 string BodyTw = "你很懂嘛"
@@ -4559,7 +4559,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso005"
      1 string BodyJP = "猫ちゃんがなに？"
-     1 string BodyEn = "what the cat doin"
+     1 string BodyEn = "kediye napıyolar napıyolar"
      1 string BodyCn = "猫猫什么？"
      1 string BodyKo = "고양이가 왜?"
      1 string BodyTw = "貓貓怎麼了？"
@@ -4574,7 +4574,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso006"
      1 string BodyJP = "50%って何%？"
-     1 string BodyEn = "what does that mean"
+     1 string BodyEn = "yarı yarıya diyince yüzde kaç oluyo beyler"
      1 string BodyCn = "50%是百分多少？"
      1 string BodyKo = "50%는 정확히 몇 %야?"
      1 string BodyTw = "50%是百分多少？"
@@ -4589,7 +4589,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso007"
      1 string BodyJP = "毒はこわい"
-     1 string BodyEn = "scary😬"
+     1 string BodyEn = "zehir mi... korkunç 😬"
      1 string BodyCn = "毒气好可怕"
      1 string BodyKo = "독이라... 무섭네"
      1 string BodyTw = "毒氣好可怕"
@@ -4604,7 +4604,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso008"
      1 string BodyJP = "猫がかわいそう"
-     1 string BodyEn = "poor cat :("
+     1 string BodyEn = "yaa kediye yazık :("
      1 string BodyCn = "猫猫好可怜"
      1 string BodyKo = "고양이 불쌍해"
      1 string BodyTw = "貓貓好可憐"
@@ -4619,7 +4619,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso009"
      1 string BodyJP = "たぶん（よくわかってない）"
-     1 string BodyEn = "Probably (<-doesnt know shit)"
+     1 string BodyEn = "muhtemelen öyledir ya (bi bok bilmeden konuşuyorum)"
      1 string BodyCn = "大概（我也不懂）"
      1 string BodyKo = "아마도(모름)"
      1 string BodyTw = "大概（我也不懂）"
@@ -4634,7 +4634,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso010"
      1 string BodyJP = "これ知ってる"
-     1 string BodyEn = "I know this"
+     1 string BodyEn = "biliyom la bunu ben"
      1 string BodyCn = "这个我知道"
      1 string BodyKo = "이거 알아"
      1 string BodyTw = "這個我知道"
@@ -4649,7 +4649,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso011"
      1 string BodyJP = "死なないで"
-     1 string BodyEn = "please don't die"
+     1 string BodyEn = "kedi ölmesin yaa"
      1 string BodyCn = "不要死啊"
      1 string BodyKo = "죽지 마"
      1 string BodyTw = "不要死啊"
@@ -4664,7 +4664,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso012"
      1 string BodyJP = "猫がかわいそう......"
-     1 string BodyEn = "Poor kitty..."
+     1 string BodyEn = "gariban kedi..."
      1 string BodyCn = "猫好可怜......"
      1 string BodyKo = "고양이 불쌍해..."
      1 string BodyTw = "貓好可憐......"
@@ -4679,7 +4679,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso013"
      1 string BodyJP = "俺も超てんちゃんと重なりたい"
-     1 string BodyEn = "I could be both dead and alive for you too KAngel"
+     1 string BodyEn = "keşke senle beni de bi kutuya koysalar be gülüm"
      1 string BodyCn = "我也想和超天酱叠叠"
      1 string BodyKo = "초텐과 합체하고 싶다"
      1 string BodyTw = "我也想和超天醬疊疊樂"
@@ -4694,7 +4694,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso014"
      1 string BodyJP = "にゃ～ん"
-     1 string BodyEn = "meow meow meow meow"
+     1 string BodyEn = "miyaav"
      1 string BodyCn = "喵～"
      1 string BodyKo = "야옹~"
      1 string BodyTw = "喵～"
@@ -4709,7 +4709,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso015"
      1 string BodyJP = "ネコ飼いたい"
-     1 string BodyEn = "I want a cat"
+     1 string BodyEn = "kedi istiyorum"
      1 string BodyCn = "想养猫"
      1 string BodyKo = "고양이 키우고 싶어"
      1 string BodyTw = "想養貓"
@@ -4724,7 +4724,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso016"
      1 string BodyJP = "なるほど"
-     1 string BodyEn = "I see"
+     1 string BodyEn = "öyle diyince anlaşıldı"
      1 string BodyCn = "原如"
      1 string BodyKo = "글쿠나"
      1 string BodyTw = "原如"
@@ -4739,7 +4739,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso017"
      1 string BodyJP = "「観測」←オタクが好きな単語"
-     1 string BodyEn = "I'd rather observe you"
+     1 string BodyEn = "kediyi değil de seni gözlemlesek"
      1 string BodyCn = "「观测」←阿宅最爱的词汇"
      1 string BodyKo = "씹덕들이 좋아하는 단어 ”관측”"
      1 string BodyTw = "「觀測」←阿宅最愛的詞彙"
@@ -4754,7 +4754,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso018"
      1 string BodyJP = "こわいこと知りたくないよね"
-     1 string BodyEn = "I wish I never learned about this wtf it's scary"
+     1 string BodyEn = "gece nası uyuyacam şimdi"
      1 string BodyCn = "才不想知道这么可怕的知识呢"
      1 string BodyKo = "무서운 내용은 알고 싶지 않아"
      1 string BodyTw = "才不想知道這麼可怕的知識呢"
@@ -4769,7 +4769,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso019"
      1 string BodyJP = "わかってきた"
-     1 string BodyEn = "the more you know"
+     1 string BodyEn = "aa anladım"
      1 string BodyCn = "开始懂了"
      1 string BodyKo = "이제 이해함"
      1 string BodyTw = "開始懂了"
@@ -4784,7 +4784,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso020"
      1 string BodyJP = "御意"
-     1 string BodyEn = "anything for you kangel"
+     1 string BodyEn = "emredersiniz efendim"
      1 string BodyCn = "嗻"
      1 string BodyKo = "지당하십니다"
      1 string BodyTw = "遵旨"
@@ -4799,7 +4799,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso021"
      1 string BodyJP = "それはそう"
-     1 string BodyEn = "yeah"
+     1 string BodyEn = "aynen öyle"
      1 string BodyCn = "那倒是"
      1 string BodyKo = "그건 그래"
      1 string BodyTw = "那倒是"
@@ -4814,7 +4814,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso023"
      1 string BodyJP = "難しい話やめて"
-     1 string BodyEn = "I can't take these serious topics stop"
+     1 string BodyEn = "kafa şişiren konuları kessek mi"
      1 string BodyCn = "别讲那些听不懂的"
      1 string BodyKo = "어려운 이야기 그만"
      1 string BodyTw = "別講那些聽不懂的"
@@ -4829,7 +4829,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Kuso022"
      1 string BodyJP = "猫ちゃんだいすき！"
-     1 string BodyEn = "I love cats!"
+     1 string BodyEn = "kedicikleri çok seviyom yaa 😻"
      1 string BodyCn = "最喜欢猫猫了！"
      1 string BodyKo = "고양이 짱 좋아!"
      1 string BodyTw = "最喜歡貓貓了！"

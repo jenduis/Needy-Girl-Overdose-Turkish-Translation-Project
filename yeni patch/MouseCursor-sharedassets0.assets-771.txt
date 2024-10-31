@@ -1,0 +1,16 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 310
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2473
+ 1 string m_Name = ""
+ 0 PPtr<$Texture2D> _changed
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 51
+ 0 Vector2 hotSpot
+  0 float x = 0
+  0 float y = 0
+ 0 int cursorMode = 0

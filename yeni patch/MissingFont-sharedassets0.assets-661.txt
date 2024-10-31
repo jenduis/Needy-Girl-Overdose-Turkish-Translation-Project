@@ -1,0 +1,248 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1368
+ 1 string m_Name = "MissingFont"
+ 0 int hashCode = 227801783
+ 0 PPtr<$Material> material
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3
+ 0 int materialHashCode = -308453065
+ 1 string m_Version = "1.1.0"
+ 1 string m_SourceFontFileGUID = "e3265ab4bf004d28a9537516768c1c75"
+ 0 PPtr<$Font> m_SourceFontFile
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 int m_AtlasPopulationMode = 0
+ 0 FaceInfo m_FaceInfo
+  0 int m_FaceIndex = 0
+  1 string m_FamilyName = "Liberation Sans"
+  1 string m_StyleName = "Regular"
+  0 int m_PointSize = 17
+  0 float m_Scale = 1
+  0 int m_UnitsPerEM = 2048
+  0 float m_LineHeight = 19.54834
+  0 float m_AscentLine = 15.389648
+  0 float m_CapLine = 12
+  0 float m_MeanLine = 9
+  0 float m_Baseline = 0
+  0 float m_DescentLine = -3.602539
+  0 float m_SuperscriptOffset = 15.389648
+  0 float m_SuperscriptSize = 0.5
+  0 float m_SubscriptOffset = -3.602539
+  0 float m_SubscriptSize = 0.5
+  0 float m_UnderlineOffset = -2.4238281
+  0 float m_UnderlineThickness = 1.2451172
+  0 float m_StrikethroughOffset = 3.6
+  0 float m_StrikethroughThickness = 1.2451172
+  0 float m_TabWidth = 5
+ 0 Glyph m_GlyphTable
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 Glyph data
+     0 unsigned int m_Index = 36
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 11.28125
+      0 float m_Height = 11.703125
+      0 float m_HorizontalBearingX = 0.03125
+      0 float m_HorizontalBearingY = 11.703125
+      0 float m_HorizontalAdvance = 11.34375
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 10
+      0 int m_Y = 10
+      0 int m_Width = 12
+      0 int m_Height = 12
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+ 0 TMP_Character m_CharacterTable
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 TMP_Character data
+     1 UInt8 m_ElementType = 1
+     0 unsigned int m_Unicode = 376926741
+     0 unsigned int m_GlyphIndex = 36
+     0 float m_Scale = 0
+ 0 vector m_AtlasTextures
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 PPtr<$Texture2D> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 73
+ 0 int m_AtlasTextureIndex = 0
+ 1 UInt8 m_IsMultiAtlasTexturesEnabled = 0
+ 1 UInt8 m_ClearDynamicDataOnBuild = 0
+ 0 GlyphRect m_UsedGlyphRects
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 GlyphRect data
+     0 int m_X = 0
+     0 int m_Y = 0
+     0 int m_Width = 31
+     0 int m_Height = 31
+ 0 GlyphRect m_FreeGlyphRects
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 FaceInfo_Legacy m_fontInfo
+  1 string Name = ""
+  0 float PointSize = 0
+  0 float Scale = 0
+  0 int CharacterCount = 0
+  0 float LineHeight = 0
+  0 float Baseline = 0
+  0 float Ascender = 0
+  0 float CapHeight = 0
+  0 float Descender = 0
+  0 float CenterLine = 0
+  0 float SuperscriptOffset = 0
+  0 float SubscriptOffset = 0
+  0 float SubSize = 0
+  0 float Underline = 0
+  0 float UnderlineThickness = 0
+  0 float strikethrough = 0
+  0 float strikethroughThickness = 0
+  0 float TabWidth = 0
+  0 float Padding = 0
+  0 float AtlasWidth = 0
+  0 float AtlasHeight = 0
+ 0 PPtr<$Texture2D> atlas
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 int m_AtlasWidth = 32
+ 0 int m_AtlasHeight = 32
+ 0 int m_AtlasPadding = 9
+ 0 int m_AtlasRenderMode = 4165
+ 0 TMP_Glyph m_glyphInfoList
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 KerningTable m_KerningTable
+  0 KerningPair kerningPairs
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 TMP_FontFeatureTable m_FontFeatureTable
+  0 TMP_GlyphPairAdjustmentRecord m_GlyphPairAdjustmentRecords
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 vector fallbackFontAssets
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 vector m_FallbackFontAssetTable
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 FontAssetCreationSettings m_CreationSettings
+  1 string sourceFontFileName = ""
+  1 string sourceFontFileGUID = "e3265ab4bf004d28a9537516768c1c75"
+  0 int pointSizeSamplingMode = 0
+  0 int pointSize = 17
+  0 int padding = 9
+  0 int packingMode = 0
+  0 int atlasWidth = 32
+  0 int atlasHeight = 32
+  0 int characterSetSelectionMode = 7
+  1 string characterSequence = "A"
+  1 string referencedFontAssetGUID = ""
+  1 string referencedTextAssetGUID = ""
+  0 int fontStyle = 0
+  0 float fontStyleModifier = 0
+  0 int renderMode = 4165
+  1 UInt8 includeFontFeatures = 0
+ 0 TMP_FontWeightPair m_FontWeightTable
+  1 Array Array (10 items)
+   0 int size = 10
+   [0]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [1]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [2]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [3]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [4]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [5]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [6]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [7]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [8]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [9]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+ 0 TMP_FontWeightPair fontWeights
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 float normalStyle = 0
+ 0 float normalSpacingOffset = 0
+ 0 float boldStyle = 0.75
+ 0 float boldSpacing = 7
+ 1 UInt8 italicStyle = 35
+ 1 UInt8 tabSize = 10

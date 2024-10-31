@@ -1,0 +1,78 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 337
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1983
+ 1 string m_Name = ""
+ 0 PPtr<$DraggableObject> _MovableGrabber
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 764
+ 0 PPtr<$Button2D> _cover
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 786
+ 0 int _firstWidth = 596
+ 0 int _firstHeight = 394
+ 0 PPtr<$DraggableObject> _leftBottomPoint
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 753
+ 0 PPtr<$DraggableObject> _rightBottomPoint
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 744
+ 0 PPtr<$DraggableObject> _rightTopPoint
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 756
+ 0 PPtr<$DraggableObject> _leftTopPoint
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 751
+ 0 PPtr<$DraggableObject> _BottomEdge
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 746
+ 0 PPtr<$DraggableObject> _RightEdge
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 740
+ 0 PPtr<$DraggableObject> _LeftEdge
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 743
+ 0 PPtr<$DraggableObject> _TopEdge
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 749
+ 0 PPtr<$TMP_Text> title
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 748
+ 0 PPtr<$Button2D> close
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 682
+ 0 PPtr<$Button2D> minimize
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 683
+ 0 PPtr<$Button2D> maximize
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 684
+ 1 UInt8 _closable = 1
+ 0 PPtr<$Transform> nakami_parent
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 450
+ 0 PPtr<$Sprite> _active
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 225
+ 0 PPtr<$Sprite> _inActive
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 226
+ 0 PPtr<$SpriteRenderer> _wakuRend
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 382
+ 0 PPtr<$GameObject> _nakamiApp
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$SortingGroup> _sortingGroup
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 374
+ 0 PPtr<$WindowCover2D> windowCover2D
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 779
+ 0 PPtr<$GameObject> edges
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 333

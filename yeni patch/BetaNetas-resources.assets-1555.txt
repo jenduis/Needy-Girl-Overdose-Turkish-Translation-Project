@@ -1,0 +1,84 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 807
+ 1 string m_Name = "BetaNetas"
+ 0 BetaTypeToData NetaList
+  1 Array Array (9 items)
+   0 int size = 9
+   [0]
+    0 BetaTypeToData data
+     1 string NetaGenreJP = ""
+     1 string NetaNameJP = "オタクに媚びる"
+     0 int netaGenre = 0
+     0 int netaName = 0
+     0 int getJouken = 42
+     0 int NetaType = 5
+   [1]
+    0 BetaTypeToData data
+     1 string NetaGenreJP = ""
+     1 string NetaNameJP = "ファンサービス"
+     0 int netaGenre = 0
+     0 int netaName = 0
+     0 int getJouken = 42
+     0 int NetaType = 8
+   [2]
+    0 BetaTypeToData data
+     1 string NetaGenreJP = ""
+     1 string NetaNameJP = "ヘラりながら"
+     0 int netaGenre = 0
+     0 int netaName = 0
+     0 int getJouken = 42
+     0 int NetaType = 7
+   [3]
+    0 BetaTypeToData data
+     1 string NetaGenreJP = ""
+     1 string NetaNameJP = "かわいく"
+     0 int netaGenre = 0
+     0 int netaName = 0
+     0 int getJouken = 42
+     0 int NetaType = 6
+   [4]
+    0 BetaTypeToData data
+     1 string NetaGenreJP = ""
+     1 string NetaNameJP = "明るく"
+     0 int netaGenre = 0
+     0 int netaName = 0
+     0 int getJouken = 42
+     0 int NetaType = 0
+   [5]
+    0 BetaTypeToData data
+     1 string NetaGenreJP = ""
+     1 string NetaNameJP = "かっこよく"
+     0 int netaGenre = 0
+     0 int netaName = 0
+     0 int getJouken = 42
+     0 int NetaType = 1
+   [6]
+    0 BetaTypeToData data
+     1 string NetaGenreJP = ""
+     1 string NetaNameJP = "素で"
+     0 int netaGenre = 0
+     0 int netaName = 0
+     0 int getJouken = 42
+     0 int NetaType = 2
+   [7]
+    0 BetaTypeToData data
+     1 string NetaGenreJP = ""
+     1 string NetaNameJP = "毒舌"
+     0 int netaGenre = 0
+     0 int netaName = 0
+     0 int getJouken = 42
+     0 int NetaType = 3
+   [8]
+    0 BetaTypeToData data
+     1 string NetaGenreJP = ""
+     1 string NetaNameJP = "ヘラりながら"
+     0 int netaGenre = 0
+     0 int netaName = 0
+     0 int getJouken = 42
+     0 int NetaType = 7

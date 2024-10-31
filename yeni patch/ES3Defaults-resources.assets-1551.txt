@@ -1,0 +1,76 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1450
+ 1 string m_Name = "ES3Defaults"
+ 0 ES3SerializableSettings settings
+  0 int _location = 0
+  1 string path = "SaveFile.es3"
+  0 int encryptionType = 0
+  0 int compressionType = 0
+  1 string encryptionPassword = "password"
+  0 int directory = 1
+  0 int format = 0
+  1 UInt8 prettyPrint = 1
+  0 int bufferSize = 2048
+  1 UInt8 saveChildren = 1
+  1 UInt8 typeChecking = 1
+  1 UInt8 safeReflection = 1
+  0 int memberReferenceMode = 0
+  0 int referenceMode = 2
+  0 int serializationDepthLimit = 64
+  0 string assemblyNames
+   1 Array Array (21 items)
+    0 int size = 21
+    [0]
+     1 string data = "Assembly-CSharp"
+    [1]
+     1 string data = "Assembly-CSharp-firstpass"
+    [2]
+     1 string data = "UniTask"
+    [3]
+     1 string data = "com.rlabrecque.steamworks.net"
+    [4]
+     1 string data = "Ngo.Effect.Sample"
+    [5]
+     1 string data = "PsdPlugin"
+    [6]
+     1 string data = "PPv2URPConverters"
+    [7]
+     1 string data = "UniRx"
+    [8]
+     1 string data = "Ngo.Effect.Runtime"
+    [9]
+     1 string data = "UniTask.Linq"
+    [10]
+     1 string data = "DOTween.Modules"
+    [11]
+     1 string data = "KyubEditor.EmojiSearch"
+    [12]
+     1 string data = "Rewired_Windows_Functions"
+    [13]
+     1 string data = "DOTweenPro.Scripts"
+    [14]
+     1 string data = "UniTask.TextMeshPro"
+    [15]
+     1 string data = "Kyub.EmojiSearch"
+    [16]
+     1 string data = "DOTweenPro.EditorScripts"
+    [17]
+     1 string data = "UniTask.Addressables"
+    [18]
+     1 string data = "com.rlabrecque.steamworks.net.editor"
+    [19]
+     1 string data = "UniTask.Editor"
+    [20]
+     1 string data = "UniTask.DOTween"
+ 1 UInt8 addMgrToSceneAutomatically = 0
+ 1 UInt8 autoUpdateReferences = 1
+ 1 UInt8 addAllPrefabsToManager = 1
+ 1 UInt8 logDebugInfo = 0
+ 1 UInt8 logWarnings = 1
+ 1 UInt8 logErrors = 1

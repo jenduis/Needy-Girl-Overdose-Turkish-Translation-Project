@@ -1,7 +1,7 @@
 TenComment [2][12][75][118]: chouten-chan için çeviri
 TenComment [14]-[24]: geçtim (aynı yayın)
 KusoComment [29]-[45]: geçtim (aynı yayın)
-TenComment [28][66][93]: içime sinmedi
+TenComment [28][66][93][141][144]: içime sinmedi
 TenComment [35]: geçtim çünkü aklıma gönderme gelmedi
 TenComment [55]: †昇天†
 TenComment [60][91]: geçtim çünkü bilemedim ne yazılır
@@ -16,11 +16,13 @@ KusoComment [104]: içinme sinmedi
 
 Line [957]: bu kısımda başlayan m kısmına emin olamadım iyi mi kötü mü
 Line [963][967][1008]: geçtim çünkü şimdilik aklıma bir şey gelmedi
-Line [966][978][1013]: içime sinmedi
-Line [969]: chouten-chan
+Line [966][978][1013][1061]: içime sinmedi
+Line [969][1095][1124]: chouten-chan
 Line [971]: 承認 ilgi değil de onaylanmaya tekabül ediyo belki değişebilir + otaku/animeci
 Line [1024]: yemin ediyorum ok牧場 ne anlamaya çalıştım anlayamadım pes ettim sonra bakarım
 Line [1028]: stickerda yazanları değiştireceksek ona göre bu da değişebilir (LOVE stickerı)
+Line [1088]: geçtim çünkü みんなラインを守る ne çözemedim
+
 
 SystemText [17][18][137][141][142][148][153]-[174][198][240][247][251][253][255][256][270][271][352]-[354][356][359]-[362][430]: geçtim çünkü chouten-chan
 SystemText [21][404]: inan bilmiyorum bu ne

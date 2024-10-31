@@ -1960,7 +1960,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Chouten001"
      1 string BodyJP = "シュレディンガーの美少女"
-     1 string BodyEn = "Schrodinger's Cutie"
+     1 string BodyEn = "Schrödinger'in Çıtırı"
      1 string BodyCn = "薛定谔的美少女"
      1 string BodyKo = "슈뢰딩거의 미소녀"
      1 string BodyTw = "薛丁格的美少女"
@@ -1974,7 +1974,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Chouten002"
      1 string BodyJP = "オタクくんが絶対好きな思考実験を当てようか？\r\nズバリ！ 「シュレディンガーの猫」でしょ"
-     1 string BodyEn = "I bet I could guess what thought experiment every \r\nnerd out there would like! It's Schrodinger's cat!"
+     1 string BodyEn = "Siz animecilere bayılacağınız bir düşünce deneyini\r\nanlatayım bugün yayında?"
      1 string BodyCn = "我来猜一下大家最喜欢的思想实验吧？\r\n你们最喜欢的就是……！\r\n「薛定谔的猫」对不对？"
      1 string BodyKo = "덕후 모두가 좋아하는 사고 실험이 뭔지 말해볼까? \r\n이것밖에 없을걸! ”슈뢰딩거의 고양이” 말야"
      1 string BodyTw = "我來猜一下大家最喜歡的思想實驗吧？\r\n 你們最喜歡的就是……！\r\n 「薛丁格的貓」對不對？"
@@ -1988,7 +1988,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Chouten003"
      1 string BodyJP = "ざっくり説明すると50％の確率で発生する\r\n毒ガスと一緒の箱に猫を入れた時"
-     1 string BodyEn = "It basically talks about how \r\nwhen a cat is put in a box with some toxic gas,"
+     1 string BodyEn = "Kısaca özetlemek gerekirse içinde bir kedi de olan\r\nkutunun içinde zehirli gaz salarsak\r\nyaşanacak ihtimaller hakkında bir deney."
      1 string BodyCn = "简单来说就是把一只猫\r\n关进有50%概率释放毒气的箱子里"
      1 string BodyKo = "대충 설명하자면 50% 확률로 발생하는\r\n독가스 장치와 고양이를 상자 안에 넣으면"
      1 string BodyTw = "簡單來說就是把一隻貓\r\n 關進有50%機率釋放毒氣的箱子裡"
@@ -2002,7 +2002,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Chouten004"
      1 string BodyJP = "その箱を開けるまで\r\n猫が生きてるか死んでるかの確率は半々だよね？"
-     1 string BodyEn = "there's a 50-50 chance that it could be either \r\ndead or alive before the box is opened."
+     1 string BodyEn = "Kutuyu açana kadar kedinin hayatta\r\nkalma ihtimali yarı yarıya di mi?"
      1 string BodyCn = "在开箱之前\r\n猫活着与死亡的概率是一半对一半，没错吧？"
      1 string BodyKo = "상자를 열기 전까지 고양이의 생존 확률은\r\n반반이란 이론이지. 맞지?"
      1 string BodyTw = "在開箱之前\r\n 貓活著與死亡的機率是一半對一半，沒錯吧？"
@@ -2016,7 +2016,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Chouten005"
      1 string BodyJP = "つまり、箱を開けて観測しない限り\r\n生きている状態と死んでいる状態が重なっているの"
-     1 string BodyEn = "As long as it's unopened and the cat is not observed,\nit's in a state where it is both alive and dead."
+     1 string BodyEn = "Kutuyu açıp kedinin durumunu gözlemlemediğimiz\r\nsürece kedi hem yaşıyor hem ölmüş diyebiliriz."
      1 string BodyCn = "也就是说，只要不打开箱子进行观测\r\n那猫活着和死了的状态就是叠加的"
      1 string BodyKo = "즉 상자를 열어 결과를 관측하지 않는 한 고양이는\r\n살아있는 상태와 죽은 상태가 서로 공존하는 거야"
      1 string BodyTw = "也就是說，只要不打開箱子進行觀察\r\n 那貓活著和死了的狀態就是一樣的"
@@ -2030,7 +2030,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Chouten006"
      1 string BodyJP = "「観測」することで世界が収束するんだよ\r\n「見る」「知る」ってことはそれだけ恐ろしいんだ"
-     1 string BodyEn = "One act of observation can determine reality. That's\nhow powerful seeing and knowing is. Scary, huh?"
+     1 string BodyEn = "Bir şeyi ''gözlemlemek'' dünyamızı\r\nşekillendirebilecek kadar korkunç bir eylem."
      1 string BodyCn = "而「观测」便会使世界线收束哦\r\n所以说「去看到」「去知道」就是如此可怕的行为"
      1 string BodyKo = "”관측”을 통해 세계가 하나로 합쳐지는 거지\r\n그만큼 ”보는 것”과 ”아는 것”은 무서워"
      1 string BodyTw = "而「觀察」會讓世界徹底不同喔!\r\n 所以說「去看到」「去知道」就是如此可怕的行為"
@@ -2044,7 +2044,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Chouten007"
      1 string BodyJP = "もし、あなたが今好きな人や推しが居るなら\r\nあんまり深く追わない方がいいかも知れないよ"
-     1 string BodyEn = "If there's someone you like or stan,\ndon't get too attached."
+     1 string BodyEn = "Sevdiğiniz ya da hayranı olduğunuz biri varsa\r\nçok da bağlanmayın derim ben."
      1 string BodyCn = "如果你现在有喜欢的人或者推\r\n那么或许不要深究太多比较好哦"
      1 string BodyKo = "만약 지금 너희가 좋아하는 사람이나 최애가 있다면\r\n너무 깊게 파지 않는 게 좋을 거야"
      1 string BodyTw = "如果你現在有喜歡的人或者推\r\n 那麼或許不要深究太多比較好喔"
@@ -2058,7 +2058,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Chouten008"
      1 string BodyJP = "見たくなかった現実を「観測」しちゃったら……\r\n可能性は無限のままで楽しむべきかもね"
-     1 string BodyEn = "Who knows what might happen if you observe \r\na reality you wish you'd never seen?"
+     1 string BodyEn = "Kutunun içinde sınırsız olasılık var.\r\nYa istemediğiniz bir şey görürseniz?"
      1 string BodyCn = "万一「观测」到你不想知道的事实呢……\r\n也许享受拥有无限可能的状态是最好的选择"
      1 string BodyKo = "보고 싶지 않은 현실을 ”관측”하는 순간...\r\n가능성은 무한대로 둔 채 즐기는 게 좋을 거야"
      1 string BodyTw = "萬一「觀測」到你不想知道的事實呢……\r\n 也許享受擁有無限可能的狀態是最好的選擇"
@@ -2072,7 +2072,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Chouten009"
      1 string BodyJP = "知らない方が幸せなこともあるんだよ"
-     1 string BodyEn = "Some things are just better left up in the air.\nIgnorance is bliss and all, right?"
+     1 string BodyEn = "Cahillik mutluluktur."
      1 string BodyCn = "有时候有些事情还是不知道更快乐"
      1 string BodyKo = "때로는 모르는 게 행복한 법이니까"
      1 string BodyTw = "有時候有些事情還是不知道更快樂"
@@ -2086,7 +2086,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Chouten010"
      1 string BodyJP = "あははっ キミは話を一切聞いてないね！ 0点！"
-     1 string BodyEn = "Ahaha, you weren't listening at all, were you?\nYou get an F!"
+     1 string BodyEn = "Vücudun burda da aklın evde kalmış herhalde.\r\n0 aldın!"
      1 string BodyCn = "啊哈哈！看来刚才老师讲课你根本没在听！零分！"
      1 string BodyKo = "아하하, 이야기를 제대로 안 들었구나!\r\n빵점!"
      1 string BodyTw = "啊哈哈！看來剛才老師講課你根本沒在聽！零分！"
@@ -2100,7 +2100,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Chouten011"
      1 string BodyJP = "大丈夫！ これは思考の実験であって\r\nリアルで誰かが実行したわけじゃないからね"
-     1 string BodyEn = "But it's fine! It's just a thought \r\nexperiment, not a real one."
+     1 string BodyEn = "Aman korkma! Gerçekten öyle bir şey yapmıyorlar."
      1 string BodyCn = "别担心！这只是个思想实验\r\n并没有人真的这么做过啦"
      1 string BodyKo = "괜찮아! 이건 사고 실험일 뿐이야\r\n실제로 실험한 사람은 없으니까"
      1 string BodyTw = "別擔心！這只是個思想實驗\r\n 並沒有人真的這麼做過啦"
@@ -2114,7 +2114,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Chouten012"
      1 string BodyJP = "それに、猫をいじめる悪いやつがいたら\r\n超てんちゃんがすぐにやっつけてやります！"
-     1 string BodyEn = "And poisoning cats and trapping them in boxes is bad! \r\nIf I see anyone doing that, I'll punch them!"
+     1 string BodyEn = "Zaten gidip kedilere böyle kötü şeyler yapan\r\npislikler varsa da ben gidip onları \r\ndöveceğimden endişelenme!"
      1 string BodyCn = "而且，要是有人敢欺负猫猫\r\n超天酱就会立刻去打爆他的头！"
      1 string BodyKo = "그리고 고양이를 괴롭히는 나쁜 녀석은\r\n이 초텐이 당장 해치워버리겠어!"
      1 string BodyTw = "而且，要是有人敢欺負貓貓\r\n 超天醬就會立刻去打爆他的頭！"
@@ -2128,7 +2128,7 @@
     0 Param data
      1 string Id = "Kaisetu2_Chouten013"
      1 string BodyJP = "ごめんね！　\r\n次から美味しいマカロンの話しかしませ～～ん"
-     1 string BodyEn = "Sorry! Next time I'll just talk about some \r\nyummy macarons and nothing else, teehee."
+     1 string BodyEn = "Özür dilerim! Bir dahakine sadece\r\ntatlı makaronlardan konuşuruz sadece!"
      1 string BodyCn = "对不起啦！\r\n下次除了好吃的马卡龙，其它我都不聊惹～～"
      1 string BodyKo = "미안! \r\n다음에는 맛난 마카롱 이야기나 해야겠네~"
      1 string BodyTw = "對不起啦！\r\n 下次除了好吃的馬卡龍，其他我都不聊惹～～"

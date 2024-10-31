@@ -1,0 +1,23 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 303
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 684
+ 1 string m_Name = ""
+ 0 LanguageFontData _fontDatas
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 LanguageFontData data
+     0 int _targetLanguage = 10
+     0 PPtr<$TMP_FontAsset> _languageFont
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 663
+     0 float _fontSize = 200
+     0 float _fontSpace = 0
+ 0 PPtr<$TMPStencilSetter> tMPStencil
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
