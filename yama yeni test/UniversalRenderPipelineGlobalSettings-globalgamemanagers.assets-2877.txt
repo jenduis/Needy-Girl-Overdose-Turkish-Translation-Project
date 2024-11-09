@@ -1,0 +1,46 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 606
+ 1 string m_Name = "UniversalRenderPipelineGlobalSettings"
+ 0 int k_AssetVersion = 3
+ 0 string m_RenderingLayerNames
+  1 Array Array (8 items)
+   0 int size = 8
+   [0]
+    1 string data = "Light Layer default"
+   [1]
+    1 string data = "Light Layer 1"
+   [2]
+    1 string data = "Light Layer 2"
+   [3]
+    1 string data = "Light Layer 3"
+   [4]
+    1 string data = "Light Layer 4"
+   [5]
+    1 string data = "Light Layer 5"
+   [6]
+    1 string data = "Light Layer 6"
+   [7]
+    1 string data = "Light Layer 7"
+ 0 unsigned int m_ValidRenderingLayers = 255
+ 1 string lightLayerName0 = "Light Layer default"
+ 1 string lightLayerName1 = "Light Layer 1"
+ 1 string lightLayerName2 = "Light Layer 2"
+ 1 string lightLayerName3 = "Light Layer 3"
+ 1 string lightLayerName4 = "Light Layer 4"
+ 1 string lightLayerName5 = "Light Layer 5"
+ 1 string lightLayerName6 = "Light Layer 6"
+ 1 string lightLayerName7 = "Light Layer 7"
+ 1 UInt8 m_StripDebugVariants = 1
+ 1 UInt8 m_StripUnusedPostProcessingVariants = 0
+ 1 UInt8 m_StripUnusedVariants = 1
+ 1 UInt8 m_StripUnusedLODCrossFadeVariants = 1
+ 1 UInt8 m_StripScreenCoordOverrideVariants = 1
+ 1 UInt8 supportRuntimeDebugDisplay = 0
+ 0 int m_ShaderVariantLogLevel = 0
+ 1 UInt8 m_ExportShaderVariants = 1

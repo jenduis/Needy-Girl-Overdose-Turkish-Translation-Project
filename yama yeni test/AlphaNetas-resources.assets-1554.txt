@@ -1,0 +1,597 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1189
+ 1 string m_Name = "AlphaNetas"
+ 0 AlphaTypeToData NetaList
+  1 Array Array (65 items)
+   0 int size = 65
+   [0]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ざつだんLevel１"
+     1 string NetaNameJP = "偶像にインターネットをゆだねて"
+     0 int netaGenre = 0
+     0 int netaName = 14
+     0 int getJouken = 37
+     0 int NetaType = 0
+     0 int level = 1
+   [1]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ざつだんLevel２"
+     1 string NetaNameJP = "わたしの †黒歴史†"
+     0 int netaGenre = 1
+     0 int netaName = 25
+     0 int getJouken = 38
+     0 int NetaType = 0
+     0 int level = 2
+   [2]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ざつだんLevel３"
+     1 string NetaNameJP = "夜はネットで 運動会"
+     0 int netaGenre = 2
+     0 int netaName = 35
+     0 int getJouken = 14
+     0 int NetaType = 0
+     0 int level = 3
+   [3]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ざつだんLevel４"
+     1 string NetaNameJP = "承認欲求女子"
+     0 int netaGenre = 3
+     0 int netaName = 47
+     0 int getJouken = 37
+     0 int NetaType = 0
+     0 int level = 4
+   [4]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ざつだんLevel５"
+     1 string NetaNameJP = "イマジナリー・ ドリーマー"
+     0 int netaGenre = 4
+     0 int netaName = 60
+     0 int getJouken = 37
+     0 int NetaType = 0
+     0 int level = 5
+   [5]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ゲームじっきょうLevel１"
+     1 string NetaNameJP = "懐かしのアレであそんじゃお！"
+     0 int netaGenre = 5
+     0 int netaName = 282
+     0 int getJouken = 34
+     0 int NetaType = 1
+     0 int level = 1
+   [6]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ゲームじっきょうLevel2"
+     1 string NetaNameJP = "レトロゲーム買いに行ったから実況するよ"
+     0 int netaGenre = 6
+     0 int netaName = 293
+     0 int getJouken = 6
+     0 int NetaType = 1
+     0 int level = 2
+   [7]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ゲームじっきょうLevel3"
+     1 string NetaNameJP = "人を撃つよ！"
+     0 int netaGenre = 7
+     0 int netaName = 304
+     0 int getJouken = 37
+     0 int NetaType = 1
+     0 int level = 3
+   [8]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ゲームじっきょうLevel4"
+     1 string NetaNameJP = "プレミアのホラーゲームであそぶよ！"
+     0 int netaGenre = 8
+     0 int netaName = 316
+     0 int getJouken = 4
+     0 int NetaType = 1
+     0 int level = 4
+   [9]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ゲームじっきょうLevel5"
+     1 string NetaNameJP = "遊ぶと発狂！？電波ゲーで遊んでみるよ"
+     0 int netaGenre = 9
+     0 int netaName = 332
+     0 int getJouken = 34
+     0 int NetaType = 1
+     0 int level = 5
+   [10]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "オタクトークLevel1"
+     1 string NetaNameJP = "めざせ神アイドル 女児アニメの話"
+     0 int netaGenre = 10
+     0 int netaName = 554
+     0 int getJouken = 36
+     0 int NetaType = 2
+     0 int level = 1
+   [11]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "オタクトークLevel2"
+     1 string NetaNameJP = "超てんちゃん ファイナルウォーズ"
+     0 int netaGenre = 11
+     0 int netaName = 567
+     0 int getJouken = 40
+     0 int NetaType = 2
+     0 int level = 2
+   [12]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "オタクトークLevel3"
+     1 string NetaNameJP = "「男」の映画の世界"
+     0 int netaGenre = 12
+     0 int netaName = 582
+     0 int getJouken = 1
+     0 int NetaType = 2
+     0 int level = 3
+   [13]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "オタクトークLevel4"
+     1 string NetaNameJP = "「キマる」映画"
+     0 int netaGenre = 13
+     0 int netaName = 595
+     0 int getJouken = 30
+     0 int NetaType = 2
+     0 int level = 4
+   [14]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "オタクトークLevel5"
+     1 string NetaNameJP = "好きなアニメ監督のお話"
+     0 int netaGenre = 14
+     0 int netaName = 609
+     0 int getJouken = 36
+     0 int NetaType = 2
+     0 int level = 5
+   [15]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "いんぼうろんLevel1"
+     1 string NetaNameJP = "オタクになるのは仕組まれたことだった！？"
+     0 int netaGenre = 20
+     0 int netaName = 348
+     0 int getJouken = 37
+     0 int NetaType = 3
+     0 int level = 1
+   [16]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "いんぼうろんLevel2"
+     1 string NetaNameJP = "30年後に世界は統一！？"
+     0 int netaGenre = 21
+     0 int netaName = 361
+     0 int getJouken = 34
+     0 int NetaType = 3
+     0 int level = 2
+   [17]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "いんぼうろんLevel3"
+     1 string NetaNameJP = "マイクロチップにご用心"
+     0 int netaGenre = 22
+     0 int netaName = 374
+     0 int getJouken = 36
+     0 int NetaType = 3
+     0 int level = 3
+   [18]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "いんぼうろんLevel4"
+     1 string NetaNameJP = "真理に触れたよ"
+     0 int netaGenre = 23
+     0 int netaName = 386
+     0 int getJouken = 31
+     0 int NetaType = 3
+     0 int level = 4
+   [19]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "いんぼうろんLevel5"
+     1 string NetaNameJP = "真実"
+     0 int netaGenre = 24
+     0 int netaName = 401
+     0 int getJouken = 31
+     0 int NetaType = 3
+     0 int level = 5
+   [20]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ネットロアLevel1"
+     1 string NetaNameJP = "配信中に人影が……"
+     0 int netaGenre = 25
+     0 int netaName = 415
+     0 int getJouken = 38
+     0 int NetaType = 4
+     0 int level = 1
+   [21]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ネットロアLevel2"
+     1 string NetaNameJP = "未来からの書き込み"
+     0 int netaGenre = 26
+     0 int netaName = 423
+     0 int getJouken = 38
+     0 int NetaType = 4
+     0 int level = 2
+   [22]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ネットロアLevel３"
+     1 string NetaNameJP = "知らない駅に降りた話"
+     0 int netaGenre = 27
+     0 int netaName = 435
+     0 int getJouken = 19
+     0 int NetaType = 4
+     0 int level = 3
+   [23]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ネットロアLevel４"
+     1 string NetaNameJP = "恐怖を乗り越える方法"
+     0 int netaGenre = 28
+     0 int netaName = 450
+     0 int getJouken = 37
+     0 int NetaType = 4
+     0 int level = 4
+   [24]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ネットロアLevel５"
+     1 string NetaNameJP = "「超てんちゃん」"
+     0 int netaGenre = 29
+     0 int netaName = 463
+     0 int getJouken = 38
+     0 int NetaType = 4
+     0 int level = 5
+   [25]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ASMRLevel1"
+     1 string NetaNameJP = "超てんちゃんと いっしょに 寝よ♡"
+     0 int netaGenre = 30
+     0 int netaName = 75
+     0 int getJouken = 3
+     0 int NetaType = 5
+     0 int level = 1
+   [26]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ASMRLevel２"
+     1 string NetaNameJP = "脳味噌 くちゅくちゅ あっあっあ♡"
+     0 int netaGenre = 31
+     0 int netaName = 86
+     0 int getJouken = 22
+     0 int NetaType = 5
+     0 int level = 2
+   [27]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ASMRLevel３"
+     1 string NetaNameJP = "セリフをリクエストして ね♡"
+     0 int netaGenre = 32
+     0 int netaName = 94
+     0 int getJouken = 23
+     0 int NetaType = 5
+     0 int level = 3
+   [28]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ASMRLevel４"
+     1 string NetaNameJP = "（ある意味） 天国への カウントダウン"
+     0 int netaGenre = 33
+     0 int netaName = 103
+     0 int getJouken = 36
+     0 int NetaType = 5
+     0 int level = 4
+   [29]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ASMRLevel５"
+     1 string NetaNameJP = ""NTR""
+     0 int netaGenre = 34
+     0 int netaName = 117
+     0 int getJouken = 39
+     0 int NetaType = 5
+     0 int level = 5
+   [30]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "えっちなはいしんLevel1"
+     1 string NetaNameJP = "オタクちゃんを甘やかすよ♡"
+     0 int netaGenre = 35
+     0 int netaName = 192
+     0 int getJouken = 22
+     0 int NetaType = 6
+     0 int level = 1
+   [31]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "えっちなはいしんLevel２"
+     1 string NetaNameJP = "トゥナイト"
+     0 int netaGenre = 36
+     0 int netaName = 202
+     0 int getJouken = 23
+     0 int NetaType = 6
+     0 int level = 2
+   [32]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "えっちなはいしんLevel３"
+     1 string NetaNameJP = "とっても長くて太いアイスを食べるよ♡"
+     0 int netaGenre = 37
+     0 int netaName = 214
+     0 int getJouken = 36
+     0 int NetaType = 6
+     0 int level = 3
+   [33]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "えっちなはいしんLevel４"
+     1 string NetaNameJP = "でっかいボールに乗って健康になるよ♡"
+     0 int netaGenre = 38
+     0 int netaName = 224
+     0 int getJouken = 7
+     0 int NetaType = 6
+     0 int level = 4
+   [34]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "えっちなはいしんLevel5"
+     1 string NetaNameJP = "そういう動画に出演するよ"
+     0 int netaGenre = 39
+     0 int netaName = 929
+     0 int getJouken = 23
+     0 int NetaType = 6
+     0 int level = 5
+   [35]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "エンジェルかいせつLevel1"
+     1 string NetaNameJP = "オタクとは"
+     0 int netaGenre = 40
+     0 int netaName = 127
+     0 int getJouken = 36
+     0 int NetaType = 7
+     0 int level = 1
+   [36]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "エンジェルかいせつLevel２"
+     1 string NetaNameJP = "シュレディンガーの美少女"
+     0 int netaGenre = 41
+     0 int netaName = 139
+     0 int getJouken = 22
+     0 int NetaType = 7
+     0 int level = 2
+   [37]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "エンジェルかいせつLevel３"
+     1 string NetaNameJP = "世界5分前仮説とは"
+     0 int netaGenre = 42
+     0 int netaName = 152
+     0 int getJouken = 34
+     0 int NetaType = 7
+     0 int level = 3
+   [38]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "エンジェルかいせつLevel４"
+     1 string NetaNameJP = "人はなぜ死ぬのか"
+     0 int netaGenre = 43
+     0 int netaName = 167
+     0 int getJouken = 37
+     0 int NetaType = 7
+     0 int level = 4
+   [39]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "エンジェルかいせつLevel５"
+     1 string NetaNameJP = "神の存在証明"
+     0 int netaGenre = 44
+     0 int netaName = 179
+     0 int getJouken = 31
+     0 int NetaType = 7
+     0 int level = 5
+   [40]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "やってみたLevel１"
+     1 string NetaNameJP = "ゴスロリきてみた！"
+     0 int netaGenre = 45
+     0 int netaName = 479
+     0 int getJouken = 5
+     0 int NetaType = 8
+     0 int level = 1
+   [41]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "やってみたLevel２"
+     1 string NetaNameJP = "アンチと戦ってみた"
+     0 int netaGenre = 46
+     0 int netaName = 490
+     0 int getJouken = 40
+     0 int NetaType = 8
+     0 int level = 2
+   [42]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "やってみたLevel３"
+     1 string NetaNameJP = "喉が枯れるまでうたってみた！"
+     0 int netaGenre = 47
+     0 int netaName = 504
+     0 int getJouken = 36
+     0 int NetaType = 8
+     0 int level = 3
+   [43]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "やってみたLevel４"
+     1 string NetaNameJP = "出会い系やってみた"
+     0 int netaGenre = 48
+     0 int netaName = 517
+     0 int getJouken = 39
+     0 int NetaType = 8
+     0 int level = 4
+   [44]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "やってみたLevel５"
+     1 string NetaNameJP = "最高のファンに会ってみた！"
+     0 int netaGenre = 49
+     0 int netaName = 533
+     0 int getJouken = 22
+     0 int NetaType = 8
+     0 int level = 5
+   [45]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "やみはいしんLevel１"
+     1 string NetaNameJP = "そうだね躁だね！"
+     0 int netaGenre = 50
+     0 int netaName = 234
+     0 int getJouken = 25
+     0 int NetaType = 9
+     0 int level = 1
+   [46]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "やみはいしんLevel２"
+     1 string NetaNameJP = "超てんちゃんのきもち"
+     0 int netaGenre = 51
+     0 int netaName = 245
+     0 int getJouken = 40
+     0 int NetaType = 9
+     0 int level = 2
+   [47]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "やみはいしんLevel３"
+     1 string NetaNameJP = "大事なお話"
+     0 int netaGenre = 52
+     0 int netaName = 256
+     0 int getJouken = 22
+     0 int NetaType = 9
+     0 int level = 3
+   [48]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "やみはいしんLevel４"
+     1 string NetaNameJP = "あがったりさがったり"
+     0 int netaGenre = 53
+     0 int netaName = 267
+     0 int getJouken = 29
+     0 int NetaType = 9
+     0 int level = 4
+   [49]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "やみはいしんLevel５"
+     1 string NetaNameJP = "わたしは100%伝説"
+     0 int netaGenre = 54
+     0 int netaName = 281
+     0 int getJouken = 30
+     0 int NetaType = 9
+     0 int level = 5
+   [50]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "★インターネットエンジェル１"
+     1 string NetaNameJP = "フォロワー１万人記念！"
+     0 int netaGenre = 55
+     0 int netaName = 644
+     0 int getJouken = 44
+     0 int NetaType = 11
+     0 int level = 1
+   [51]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "★インターネットエンジェル２"
+     1 string NetaNameJP = "フォロワー10万人記念！"
+     0 int netaGenre = 56
+     0 int netaName = 658
+     0 int getJouken = 44
+     0 int NetaType = 11
+     0 int level = 2
+   [52]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "★インターネットエンジェル３"
+     1 string NetaNameJP = "フォロワー25万人記念！"
+     0 int netaGenre = 57
+     0 int netaName = 675
+     0 int getJouken = 44
+     0 int NetaType = 11
+     0 int level = 3
+   [53]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "★インターネットエンジェル４"
+     1 string NetaNameJP = "フォロワー50万人記念！"
+     0 int netaGenre = 58
+     0 int netaName = 693
+     0 int getJouken = 44
+     0 int NetaType = 11
+     0 int level = 4
+   [54]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "★インターネットエンジェル５"
+     1 string NetaNameJP = "インターネット・エンジェル"
+     0 int netaGenre = 59
+     0 int netaName = 709
+     0 int getJouken = 44
+     0 int NetaType = 11
+     0 int level = 5
+   [55]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ウラ・インターネットエンジェル"
+     1 string NetaNameJP = "インターネット・エンジェル"
+     0 int netaGenre = 60
+     0 int netaName = 952
+     0 int getJouken = 44
+     0 int NetaType = 11
+     0 int level = 6
+   [56]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "はじめてのはいしん"
+     1 string NetaNameJP = "はじめまして"
+     0 int netaGenre = 0
+     0 int netaName = 0
+     0 int getJouken = 42
+     0 int NetaType = 11
+     0 int level = 0
+   [57]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "PR案件Level1"
+     1 string NetaNameJP = "【PR】新発売のジュースを 飲んじゃうよ！"
+     0 int netaGenre = 15
+     0 int netaName = 727
+     0 int getJouken = 42
+     0 int NetaType = 10
+     0 int level = 1
+   [58]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "PR案件Level2"
+     1 string NetaNameJP = "【PR】化粧配信をするよ！"
+     0 int netaGenre = 16
+     0 int netaName = 741
+     0 int getJouken = 36
+     0 int NetaType = 10
+     0 int level = 2
+   [59]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "PR案件Level3"
+     1 string NetaNameJP = "【PR】超てんちゃん 参戦！？"
+     0 int netaGenre = 17
+     0 int netaName = 754
+     0 int getJouken = 34
+     0 int NetaType = 10
+     0 int level = 3
+   [60]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "PR案件Level4"
+     1 string NetaNameJP = "【PR】超てんちゃんがフィギャーになります"
+     0 int netaGenre = 18
+     0 int netaName = 766
+     0 int getJouken = 22
+     0 int NetaType = 10
+     0 int level = 4
+   [61]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "PR案件Level5"
+     1 string NetaNameJP = "【PR】最強のビジネスを 紹介します！"
+     0 int netaGenre = 19
+     0 int netaName = 780
+     0 int getJouken = 40
+     0 int NetaType = 10
+     0 int level = 5
+   [62]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ダークネス"
+     1 string NetaNameJP = "大事な話をします"
+     0 int netaGenre = 125
+     0 int netaName = 622
+     0 int getJouken = 32
+     0 int NetaType = 12
+     0 int level = 1
+   [63]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = "ダークネス"
+     1 string NetaNameJP = "あ"
+     0 int netaGenre = 125
+     0 int netaName = 632
+     0 int getJouken = 32
+     0 int NetaType = 12
+     0 int level = 2
+   [64]
+    0 AlphaTypeToData data
+     1 string NetaGenreJP = ""
+     1 string NetaNameJP = ""
+     0 int netaGenre = 129
+     0 int netaName = 9999
+     0 int getJouken = 31
+     0 int NetaType = 3
+     0 int level = 6

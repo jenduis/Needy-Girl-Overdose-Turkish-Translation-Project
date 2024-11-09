@@ -1,0 +1,2336 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1551
+ 1 string m_Name = "icon_emoji_s"
+ 0 int hashCode = 1263837756
+ 0 PPtr<$Material> material
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 9
+ 0 int materialHashCode = 0
+ 1 string m_Version = "1.1.0"
+ 0 FaceInfo m_FaceInfo
+  0 int m_FaceIndex = 0
+  1 string m_FamilyName = ""
+  1 string m_StyleName = ""
+  0 int m_PointSize = 20
+  0 float m_Scale = 1
+  0 int m_UnitsPerEM = 0
+  0 float m_LineHeight = 0
+  0 float m_AscentLine = 20
+  0 float m_CapLine = 0
+  0 float m_MeanLine = 0
+  0 float m_Baseline = -2
+  0 float m_DescentLine = 2
+  0 float m_SuperscriptOffset = 0
+  0 float m_SuperscriptSize = 0
+  0 float m_SubscriptOffset = 0
+  0 float m_SubscriptSize = 0
+  0 float m_UnderlineOffset = 0
+  0 float m_UnderlineThickness = 0
+  0 float m_StrikethroughOffset = 0
+  0 float m_StrikethroughThickness = 0
+  0 float m_TabWidth = 0
+ 0 PPtr<$Texture> spriteSheet
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 102
+ 0 TMP_SpriteCharacter m_SpriteCharacterTable
+  1 Array Array (83 items)
+   0 int size = 83
+   [0]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 127873
+     0 unsigned int m_GlyphIndex = 0
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_0"
+     0 int m_HashCode = 1929782899
+   [1]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128153
+     0 unsigned int m_GlyphIndex = 1
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_1"
+     0 int m_HashCode = 1929782898
+   [2]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 127926
+     0 unsigned int m_GlyphIndex = 2
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_2"
+     0 int m_HashCode = 1929782897
+   [3]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128162
+     0 unsigned int m_GlyphIndex = 3
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_3"
+     0 int m_HashCode = 1929782896
+   [4]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128165
+     0 unsigned int m_GlyphIndex = 4
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_4"
+     0 int m_HashCode = 1929782903
+   [5]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128166
+     0 unsigned int m_GlyphIndex = 5
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_5"
+     0 int m_HashCode = 1929782902
+   [6]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128169
+     0 unsigned int m_GlyphIndex = 6
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_6"
+     0 int m_HashCode = 1929782901
+   [7]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128170
+     0 unsigned int m_GlyphIndex = 7
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_7"
+     0 int m_HashCode = 1929782900
+   [8]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128180
+     0 unsigned int m_GlyphIndex = 8
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_8"
+     0 int m_HashCode = 1929782907
+   [9]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 127882
+     0 unsigned int m_GlyphIndex = 9
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_9"
+     0 int m_HashCode = 1929782906
+   [10]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128074
+     0 unsigned int m_GlyphIndex = 10
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_10"
+     0 int m_HashCode = -741673854
+   [11]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128077
+     0 unsigned int m_GlyphIndex = 11
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_11"
+     0 int m_HashCode = -741673853
+   [12]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128158
+     0 unsigned int m_GlyphIndex = 12
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_12"
+     0 int m_HashCode = -741673856
+   [13]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128267
+     0 unsigned int m_GlyphIndex = 13
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_13"
+     0 int m_HashCode = -741673855
+   [14]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128578
+     0 unsigned int m_GlyphIndex = 14
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_14"
+     0 int m_HashCode = -741673850
+   [15]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128525
+     0 unsigned int m_GlyphIndex = 15
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_15"
+     0 int m_HashCode = -741673849
+   [16]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128557
+     0 unsigned int m_GlyphIndex = 16
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_16"
+     0 int m_HashCode = -741673852
+   [17]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128587
+     0 unsigned int m_GlyphIndex = 17
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_17"
+     0 int m_HashCode = -741673851
+   [18]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128591
+     0 unsigned int m_GlyphIndex = 18
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_18"
+     0 int m_HashCode = -741673846
+   [19]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 129323
+     0 unsigned int m_GlyphIndex = 19
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_19"
+     0 int m_HashCode = -741673845
+   [20]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 129326
+     0 unsigned int m_GlyphIndex = 20
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_20"
+     0 int m_HashCode = -741673823
+   [21]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 129402
+     0 unsigned int m_GlyphIndex = 21
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_21"
+     0 int m_HashCode = -741673824
+   [22]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 127830
+     0 unsigned int m_GlyphIndex = 22
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_22"
+     0 int m_HashCode = -741673821
+   [23]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 127856
+     0 unsigned int m_GlyphIndex = 23
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_23"
+     0 int m_HashCode = -741673822
+   [24]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 127872
+     0 unsigned int m_GlyphIndex = 24
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_24"
+     0 int m_HashCode = -741673819
+   [25]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 127881
+     0 unsigned int m_GlyphIndex = 25
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_25"
+     0 int m_HashCode = -741673820
+   [26]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128008
+     0 unsigned int m_GlyphIndex = 26
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_26"
+     0 int m_HashCode = -741673817
+   [27]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128021
+     0 unsigned int m_GlyphIndex = 27
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_27"
+     0 int m_HashCode = -741673818
+   [28]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128024
+     0 unsigned int m_GlyphIndex = 28
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_28"
+     0 int m_HashCode = -741673815
+   [29]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128039
+     0 unsigned int m_GlyphIndex = 29
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_29"
+     0 int m_HashCode = -741673816
+   [30]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128049
+     0 unsigned int m_GlyphIndex = 30
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_30"
+     0 int m_HashCode = -741673920
+   [31]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128054
+     0 unsigned int m_GlyphIndex = 31
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_31"
+     0 int m_HashCode = -741673919
+   [32]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128064
+     0 unsigned int m_GlyphIndex = 32
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_32"
+     0 int m_HashCode = -741673918
+   [33]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128082
+     0 unsigned int m_GlyphIndex = 33
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_33"
+     0 int m_HashCode = -741673917
+   [34]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128087
+     0 unsigned int m_GlyphIndex = 34
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_34"
+     0 int m_HashCode = -741673916
+   [35]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128151
+     0 unsigned int m_GlyphIndex = 35
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_35"
+     0 int m_HashCode = -741673915
+   [36]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128149
+     0 unsigned int m_GlyphIndex = 36
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_36"
+     0 int m_HashCode = -741673914
+   [37]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128150
+     0 unsigned int m_GlyphIndex = 37
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_37"
+     0 int m_HashCode = -741673913
+   [38]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128147
+     0 unsigned int m_GlyphIndex = 38
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_38"
+     0 int m_HashCode = -741673912
+   [39]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128514
+     0 unsigned int m_GlyphIndex = 39
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_39"
+     0 int m_HashCode = -741673911
+   [40]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128517
+     0 unsigned int m_GlyphIndex = 40
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_40"
+     0 int m_HashCode = -741673625
+   [41]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128518
+     0 unsigned int m_GlyphIndex = 41
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_41"
+     0 int m_HashCode = -741673626
+   [42]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128519
+     0 unsigned int m_GlyphIndex = 42
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_42"
+     0 int m_HashCode = -741673627
+   [43]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128536
+     0 unsigned int m_GlyphIndex = 43
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_43"
+     0 int m_HashCode = -741673628
+   [44]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128546
+     0 unsigned int m_GlyphIndex = 44
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_44"
+     0 int m_HashCode = -741673629
+   [45]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128549
+     0 unsigned int m_GlyphIndex = 45
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_45"
+     0 int m_HashCode = -741673630
+   [46]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128552
+     0 unsigned int m_GlyphIndex = 46
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_46"
+     0 int m_HashCode = -741673631
+   [47]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128561
+     0 unsigned int m_GlyphIndex = 47
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_47"
+     0 int m_HashCode = -741673632
+   [48]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128581
+     0 unsigned int m_GlyphIndex = 48
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_48"
+     0 int m_HashCode = -741673617
+   [49]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128582
+     0 unsigned int m_GlyphIndex = 49
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_49"
+     0 int m_HashCode = -741673618
+   [50]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 129300
+     0 unsigned int m_GlyphIndex = 50
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_50"
+     0 int m_HashCode = -741673722
+   [51]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 129318
+     0 unsigned int m_GlyphIndex = 51
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_51"
+     0 int m_HashCode = -741673721
+   [52]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 129321
+     0 unsigned int m_GlyphIndex = 52
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_52"
+     0 int m_HashCode = -741673724
+   [53]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 129335
+     0 unsigned int m_GlyphIndex = 53
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_53"
+     0 int m_HashCode = -741673723
+   [54]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 129416
+     0 unsigned int m_GlyphIndex = 54
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_54"
+     0 int m_HashCode = -741673726
+   [55]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 9757
+     0 unsigned int m_GlyphIndex = 55
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_55"
+     0 int m_HashCode = -741673725
+   [56]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 9996
+     0 unsigned int m_GlyphIndex = 56
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_56"
+     0 int m_HashCode = -741673728
+   [57]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 10024
+     0 unsigned int m_GlyphIndex = 57
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_57"
+     0 int m_HashCode = -741673727
+   [58]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128273
+     0 unsigned int m_GlyphIndex = 58
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_58"
+     0 int m_HashCode = -741673714
+   [59]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 9774
+     0 unsigned int m_GlyphIndex = 59
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_59"
+     0 int m_HashCode = -741673713
+   [60]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128131
+     0 unsigned int m_GlyphIndex = 60
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_60"
+     0 int m_HashCode = -741673691
+   [61]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 129392
+     0 unsigned int m_GlyphIndex = 61
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_61"
+     0 int m_HashCode = -741673692
+   [62]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128071
+     0 unsigned int m_GlyphIndex = 62
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_62"
+     0 int m_HashCode = -741673689
+   [63]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128563
+     0 unsigned int m_GlyphIndex = 63
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_63"
+     0 int m_HashCode = -741673690
+   [64]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 129315
+     0 unsigned int m_GlyphIndex = 64
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_64"
+     0 int m_HashCode = -741673695
+   [65]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128530
+     0 unsigned int m_GlyphIndex = 65
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_65"
+     0 int m_HashCode = -741673696
+   [66]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128566
+     0 unsigned int m_GlyphIndex = 66
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_66"
+     0 int m_HashCode = -741673693
+   [67]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128558
+     0 unsigned int m_GlyphIndex = 67
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_67"
+     0 int m_HashCode = -741673694
+   [68]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128524
+     0 unsigned int m_GlyphIndex = 68
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_68"
+     0 int m_HashCode = -741673683
+   [69]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 129322
+     0 unsigned int m_GlyphIndex = 69
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_69"
+     0 int m_HashCode = -741673684
+   [70]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128522
+     0 unsigned int m_GlyphIndex = 70
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_70"
+     0 int m_HashCode = -741673788
+   [71]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128079
+     0 unsigned int m_GlyphIndex = 71
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_71"
+     0 int m_HashCode = -741673787
+   [72]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128527
+     0 unsigned int m_GlyphIndex = 72
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_72"
+     0 int m_HashCode = -741673786
+   [73]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128553
+     0 unsigned int m_GlyphIndex = 73
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_73"
+     0 int m_HashCode = -741673785
+   [74]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128069
+     0 unsigned int m_GlyphIndex = 74
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_74"
+     0 int m_HashCode = -741673792
+   [75]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128556
+     0 unsigned int m_GlyphIndex = 75
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_75"
+     0 int m_HashCode = -741673791
+   [76]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128200
+     0 unsigned int m_GlyphIndex = 76
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_76"
+     0 int m_HashCode = -741673790
+   [77]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128293
+     0 unsigned int m_GlyphIndex = 77
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_77"
+     0 int m_HashCode = -741673789
+   [78]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 128520
+     0 unsigned int m_GlyphIndex = 78
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_78"
+     0 int m_HashCode = -741673780
+   [79]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 10084
+     0 unsigned int m_GlyphIndex = 79
+     0 float m_Scale = 1
+     1 string m_Name = "icon_emoji_s_79"
+     0 int m_HashCode = -741673779
+   [80]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 8205
+     0 unsigned int m_GlyphIndex = 80
+     0 float m_Scale = 0
+     1 string m_Name = "icon_emoji_s_80"
+     0 int m_HashCode = -741673493
+   [81]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 9792
+     0 unsigned int m_GlyphIndex = 80
+     0 float m_Scale = 0
+     1 string m_Name = "icon_emoji_s_80"
+     0 int m_HashCode = -741673493
+   [82]
+    0 TMP_SpriteCharacter data
+     1 UInt8 m_ElementType = 2
+     0 unsigned int m_Unicode = 65039
+     0 unsigned int m_GlyphIndex = 80
+     0 float m_Scale = 0
+     1 string m_Name = "icon_emoji_s_80"
+     0 int m_HashCode = -741673493
+ 0 TMP_SpriteGlyph m_SpriteGlyphTable
+  1 Array Array (81 items)
+   0 int size = 81
+   [0]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 0
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 0
+      0 int m_Y = 108
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 284
+   [1]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 1
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 18
+      0 int m_Y = 108
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 273
+   [2]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 2
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 36
+      0 int m_Y = 108
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 531
+   [3]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 3
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 54
+      0 int m_Y = 108
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 545
+   [4]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 4
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 72
+      0 int m_Y = 108
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 266
+   [5]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 5
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 90
+      0 int m_Y = 108
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 543
+   [6]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 6
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 108
+      0 int m_Y = 108
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 280
+   [7]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 7
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 126
+      0 int m_Y = 108
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 546
+   [8]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 8
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 144
+      0 int m_Y = 108
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 547
+   [9]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 9
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 162
+      0 int m_Y = 108
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 527
+   [10]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 10
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 180
+      0 int m_Y = 108
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 519
+   [11]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 11
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 198
+      0 int m_Y = 108
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 304
+   [12]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 12
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 0
+      0 int m_Y = 90
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 275
+   [13]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 13
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 18
+      0 int m_Y = 90
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 291
+   [14]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 14
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 36
+      0 int m_Y = 90
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 306
+   [15]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 15
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 54
+      0 int m_Y = 90
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 517
+   [16]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 16
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 72
+      0 int m_Y = 90
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 264
+   [17]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 17
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 90
+      0 int m_Y = 90
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 544
+   [18]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 18
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 108
+      0 int m_Y = 90
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 555
+   [19]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 19
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 126
+      0 int m_Y = 90
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 300
+   [20]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 20
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 144
+      0 int m_Y = 90
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 262
+   [21]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 21
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 162
+      0 int m_Y = 90
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 286
+   [22]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 22
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 180
+      0 int m_Y = 90
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 524
+   [23]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 23
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 198
+      0 int m_Y = 90
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 540
+   [24]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 24
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 0
+      0 int m_Y = 72
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 270
+   [25]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 25
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 18
+      0 int m_Y = 72
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 533
+   [26]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 26
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 36
+      0 int m_Y = 72
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 277
+   [27]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 27
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 54
+      0 int m_Y = 72
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 554
+   [28]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 28
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 72
+      0 int m_Y = 72
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 263
+   [29]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 29
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 90
+      0 int m_Y = 72
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 522
+   [30]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 30
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 108
+      0 int m_Y = 72
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 279
+   [31]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 31
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 126
+      0 int m_Y = 72
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 549
+   [32]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 32
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 144
+      0 int m_Y = 72
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 538
+   [33]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 33
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 162
+      0 int m_Y = 72
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 278
+   [34]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 34
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 180
+      0 int m_Y = 72
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 552
+   [35]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 35
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 198
+      0 int m_Y = 72
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 288
+   [36]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 36
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 0
+      0 int m_Y = 54
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 560
+   [37]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 37
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 18
+      0 int m_Y = 54
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 285
+   [38]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 38
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 36
+      0 int m_Y = 54
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 302
+   [39]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 39
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 54
+      0 int m_Y = 54
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 562
+   [40]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 40
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 72
+      0 int m_Y = 54
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 282
+   [41]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 41
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 90
+      0 int m_Y = 54
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 310
+   [42]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 42
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 108
+      0 int m_Y = 54
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 296
+   [43]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 43
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 126
+      0 int m_Y = 54
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 557
+   [44]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 44
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 144
+      0 int m_Y = 54
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 268
+   [45]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 45
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 162
+      0 int m_Y = 54
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 308
+   [46]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 46
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 180
+      0 int m_Y = 54
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 551
+   [47]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 47
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 198
+      0 int m_Y = 54
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 558
+   [48]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 48
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 0
+      0 int m_Y = 36
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 293
+   [49]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 49
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 18
+      0 int m_Y = 36
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 542
+   [50]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 50
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 36
+      0 int m_Y = 36
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 529
+   [51]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 51
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 54
+      0 int m_Y = 36
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 535
+   [52]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 52
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 72
+      0 int m_Y = 36
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 265
+   [53]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 53
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 90
+      0 int m_Y = 36
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 553
+   [54]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 54
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 108
+      0 int m_Y = 36
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 298
+   [55]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 55
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 126
+      0 int m_Y = 36
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 556
+   [56]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 56
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 144
+      0 int m_Y = 36
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 305
+   [57]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 57
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 162
+      0 int m_Y = 36
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 537
+   [58]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 58
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 180
+      0 int m_Y = 36
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 297
+   [59]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 59
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 198
+      0 int m_Y = 36
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 561
+   [60]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 60
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 0
+      0 int m_Y = 18
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 276
+   [61]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 61
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 18
+      0 int m_Y = 18
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 525
+   [62]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 62
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 36
+      0 int m_Y = 18
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 287
+   [63]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 63
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 54
+      0 int m_Y = 18
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 290
+   [64]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 64
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 72
+      0 int m_Y = 18
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 518
+   [65]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 65
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 90
+      0 int m_Y = 18
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 309
+   [66]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 66
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 108
+      0 int m_Y = 18
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 292
+   [67]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 67
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 126
+      0 int m_Y = 18
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 559
+   [68]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 68
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 144
+      0 int m_Y = 18
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 523
+   [69]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 69
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 162
+      0 int m_Y = 18
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 530
+   [70]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 70
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 180
+      0 int m_Y = 18
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 312
+   [71]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 71
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 198
+      0 int m_Y = 18
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 311
+   [72]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 72
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 0
+      0 int m_Y = 0
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 520
+   [73]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 73
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 18
+      0 int m_Y = 0
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 521
+   [74]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 74
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 36
+      0 int m_Y = 0
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 526
+   [75]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 75
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 54
+      0 int m_Y = 0
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 274
+   [76]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 76
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 72
+      0 int m_Y = 0
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 261
+   [77]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 77
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 90
+      0 int m_Y = 0
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 269
+   [78]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 78
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 108
+      0 int m_Y = 0
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 548
+   [79]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 79
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 18
+      0 float m_Height = 18
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 18
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 126
+      0 int m_Y = 0
+      0 int m_Width = 18
+      0 int m_Height = 18
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 528
+   [80]
+    0 TMP_SpriteGlyph data
+     0 unsigned int m_Index = 80
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 3
+      0 float m_Height = 3
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 1.5
+      0 float m_HorizontalAdvance = 20
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 147
+      0 int m_Y = 11
+      0 int m_Width = 3
+      0 int m_Height = 3
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+     0 PPtr<$Sprite> sprite
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 295
+ 0 TMP_Sprite spriteInfoList
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 vector fallbackSpriteAssets
+  1 Array Array (0 items)
+   0 int size = 0

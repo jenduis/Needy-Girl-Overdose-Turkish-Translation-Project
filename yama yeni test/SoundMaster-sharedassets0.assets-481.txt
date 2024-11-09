@@ -1,0 +1,2255 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 296
+ 1 string m_Name = "SoundMaster"
+ 0 Sound SoundList
+  1 Array Array (140 items)
+   0 int size = 140
+   [0]
+    0 Sound data
+     1 string Id = "BGM_endng_normal"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 100
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [1]
+    0 Sound data
+     1 string Id = "BGM_event_kincho"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 102
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [2]
+    0 Sound data
+     1 string Id = "BGM_InternetOverdose"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 96
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [3]
+    0 Sound data
+     1 string Id = "BGM_InternetOverdose8bit"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 79
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [4]
+    0 Sound data
+     1 string Id = "BGM_mainloop_emoarranged"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 112
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [5]
+    0 Sound data
+     1 string Id = "BGM_mainloop_gedarranged"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 95
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [6]
+    0 Sound data
+     1 string Id = "BGM_mainloop_happyarranged"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 136
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [7]
+    0 Sound data
+     1 string Id = "BGM_mainloop_kenjo"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 186
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [8]
+    0 Sound data
+     1 string Id = "BGM_mainloop_middle"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 169
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [9]
+    0 Sound data
+     1 string Id = "BGM_mainloop_normal"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 131
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [10]
+    0 Sound data
+     1 string Id = "BGM_mainloop_normaledarranged"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 113
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [11]
+    0 Sound data
+     1 string Id = "BGM_mainloop_shuban"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 206
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [12]
+    0 Sound data
+     1 string Id = "BGM_mainloop_yami"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 166
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [13]
+    0 Sound data
+     1 string Id = "BGM_OP_PV"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 148
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [14]
+    0 Sound data
+     1 string Id = "BGM_OP_PVshort"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 212
+     1 string Category = "BGM_LOUD"
+     0 int VolumeType = 0
+   [15]
+    0 Sound data
+     1 string Id = "BGM_chime"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 168
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [16]
+    0 Sound data
+     1 string Id = "BGM_ending_ginga"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 165
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [17]
+    0 Sound data
+     1 string Id = "BGM_ending_grand"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 127
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [18]
+    0 Sound data
+     1 string Id = "BGM_ending_ideon"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 197
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [19]
+    0 Sound data
+     1 string Id = "BGM_event_emo"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 156
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [20]
+    0 Sound data
+     1 string Id = "BGM_event_happy"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 101
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [21]
+    0 Sound data
+     1 string Id = "BGM_heartbeat"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 188
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [22]
+    0 Sound data
+     1 string Id = "BGM_horrornoise_A"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 191
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [23]
+    0 Sound data
+     1 string Id = "BGM_horrornoise_B"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 98
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [24]
+    0 Sound data
+     1 string Id = "BGM_internetoverdose_offvocal"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 211
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [25]
+    0 Sound data
+     1 string Id = "BGM_internetoverdose_offvocal_sabi"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 118
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [26]
+    0 Sound data
+     1 string Id = "BGM_Train"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 128
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [27]
+    0 Sound data
+     1 string Id = "BGM_wind"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 180
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [28]
+    0 Sound data
+     1 string Id = "BGM_zarazaranoise_lv1"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 146
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [29]
+    0 Sound data
+     1 string Id = "BGM_zarazaranoise_lv2"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 84
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [30]
+    0 Sound data
+     1 string Id = "BGM_zarazaranoise_lv3"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 183
+     1 string Category = "BGM_REGULAR"
+     0 int VolumeType = 1
+   [31]
+    0 Sound data
+     1 string Id = "BGM_ending_dead"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 161
+     1 string Category = "BGM_SMALL"
+     0 int VolumeType = 2
+   [32]
+    0 Sound data
+     1 string Id = "BGM_ending_kenjo"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 155
+     1 string Category = "BGM_SMALL"
+     0 int VolumeType = 2
+   [33]
+    0 Sound data
+     1 string Id = "BGM_event_yami"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 90
+     1 string Category = "BGM_SMALL"
+     0 int VolumeType = 2
+   [34]
+    0 Sound data
+     1 string Id = "CLICK_Click"
+     0 MusicTitle Music
+      1 string Id = "CLICK_Click"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "Click"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 130
+     1 string Category = "CLICK"
+     0 int VolumeType = 3
+   [35]
+    0 Sound data
+     1 string Id = "SE_Boot"
+     0 MusicTitle Music
+      1 string Id = "SE_Boot"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "Boot"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 111
+     1 string Category = "SE_LOUD"
+     0 int VolumeType = 0
+   [36]
+    0 Sound data
+     1 string Id = "SE_gagagagaga"
+     0 MusicTitle Music
+      1 string Id = "SE_gagagagaga"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "gagagagaga"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 204
+     1 string Category = "SE_LOUD"
+     0 int VolumeType = 0
+   [37]
+    0 Sound data
+     1 string Id = "SE_zugyaaaann"
+     0 MusicTitle Music
+      1 string Id = "SE_zugyaaaann"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "zugyaaaann"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 80
+     1 string Category = "SE_LOUD"
+     0 int VolumeType = 0
+   [38]
+    0 Sound data
+     1 string Id = "SE_BIOS_HDD"
+     0 MusicTitle Music
+      1 string Id = "SE_BIOS_HDD"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "BIOS_HDD"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 192
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [39]
+    0 Sound data
+     1 string Id = "SE_BIOS_piko"
+     0 MusicTitle Music
+      1 string Id = "SE_BIOS_piko"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "BIOS_piko"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 123
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [40]
+    0 Sound data
+     1 string Id = "SE_bluescreen"
+     0 MusicTitle Music
+      1 string Id = "SE_bluescreen"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "bluescreen"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 140
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [41]
+    0 Sound data
+     1 string Id = "SE_Boot_Caution"
+     0 MusicTitle Music
+      1 string Id = "SE_Boot_Caution"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "Boot_Caution"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 207
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [42]
+    0 Sound data
+     1 string Id = "SE_bugo"
+     0 MusicTitle Music
+      1 string Id = "SE_bugo"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "bugo"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 164
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [43]
+    0 Sound data
+     1 string Id = "SE_busuri"
+     0 MusicTitle Music
+      1 string Id = "SE_busuri"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "busuri"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 153
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [44]
+    0 Sound data
+     1 string Id = "SE_chari"
+     0 MusicTitle Music
+      1 string Id = "SE_chari"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "chari"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 196
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [45]
+    0 Sound data
+     1 string Id = "SE_charin"
+     0 MusicTitle Music
+      1 string Id = "SE_charin"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "charin"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 154
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [46]
+    0 Sound data
+     1 string Id = "SE_chime"
+     0 MusicTitle Music
+      1 string Id = "SE_chime"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "chime"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 109
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [47]
+    0 Sound data
+     1 string Id = "SE_chime_horror"
+     0 MusicTitle Music
+      1 string Id = "SE_chime_horror"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "chime_horror"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 151
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [48]
+    0 Sound data
+     1 string Id = "SE_click_error"
+     0 MusicTitle Music
+      1 string Id = "SE_click_error"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "click_error"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 181
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [49]
+    0 Sound data
+     1 string Id = "SE_command_execute"
+     0 MusicTitle Music
+      1 string Id = "SE_command_execute"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "command_execute"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 199
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [50]
+    0 Sound data
+     1 string Id = "SE_day_start"
+     0 MusicTitle Music
+      1 string Id = "SE_day_start"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "day_start"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 145
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [51]
+    0 Sound data
+     1 string Id = "SE_Dialog"
+     0 MusicTitle Music
+      1 string Id = "SE_Dialog"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "Dialog"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 93
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [52]
+    0 Sound data
+     1 string Id = "SE_dogogo"
+     0 MusicTitle Music
+      1 string Id = "SE_dogogo"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "dogogo"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 209
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [53]
+    0 Sound data
+     1 string Id = "SE_dosa"
+     0 MusicTitle Music
+      1 string Id = "SE_dosa"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "dosa"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 160
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [54]
+    0 Sound data
+     1 string Id = "SE_endHaishin"
+     0 MusicTitle Music
+      1 string Id = "SE_endHaishin"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "endHaishin"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 143
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [55]
+    0 Sound data
+     1 string Id = "SE_Error"
+     0 MusicTitle Music
+      1 string Id = "SE_Error"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "Error"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 171
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [56]
+    0 Sound data
+     1 string Id = "SE_faan"
+     0 MusicTitle Music
+      1 string Id = "SE_faan"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "faan"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 182
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [57]
+    0 Sound data
+     1 string Id = "SE_gamePlay"
+     0 MusicTitle Music
+      1 string Id = "SE_gamePlay"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "gamePlay"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 215
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [58]
+    0 Sound data
+     1 string Id = "SE_game_start"
+     0 MusicTitle Music
+      1 string Id = "SE_game_start"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "game_start"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 94
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [59]
+    0 Sound data
+     1 string Id = "SE_gosogoso"
+     0 MusicTitle Music
+      1 string Id = "SE_gosogoso"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "gosogoso"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 203
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [60]
+    0 Sound data
+     1 string Id = "SE_haisin_superchat"
+     0 MusicTitle Music
+      1 string Id = "SE_haisin_superchat"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "haisin_superchat"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 195
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [61]
+    0 Sound data
+     1 string Id = "SE_happydeai"
+     0 MusicTitle Music
+      1 string Id = "SE_happydeai"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "happydeai"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 125
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [62]
+    0 Sound data
+     1 string Id = "SE_heartbeat"
+     0 MusicTitle Music
+      1 string Id = "SE_heartbeat"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "heartbeat"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 144
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [63]
+    0 Sound data
+     1 string Id = "SE_horrornoise_A"
+     0 MusicTitle Music
+      1 string Id = "SE_horrornoise_A"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "horrornoise_A"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 121
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [64]
+    0 Sound data
+     1 string Id = "SE_horrornoise_B"
+     0 MusicTitle Music
+      1 string Id = "SE_horrornoise_B"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "horrornoise_B"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 187
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [65]
+    0 Sound data
+     1 string Id = "SE_ideonSound"
+     0 MusicTitle Music
+      1 string Id = "SE_ideonSound"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "ideonSound"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 138
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [66]
+    0 Sound data
+     1 string Id = "SE_jine_recieve"
+     0 MusicTitle Music
+      1 string Id = "SE_jine_recieve"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "jine_recieve"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 158
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [67]
+    0 Sound data
+     1 string Id = "SE_jine_send_stamp"
+     0 MusicTitle Music
+      1 string Id = "SE_jine_send_stamp"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "jine_send_stamp"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 141
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [68]
+    0 Sound data
+     1 string Id = "SE_kachan"
+     0 MusicTitle Music
+      1 string Id = "SE_kachan"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "kachan"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 185
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [69]
+    0 Sound data
+     1 string Id = "SE_kakiin"
+     0 MusicTitle Music
+      1 string Id = "SE_kakiin"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "kakiin"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 184
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [70]
+    0 Sound data
+     1 string Id = "SE_kakin"
+     0 MusicTitle Music
+      1 string Id = "SE_kakin"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "kakin"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 213
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [71]
+    0 Sound data
+     1 string Id = "SE_kari"
+     0 MusicTitle Music
+      1 string Id = "SE_kari"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "kari"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 139
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [72]
+    0 Sound data
+     1 string Id = "SE_kiin"
+     0 MusicTitle Music
+      1 string Id = "SE_kiin"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "kiin"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 210
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [73]
+    0 Sound data
+     1 string Id = "SE_kinkira"
+     0 MusicTitle Music
+      1 string Id = "SE_kinkira"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "kinkira"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 107
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [74]
+    0 Sound data
+     1 string Id = "SE_kirarin"
+     0 MusicTitle Music
+      1 string Id = "SE_kirarin"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "kirarin"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 194
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [75]
+    0 Sound data
+     1 string Id = "SE_kuraiSelect"
+     0 MusicTitle Music
+      1 string Id = "SE_kuraiSelect"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "kuraiSelect"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 124
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [76]
+    0 Sound data
+     1 string Id = "SE_LINE_Call"
+     0 MusicTitle Music
+      1 string Id = "SE_LINE_Call"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "LINE_Call"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 85
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [77]
+    0 Sound data
+     1 string Id = "SE_Log_In"
+     0 MusicTitle Music
+      1 string Id = "SE_Log_In"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "Log_In"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 193
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [78]
+    0 Sound data
+     1 string Id = "SE_Mail"
+     0 MusicTitle Music
+      1 string Id = "SE_Mail"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "Mail"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 97
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [79]
+    0 Sound data
+     1 string Id = "SE_nadenade_1"
+     0 MusicTitle Music
+      1 string Id = "SE_nadenade_1"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "nadenade_1"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 178
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [80]
+    0 Sound data
+     1 string Id = "SE_nadenade_2"
+     0 MusicTitle Music
+      1 string Id = "SE_nadenade_2"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "nadenade_2"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 177
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [81]
+    0 Sound data
+     1 string Id = "SE_Notification"
+     0 MusicTitle Music
+      1 string Id = "SE_Notification"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "Notification"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 115
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [82]
+    0 Sound data
+     1 string Id = "SE_Odekake_zazaza"
+     0 MusicTitle Music
+      1 string Id = "SE_Odekake_zazaza"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "Odekake_zazaza"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 201
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [83]
+    0 Sound data
+     1 string Id = "SE_per"
+     0 MusicTitle Music
+      1 string Id = "SE_per"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "per"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 92
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [84]
+    0 Sound data
+     1 string Id = "SE_per2"
+     0 MusicTitle Music
+      1 string Id = "SE_per2"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "per2"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 198
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [85]
+    0 Sound data
+     1 string Id = "SE_peropero"
+     0 MusicTitle Music
+      1 string Id = "SE_peropero"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "peropero"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 119
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [86]
+    0 Sound data
+     1 string Id = "SE_peroperoperp"
+     0 MusicTitle Music
+      1 string Id = "SE_peroperoperp"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "peroperoperp"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 142
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [87]
+    0 Sound data
+     1 string Id = "SE_pien"
+     0 MusicTitle Music
+      1 string Id = "SE_pien"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "pien"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 87
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [88]
+    0 Sound data
+     1 string Id = "SE_pill_degedege"
+     0 MusicTitle Music
+      1 string Id = "SE_pill_degedege"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "pill_degedege"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 216
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [89]
+    0 Sound data
+     1 string Id = "SE_pill_dokudoku"
+     0 MusicTitle Music
+      1 string Id = "SE_pill_dokudoku"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "pill_dokudoku"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 126
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [90]
+    0 Sound data
+     1 string Id = "SE_pill_guiiin"
+     0 MusicTitle Music
+      1 string Id = "SE_pill_guiiin"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "pill_guiiin"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 214
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [91]
+    0 Sound data
+     1 string Id = "SE_pill_poyoyoyo"
+     0 MusicTitle Music
+      1 string Id = "SE_pill_poyoyoyo"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "pill_poyoyoyo"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 99
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [92]
+    0 Sound data
+     1 string Id = "SE_pill_zarazara"
+     0 MusicTitle Music
+      1 string Id = "SE_pill_zarazara"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "pill_zarazara"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 149
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [93]
+    0 Sound data
+     1 string Id = "SE_piporo"
+     0 MusicTitle Music
+      1 string Id = "SE_piporo"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "piporo"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 103
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [94]
+    0 Sound data
+     1 string Id = "SE_pirodown"
+     0 MusicTitle Music
+      1 string Id = "SE_pirodown"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "pirodown"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 163
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [95]
+    0 Sound data
+     1 string Id = "SE_piyo"
+     0 MusicTitle Music
+      1 string Id = "SE_piyo"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "piyo"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 89
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [96]
+    0 Sound data
+     1 string Id = "SE_poko"
+     0 MusicTitle Music
+      1 string Id = "SE_poko"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "poko"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 217
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [97]
+    0 Sound data
+     1 string Id = "SE_pop_tooltip"
+     0 MusicTitle Music
+      1 string Id = "SE_pop_tooltip"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "pop_tooltip"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 190
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [98]
+    0 Sound data
+     1 string Id = "SE_pop_tutorial"
+     0 MusicTitle Music
+      1 string Id = "SE_pop_tutorial"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "pop_tutorial"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 208
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [99]
+    0 Sound data
+     1 string Id = "SE_purudown"
+     0 MusicTitle Music
+      1 string Id = "SE_purudown"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "purudown"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 82
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [100]
+    0 Sound data
+     1 string Id = "SE_renewal"
+     0 MusicTitle Music
+      1 string Id = "SE_renewal"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "renewal"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 134
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [101]
+    0 Sound data
+     1 string Id = "SE_result_start"
+     0 MusicTitle Music
+      1 string Id = "SE_result_start"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "result_start"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 83
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [102]
+    0 Sound data
+     1 string Id = "SE_sayonalast"
+     0 MusicTitle Music
+      1 string Id = "SE_sayonalast"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "sayonalast"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 117
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [103]
+    0 Sound data
+     1 string Id = "SE_serihu_sanjou_jp"
+     0 MusicTitle Music
+      1 string Id = "SE_serihu_sanjou_jp"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "serihu_sanjou_jp"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 200
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [104]
+    0 Sound data
+     1 string Id = "SE_serihu_sine_cn"
+     0 MusicTitle Music
+      1 string Id = "SE_serihu_sine_cn"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "serihu_sine_cn"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 150
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [105]
+    0 Sound data
+     1 string Id = "SE_serihu_sine_en"
+     0 MusicTitle Music
+      1 string Id = "SE_serihu_sine_en"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "serihu_sine_en"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 162
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [106]
+    0 Sound data
+     1 string Id = "SE_serihu_sine_jp"
+     0 MusicTitle Music
+      1 string Id = "SE_serihu_sine_jp"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "serihu_sine_jp"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 159
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [107]
+    0 Sound data
+     1 string Id = "SE_serihu_uhuhu"
+     0 MusicTitle Music
+      1 string Id = "SE_serihu_uhuhu"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "serihu_uhuhu"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 152
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [108]
+    0 Sound data
+     1 string Id = "SE_sippai"
+     0 MusicTitle Music
+      1 string Id = "SE_sippai"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "sippai"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 205
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [109]
+    0 Sound data
+     1 string Id = "SE_status_down"
+     0 MusicTitle Music
+      1 string Id = "SE_status_down"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "status_down"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 122
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [110]
+    0 Sound data
+     1 string Id = "SE_status_showdiff"
+     0 MusicTitle Music
+      1 string Id = "SE_status_showdiff"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "status_showdiff"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 137
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [111]
+    0 Sound data
+     1 string Id = "SE_status_up"
+     0 MusicTitle Music
+      1 string Id = "SE_status_up"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "status_up"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 135
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [112]
+    0 Sound data
+     1 string Id = "SE_stress_down"
+     0 MusicTitle Music
+      1 string Id = "SE_stress_down"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "stress_down"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 104
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [113]
+    0 Sound data
+     1 string Id = "SE_stress_up_lv1"
+     0 MusicTitle Music
+      1 string Id = "SE_stress_up_lv1"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "stress_up_lv1"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 129
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [114]
+    0 Sound data
+     1 string Id = "SE_stress_up_lv2"
+     0 MusicTitle Music
+      1 string Id = "SE_stress_up_lv2"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "stress_up_lv2"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 81
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [115]
+    0 Sound data
+     1 string Id = "SE_stress_up_lv3"
+     0 MusicTitle Music
+      1 string Id = "SE_stress_up_lv3"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "stress_up_lv3"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 202
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [116]
+    0 Sound data
+     1 string Id = "SE_takepill_lv1"
+     0 MusicTitle Music
+      1 string Id = "SE_takepill_lv1"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "takepill_lv1"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 176
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [117]
+    0 Sound data
+     1 string Id = "SE_takepill_lv2"
+     0 MusicTitle Music
+      1 string Id = "SE_takepill_lv2"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "takepill_lv2"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 147
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [118]
+    0 Sound data
+     1 string Id = "SE_takepill_lv3"
+     0 MusicTitle Music
+      1 string Id = "SE_takepill_lv3"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "takepill_lv3"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 114
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [119]
+    0 Sound data
+     1 string Id = "SE_takepill_lv4"
+     0 MusicTitle Music
+      1 string Id = "SE_takepill_lv4"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "takepill_lv4"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 86
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [120]
+    0 Sound data
+     1 string Id = "SE_Tetehen"
+     0 MusicTitle Music
+      1 string Id = "SE_Tetehen"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "Tetehen"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 91
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [121]
+    0 Sound data
+     1 string Id = "SE_Trash"
+     0 MusicTitle Music
+      1 string Id = "SE_Trash"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "Trash"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 120
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [122]
+    0 Sound data
+     1 string Id = "SE_tweet_change_top"
+     0 MusicTitle Music
+      1 string Id = "SE_tweet_change_top"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "tweet_change_top"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 78
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [123]
+    0 Sound data
+     1 string Id = "SE_tweet_kusorep"
+     0 MusicTitle Music
+      1 string Id = "SE_tweet_kusorep"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "tweet_kusorep"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 179
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [124]
+    0 Sound data
+     1 string Id = "SE_tweet_load"
+     0 MusicTitle Music
+      1 string Id = "SE_tweet_load"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "tweet_load"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 133
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [125]
+    0 Sound data
+     1 string Id = "SE_twitter"
+     0 MusicTitle Music
+      1 string Id = "SE_twitter"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "twitter"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 172
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [126]
+    0 Sound data
+     1 string Id = "SE_wind"
+     0 MusicTitle Music
+      1 string Id = "SE_wind"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "wind"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 88
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [127]
+    0 Sound data
+     1 string Id = "SE_window_close"
+     0 MusicTitle Music
+      1 string Id = "SE_window_close"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "window_close"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 108
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [128]
+    0 Sound data
+     1 string Id = "SE_wow"
+     0 MusicTitle Music
+      1 string Id = "SE_wow"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "wow"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 106
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [129]
+    0 Sound data
+     1 string Id = "SE_yokan"
+     0 MusicTitle Music
+      1 string Id = "SE_yokan"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "yokan"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 173
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [130]
+    0 Sound data
+     1 string Id = "SE_zarazaranoise_lv1"
+     0 MusicTitle Music
+      1 string Id = "SE_zarazaranoise_lv1"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "zarazaranoise_lv1"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 110
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [131]
+    0 Sound data
+     1 string Id = "SE_zarazaranoise_lv2"
+     0 MusicTitle Music
+      1 string Id = "SE_zarazaranoise_lv2"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "zarazaranoise_lv2"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 175
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [132]
+    0 Sound data
+     1 string Id = "SE_zarazaranoise_lv3"
+     0 MusicTitle Music
+      1 string Id = "SE_zarazaranoise_lv3"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "zarazaranoise_lv3"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 157
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [133]
+    0 Sound data
+     1 string Id = "SE_zubaba"
+     0 MusicTitle Music
+      1 string Id = "SE_zubaba"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "zubaba"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 132
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [134]
+    0 Sound data
+     1 string Id = "SE_zubasi"
+     0 MusicTitle Music
+      1 string Id = "SE_zubasi"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "zubasi"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 189
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [135]
+    0 Sound data
+     1 string Id = "SE_zubazuba"
+     0 MusicTitle Music
+      1 string Id = "SE_zubazuba"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "zubazuba"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 105
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [136]
+    0 Sound data
+     1 string Id = "SE_zugo"
+     0 MusicTitle Music
+      1 string Id = "SE_zugo"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "zugo"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 116
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [137]
+    0 Sound data
+     1 string Id = "SE_zugozugozugo"
+     0 MusicTitle Music
+      1 string Id = "SE_zugozugozugo"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "zugozugozugo"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 174
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [138]
+    0 Sound data
+     1 string Id = "SE_zusasa"
+     0 MusicTitle Music
+      1 string Id = "SE_zusasa"
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = "zusasa"
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 167
+     1 string Category = "SE_REGULAR"
+     0 int VolumeType = 1
+   [139]
+    0 Sound data
+     1 string Id = "BANK_bank"
+     0 MusicTitle Music
+      1 string Id = ""
+      0 int Index = 0
+      1 UInt8 IsPlayable = 0
+      1 string BodyJp = ""
+      1 string BodyEn = ""
+      1 string BodyCn = ""
+      1 string FileName = ""
+     0 PPtr<$AudioClip> Clip
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 170
+     1 string Category = "BANK"
+     0 int VolumeType = 0
+ 0 MusicTitle MusicTitleList
+  1 Array Array (0 items)
+   0 int size = 0

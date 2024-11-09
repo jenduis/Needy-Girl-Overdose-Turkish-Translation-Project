@@ -1,0 +1,171 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 656
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1413
+ 1 string m_Name = ""
+ 0 PPtr<$Transform> panelPrefab
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1275
+ 0 DebugUIPrefabBundle prefabs
+  1 Array Array (26 items)
+   0 int size = 26
+   [0]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+Value, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1313
+   [1]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+BoolField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1225
+   [2]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+IntField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1310
+   [3]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+UIntField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1314
+   [4]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+FloatField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1312
+   [5]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+EnumField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1240
+   [6]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+Button, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1273
+   [7]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+Foldout, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1216
+   [8]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+ColorField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1294
+   [9]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+Vector2Field, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1234
+   [10]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+Vector3Field, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1223
+   [11]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+Vector4Field, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1258
+   [12]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+VBox, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1276
+   [13]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+HBox, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1306
+   [14]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+Container, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1247
+   [15]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+BitField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1469
+   [16]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+HistoryBoolField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1206
+   [17]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+HistoryEnumField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1534
+   [18]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+Table, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1247
+   [19]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+Table+Row, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1217
+   [20]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+MessageBox, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1215
+   [21]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+ProgressBarValue, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1311
+   [22]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+ValueTuple, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1308
+   [23]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+ObjectField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1309
+   [24]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+ObjectListField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1241
+   [25]
+    0 DebugUIPrefabBundle data
+     1 string type = "UnityEngine.Rendering.DebugUI+ObjectPopupField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+     0 PPtr<$RectTransform> prefab
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 1430

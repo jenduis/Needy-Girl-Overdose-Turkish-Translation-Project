@@ -1,0 +1,144 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 772
+ 1 string m_Name = "AchievementDataStore"
+ 0 AchievementData achievementDatas
+  1 Array Array (33 items)
+   0 int size = 33
+   [0]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Grand"
+     0 int playStationTrophyID = 0
+   [1]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Needy"
+     0 int playStationTrophyID = 1
+   [2]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Happy"
+     0 int playStationTrophyID = 2
+   [3]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_NetShut"
+     0 int playStationTrophyID = 3
+   [4]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Sucide"
+     0 int playStationTrophyID = 4
+   [5]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Normal"
+     0 int playStationTrophyID = 5
+   [6]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Work"
+     0 int playStationTrophyID = 6
+   [7]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Yami"
+     0 int playStationTrophyID = 7
+   [8]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Bad"
+     0 int playStationTrophyID = 8
+   [9]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Meta"
+     0 int playStationTrophyID = 9
+   [10]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Av"
+     0 int playStationTrophyID = 10
+   [11]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Lust"
+     0 int playStationTrophyID = 11
+   [12]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Ntr"
+     0 int playStationTrophyID = 12
+   [13]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Stressful"
+     0 int playStationTrophyID = 13
+   [14]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Healthy"
+     0 int playStationTrophyID = 14
+   [15]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Common"
+     0 int playStationTrophyID = 15
+   [16]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Jine"
+     0 int playStationTrophyID = 16
+   [17]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Completed"
+     0 int playStationTrophyID = 17
+   [18]
+    0 AchievementData data
+     1 string steamAchievementID = "Haisin_Shuueki"
+     0 int playStationTrophyID = 18
+   [19]
+    0 AchievementData data
+     1 string steamAchievementID = "Haisin_Mokuhyou"
+     0 int playStationTrophyID = 19
+   [20]
+    0 AchievementData data
+     1 string steamAchievementID = "Command_Wrist"
+     0 int playStationTrophyID = 20
+   [21]
+    0 AchievementData data
+     1 string steamAchievementID = "Command_OD"
+     0 int playStationTrophyID = 21
+   [22]
+    0 AchievementData data
+     1 string steamAchievementID = "Command_Psyche"
+     0 int playStationTrophyID = 22
+   [23]
+    0 AchievementData data
+     1 string steamAchievementID = "Command_Weed"
+     0 int playStationTrophyID = 23
+   [24]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Sukisuki"
+     0 int playStationTrophyID = 24
+   [25]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_KowaiInternet"
+     0 int playStationTrophyID = 25
+   [26]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Kyouso"
+     0 int playStationTrophyID = 26
+   [27]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Yarisute"
+     0 int playStationTrophyID = 27
+   [28]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Jisatuhoujo"
+     0 int playStationTrophyID = 28
+   [29]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Megaten"
+     0 int playStationTrophyID = 29
+   [30]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_DarkAngel"
+     0 int playStationTrophyID = 30
+   [31]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Ginga"
+     0 int playStationTrophyID = 31
+   [32]
+    0 AchievementData data
+     1 string steamAchievementID = "Ending_Ideon"
+     0 int playStationTrophyID = 32

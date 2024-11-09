@@ -1,0 +1,55 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 520
+ 1 string m_Name = "TMP Settings"
+ 1 UInt8 m_enableWordWrapping = 0
+ 1 UInt8 m_enableKerning = 1
+ 1 UInt8 m_enableExtraPadding = 0
+ 1 UInt8 m_enableTintAllSprites = 0
+ 1 UInt8 m_enableParseEscapeCharacters = 1
+ 1 UInt8 m_EnableRaycastTarget = 1
+ 1 UInt8 m_GetFontFeaturesAtRuntime = 1
+ 0 int m_missingGlyphCharacter = 16777215
+ 1 UInt8 m_warningsDisabled = 1
+ 0 PPtr<$TMP_FontAsset> m_defaultFontAsset
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1579
+ 1 string m_defaultFontAssetPath = "Fonts & Materials/"
+ 0 float m_defaultFontSize = 36
+ 0 float m_defaultAutoSizeMinRatio = 0.5
+ 0 float m_defaultAutoSizeMaxRatio = 2
+ 0 Vector2 m_defaultTextMeshProTextContainerSize
+  0 float x = 20
+  0 float y = 5
+ 0 Vector2 m_defaultTextMeshProUITextContainerSize
+  0 float x = 200
+  0 float y = 50
+ 1 UInt8 m_autoSizeTextContainer = 0
+ 1 UInt8 m_IsTextObjectScaleStatic = 0
+ 0 vector m_fallbackFontAssets
+  1 Array Array (0 items)
+   0 int size = 0
+ 1 UInt8 m_matchMaterialPreset = 1
+ 0 PPtr<$TMP_SpriteAsset> m_defaultSpriteAsset
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1582
+ 1 string m_defaultSpriteAssetPath = "Sprite Assets/"
+ 1 UInt8 m_enableEmojiSupport = 1
+ 0 unsigned int m_MissingCharacterSpriteUnicode = 0
+ 1 string m_defaultColorGradientPresetsPath = "Color Gradient Presets/"
+ 0 PPtr<$TMP_StyleSheet> m_defaultStyleSheet
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1580
+ 1 string m_StyleSheetsResourcePath = ""
+ 0 PPtr<$TextAsset> m_leadingCharacters
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 227
+ 0 PPtr<$TextAsset> m_followingCharacters
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 228
+ 1 UInt8 m_UseModernHangulLineBreakingRules = 0

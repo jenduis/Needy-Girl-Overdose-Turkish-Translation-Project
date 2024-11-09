@@ -1,0 +1,40 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 673
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1101
+ 1 string m_Name = ""
+ 0 Color colorDefault
+  0 float r = 0.8
+  0 float g = 0.8
+  0 float b = 0.8
+  0 float a = 1
+ 0 Color colorSelected
+  0 float r = 0.25
+  0 float g = 0.65
+  0 float b = 0.8
+  0 float a = 1
+ 0 PPtr<$Text> nameLabel
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1645
+ 0 PPtr<$UIFoldout> valueToggle
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1731
+ 0 PPtr<$Image> colorImage
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1732
+ 0 PPtr<$DebugUIHandlerIndirectFloatField> fieldR
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1764
+ 0 PPtr<$DebugUIHandlerIndirectFloatField> fieldG
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1590
+ 0 PPtr<$DebugUIHandlerIndirectFloatField> fieldB
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1748
+ 0 PPtr<$DebugUIHandlerIndirectFloatField> fieldA
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1660

@@ -1,0 +1,79 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 302
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 684
+ 1 string m_Name = ""
+ 0 LanguageFontData _fontDatas
+  1 Array Array (8 items)
+   0 int size = 8
+   [0]
+    0 LanguageFontData data
+     0 int _targetLanguage = 1
+     0 PPtr<$TMP_FontAsset> _languageFont
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 665
+     0 float _fontSize = 20
+     0 float _fontSpace = 0
+   [1]
+    0 LanguageFontData data
+     0 int _targetLanguage = 2
+     0 PPtr<$TMP_FontAsset> _languageFont
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 663
+     0 float _fontSize = 20
+     0 float _fontSpace = 0
+   [2]
+    0 LanguageFontData data
+     0 int _targetLanguage = 4
+     0 PPtr<$TMP_FontAsset> _languageFont
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 663
+     0 float _fontSize = 20
+     0 float _fontSpace = 0
+   [3]
+    0 LanguageFontData data
+     0 int _targetLanguage = 3
+     0 PPtr<$TMP_FontAsset> _languageFont
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 664
+     0 float _fontSize = 17
+     0 float _fontSpace = 0
+   [4]
+    0 LanguageFontData data
+     0 int _targetLanguage = 10
+     0 PPtr<$TMP_FontAsset> _languageFont
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 663
+     0 float _fontSize = 20
+     0 float _fontSpace = 0
+   [5]
+    0 LanguageFontData data
+     0 int _targetLanguage = 7
+     0 PPtr<$TMP_FontAsset> _languageFont
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 665
+     0 float _fontSize = 20
+     0 float _fontSpace = 0
+   [6]
+    0 LanguageFontData data
+     0 int _targetLanguage = 8
+     0 PPtr<$TMP_FontAsset> _languageFont
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 665
+     0 float _fontSize = 20
+     0 float _fontSpace = 0
+   [7]
+    0 LanguageFontData data
+     0 int _targetLanguage = 0
+     0 PPtr<$TMP_FontAsset> _languageFont
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 665
+     0 float _fontSize = 16
+     0 float _fontSpace = 0
+ 0 PPtr<$TMPStencilSetter> tMPStencil
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 685

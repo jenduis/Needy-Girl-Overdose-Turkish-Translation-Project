@@ -1,0 +1,222 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2866
+ 1 string m_Name = "FlightPedals"
+ 1 string controllerName = "Flight Pedals"
+ 1 string description = ""
+ 1 string templateGuid = "f6fe76f8-be2a-4db2-b853-9e3652075913"
+ 1 string className = "FlightPedalsTemplate"
+ 0 ControllerTemplateElementIdentifier_Editor elementIdentifiers
+  1 Array Array (3 items)
+   0 int size = 3
+   [0]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 0
+     1 string _name = "Left Pedal"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 0
+     1 string _scriptingName = "leftPedal"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [1]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 1
+     1 string _name = "Right Pedal"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 0
+     1 string _scriptingName = "rightPedal"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+   [2]
+    0 ControllerTemplateElementIdentifier_Editor data
+     0 int _id = 2
+     1 string _name = "Slide"
+     1 string _positiveName = ""
+     1 string _negativeName = ""
+     0 int _elementType = 0
+     1 string _scriptingName = "slide"
+     1 string _alternateScriptingName = ""
+     1 UInt8 _excludeFromExport = 0
+     1 UInt8 _useEditorElementTypeOverride = 0
+     0 int _editorElementTypeOverride = 0
+ 0 Entry joysticks
+  1 Array Array (6 items)
+   0 int size = 6
+   [0]
+    0 Entry data
+     0 int id = 0
+     1 string name = "CH Pro Pedals"
+     1 string joystickGuid = "3049c96e-9ffd-4088-a136-e92a4d92e2b1"
+     1 string fileGuid = "e2743c5f596f9ab488ff7c94afdda17e"
+     0 ElementIdentifierMap elementIdentifierMappings
+      1 Array Array (3 items)
+       0 int size = 3
+       [0]
+        0 ElementIdentifierMap data
+         0 int templateId = 0
+         0 int joystickId = 0
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [1]
+        0 ElementIdentifierMap data
+         0 int templateId = 1
+         0 int joystickId = 1
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [2]
+        0 ElementIdentifierMap data
+         0 int templateId = 2
+         0 int joystickId = 2
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+   [1]
+    0 Entry data
+     0 int id = 1
+     1 string name = "Saitek Pro Flight Rudder Pedals"
+     1 string joystickGuid = "01665f95-8b2d-42d0-8d54-3bc9b0d16b1d"
+     1 string fileGuid = "7bd31b74388e3cd4c982edd4c543be55"
+     0 ElementIdentifierMap elementIdentifierMappings
+      1 Array Array (3 items)
+       0 int size = 3
+       [0]
+        0 ElementIdentifierMap data
+         0 int templateId = 0
+         0 int joystickId = 0
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [1]
+        0 ElementIdentifierMap data
+         0 int templateId = 1
+         0 int joystickId = 1
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [2]
+        0 ElementIdentifierMap data
+         0 int templateId = 2
+         0 int joystickId = 2
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+   [2]
+    0 Entry data
+     0 int id = 2
+     1 string name = "Thrustmaster TWCS Throttle"
+     1 string joystickGuid = "f3506772-fad6-4917-b7ef-581bee2159d7"
+     1 string fileGuid = "05c3d0c75cbd74947a8e2b366e776b68"
+     0 ElementIdentifierMap elementIdentifierMappings
+      1 Array Array (3 items)
+       0 int size = 3
+       [0]
+        0 ElementIdentifierMap data
+         0 int templateId = 0
+         0 int joystickId = 5
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [1]
+        0 ElementIdentifierMap data
+         0 int templateId = 1
+         0 int joystickId = 6
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [2]
+        0 ElementIdentifierMap data
+         0 int templateId = 2
+         0 int joystickId = 7
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+   [3]
+    0 Entry data
+     0 int id = 3
+     1 string name = "Thrustmaster T.Flight Rudder Pedals"
+     1 string joystickGuid = "bdd20bc1-5619-4361-91e0-d652ce750d73"
+     1 string fileGuid = "e7867d47a3411394e9969cd4a82bfe79"
+     0 ElementIdentifierMap elementIdentifierMappings
+      1 Array Array (3 items)
+       0 int size = 3
+       [0]
+        0 ElementIdentifierMap data
+         0 int templateId = 0
+         0 int joystickId = 0
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [1]
+        0 ElementIdentifierMap data
+         0 int templateId = 1
+         0 int joystickId = 1
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [2]
+        0 ElementIdentifierMap data
+         0 int templateId = 2
+         0 int joystickId = 2
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+   [4]
+    0 Entry data
+     0 int id = 4
+     1 string name = "Thrustmaster T.Flight HOTAS 4"
+     1 string joystickGuid = "ee5daca0-3791-45d2-b979-bbbfdf5085f8"
+     1 string fileGuid = "495ca4e700b67094da44a69256bf8938"
+     0 ElementIdentifierMap elementIdentifierMappings
+      1 Array Array (3 items)
+       0 int size = 3
+       [0]
+        0 ElementIdentifierMap data
+         0 int templateId = 0
+         0 int joystickId = 25
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [1]
+        0 ElementIdentifierMap data
+         0 int templateId = 1
+         0 int joystickId = 26
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [2]
+        0 ElementIdentifierMap data
+         0 int templateId = 2
+         0 int joystickId = 27
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+   [5]
+    0 Entry data
+     0 int id = 5
+     1 string name = "Sony PS4 Flight Stick"
+     1 string joystickGuid = "a75d195b-27a8-41ac-97db-2bd5a649a817"
+     1 string fileGuid = "22d64389a3ac78245a2d54f8ae889fb3"
+     0 ElementIdentifierMap elementIdentifierMappings
+      1 Array Array (3 items)
+       0 int size = 3
+       [0]
+        0 ElementIdentifierMap data
+         0 int templateId = 0
+         0 int joystickId = 11
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [1]
+        0 ElementIdentifierMap data
+         0 int templateId = 1
+         0 int joystickId = 12
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+       [2]
+        0 ElementIdentifierMap data
+         0 int templateId = 2
+         0 int joystickId = 10
+         0 int joystickId2 = 0
+         1 UInt8 splitAxis = 0
+ 0 SpecialElementEntry specialElements
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 int elementIdentifierIdCounter = 3
+ 0 int joystickIdCounter = 6
